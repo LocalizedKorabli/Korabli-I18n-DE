@@ -898,7 +898,7 @@ msgid "IDS_ACCOUNT_COMPLETION_START_HEADER"
 msgstr "Erstellen Sie ein Konto bei „Leste“ und erhalten Sie eine Belohnung"
 
 msgid "IDS_ACCOUNT_COMPLETION_TAKE_REWARD"
-msgstr "Belohnungen abholen?"
+msgstr "Belohnungen abholen"
 
 msgid "IDS_ACCOUNT_COMPLETION_TOOLTIP_SUBTEXT"
 msgstr "Erstellen Sie ein Konto bei „Leste“ und erhalten Sie eine Belohnung."
@@ -1390,7 +1390,7 @@ msgid "IDS_ACHIEVEMENT_COLLECTION_OVECHKIN_COMPLETED"
 msgstr "Die Große Acht"
 
 msgid "IDS_ACHIEVEMENT_COLLECTION_VIVELAFRANCE_COMPLETED"
-msgstr "\"Vive la France\""
+msgstr "Vive la France"
 
 msgid "IDS_ACHIEVEMENT_COLLECTION_YAMAMOTO_COMPLETED"
 msgstr "Yamamoto Isoroku"
@@ -5653,7 +5653,7 @@ msgid "IDS_ARCHIVE_TITLE"
 msgstr "Verteidigung der Arktis"
 
 msgid "IDS_ARC_EVENT_CHANGE_SIDE_IN_NEXT_SPRINT"
-msgstr "Sie können im nächsten Abschnitt ein anderes Team wählen. Jede Phase dauert eine Woche."
+msgstr "Sie können im nächsten Abschnitt ein anderes Team wählen"
 
 msgid "IDS_ARC_EVENT_CHOOSE_SIDE_BUTTON"
 msgstr "Aufbrechen"
@@ -5695,13 +5695,13 @@ msgid "IDS_ARC_EVENT_COMMON_SIDE_3"
 msgstr "Dardo e Folgore"
 
 msgid "IDS_ARC_EVENT_COMMON_SIDE_DESCRIPTION_0"
-msgstr "Im Osten und Süden Chinas liegt das Königreich Wu, regiert von einem jungen, aber erfahrenen Führer Sun Quan. Seine Schwester Sun Shangxiang wurde die Frau des Herrschers von Shu."
+msgstr "„Fürchte nicht das langsame Vorankommen, sondern das Stillstehen“"
 
 msgid "IDS_ARC_EVENT_COMMON_SIDE_DESCRIPTION_1"
-msgstr "Der Gründer des nördlichen Königreichs Wei war der Feldherr und Staatsmann Cao Cao, der das alte Reich de facto in seinem Niedergang regierte."
+msgstr "„Jeder Speer zählt. Wer strauchelt, muss doppelt aufholen“"
 
 msgid "IDS_ARC_EVENT_COMMON_SIDE_DESCRIPTION_2"
-msgstr "Liu Bei, der Gründer des Königreichs Shu im Westen Chinas, bezeichnete sich selbst als legitimen Erben der alten Dynastie. Seine Frau war Sun Shangxiang, die Schwester des Herrschers des Königreichs Wu."
+msgstr "„Eine Stunde Zögern kostet den Thron“"
 
 msgid "IDS_ARC_EVENT_COMMON_SIDE_DESCRIPTION_3"
 msgstr "Die Namen aller Schiffe in diesem Team können aus dem Italienischen mit „Pfeil“ oder „Blitz“ übersetzt werden."
@@ -5725,13 +5725,12 @@ msgid "IDS_ARC_EVENT_COMMON_STATUS_PRIMETIME_STARTS_IN_SHORT"
 msgstr "Zeit bis Beginn: %(_timeStart)s"
 
 msgid "IDS_ARC_EVENT_CONFIRM_SIDE_CALL_TO_ACTION"
-msgstr "Auswählen?"
+msgstr "Aufbrechen?"
 
 msgid "IDS_ARC_EVENT_DIFFICULTY_LEVEL_SCORES"
-msgstr ""
-"<pl><p>Erreichen Sie\n"
-"<span class=\"bold\">%(_score)s PUNKT</span></p></pl><pl><p>Erreichen Sie\n"
-"<span class=\"bold\">%(_score)s PUNKTE</span></p></pl>"
+msgid_plural "IDS_ARC_EVENT_DIFFICULTY_LEVEL_SCORES"
+msgstr[0] "<p>Erreichen Sie<br><span class=\"bold\">%(_score)s PUNKT</span></p>"
+msgstr[1] "<p>Erreichen Sie<br><span class=\"bold\">%(_score)s PUNKTE</span></p>"
 
 msgid "IDS_ARC_EVENT_END_DAY_RESTRICTION"
 msgstr ""
@@ -7531,7 +7530,7 @@ msgid "IDS_BATTLEPASS_LEVEL_RECEIVED"
 msgstr "Stufe erreicht"
 
 msgid "IDS_BATTLEPASS_LEVEL_STATUS_LOCKED"
-msgstr "Aún no has alcanzado este nivel"
+msgstr "Die erforderliche Stufe haben Sie noch nicht erreicht"
 
 msgid "IDS_BATTLEPASS_ONBOARDING_BUTTON_MAIN"
 msgstr "Los"
@@ -7572,9 +7571,6 @@ msgstr "Sie können die Premiumpass-Belohnungen für bereits erreichte Stufen au
 msgid "IDS_BATTLEPASS_PAID_TYPE_PROMO_REWARDS_SINGLE"
 msgstr "Sie erhalten alle einzelnen Premiumpass-Belohnungen für bereits erreichte Stufen:"
 
-msgid "IDS_BATTLEPASS_PURCHASE_BUTTON"
-msgstr "Kaufen"
-
 msgid "IDS_BATTLEPASS_PURCHASE_BUTTON_BONUSES"
 msgstr "Boni kaufen"
 
@@ -7591,9 +7587,7 @@ msgid "IDS_BATTLEPASS_PURCHASE_FREE_TEXT_2"
 msgstr "Freipass-Aufträge"
 
 msgid "IDS_BATTLEPASS_PURCHASE_GOLD_TEXT"
-msgstr ""
-"Sie können Pakete mit Gold kaufen,\n"
-"um den Premiumpass und saisonale Boni zu erhalten."
+msgstr "Gold für den Kauf des Premiumpasses und saisonaler Boni"
 
 msgid "IDS_BATTLEPASS_PURCHASE_LEVELS_INFO"
 msgstr "Sie können die Belohnungen für die gekauften Stufen sofort nach dem Kauf abholen"
@@ -7641,7 +7635,7 @@ msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_CREW_RETRAIN_GOLD"
 msgstr "Umschulung von Kapitänen für Gold"
 
 msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_EVENTUM_2"
-msgstr "Man kann Gedenkmünzen erhalten"
+msgstr "Man kann Flottenmarken erhalten"
 
 msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_FIRST_WIN_XP_COEF"
 msgstr "Täglicher Siegbonus"
@@ -7753,13 +7747,10 @@ msgid "IDS_BATTLEPASS_SPLASH_SCREEN_TITLE"
 msgstr "Elite-Handbuch für Kapitäne"
 
 msgid "IDS_BATTLEPASS_STATUS_BUTTON_BOOST"
-msgstr "Schnellerer Fortschritt"
-
-msgid "IDS_BATTLEPASS_STATUS_BUTTON_BOOST_TOOLTIP"
-msgstr "Eine Beschleunigung des Fortschritts ist nach Erreichen der Zusatzstufe nicht mehr möglich."
+msgstr "Stufen kaufen"
 
 msgid "IDS_BATTLEPASS_STATUS_BUTTON_CLAIM_REWARDS"
-msgstr "Belohnungen abholen?"
+msgstr "Belohnungen abholen"
 
 msgid "IDS_BATTLEPASS_STATUS_BUTTON_IMPROVEMENT"
 msgstr "Pass-Upgrade"
@@ -8208,7 +8199,7 @@ msgid "IDS_BATTLE_STATS_ASSIST_DAMAGE_BY_SMOKE_HINT"
 msgstr "Schaden, den Verbündete unter dem Schutz Ihrer Nebelwände verursacht haben"
 
 msgid "IDS_BATTLE_STATS_ASSIST_DAMAGE_HINT"
-msgstr "Gesamter Schaden, den Sie unterstützt haben"
+msgstr "Gesamtschaden, den Sie unterstützt haben"
 
 msgid "IDS_BATTLE_STATS_ATBA_AMMO0"
 msgstr "Erster Granatentyp"
@@ -8688,13 +8679,13 @@ msgid "IDS_BATTLE_STATS_TAKEN_MAIN_HE_SHORT"
 msgstr "Hauptbatterie HE"
 
 msgid "IDS_BATTLE_STATS_TAKEN_SECONDARY_AP_SHORT"
-msgstr "Sekundärbatterie AP"
+msgstr "Mittelkaliber AP"
 
 msgid "IDS_BATTLE_STATS_TAKEN_SECONDARY_CS_SHORT"
-msgstr "Sekundärbatterie SAP"
+msgstr "Mittelkaliber SAP"
 
 msgid "IDS_BATTLE_STATS_TAKEN_SECONDARY_HE_SHORT"
-msgstr "Sekundärbatterie HE"
+msgstr "Mittelkaliber HE"
 
 msgid "IDS_BATTLE_STATS_TAKEN_TILL_BATTLE"
 msgstr "Erhalten für das Gefecht"
@@ -10077,9 +10068,6 @@ msgstr "Nach Schiffsnamen filtern"
 
 msgid "IDS_CAROUSEL_APPLIED_FILTER_HINT_SHIPTYPE"
 msgstr "Nach Schiffstyp filtern"
-
-msgid "IDS_CAROUSEL_APPLIED_FILTER_HINT_SPECIAL"
-msgstr "Nach Kategorie „Spezial“ filtern"
 
 msgid "IDS_CAROUSEL_BRAWLBATTLE_FILTER"
 msgstr "Für Keilerei geeignete Schiffe filtern"
@@ -11471,9 +11459,6 @@ msgstr "Zusätzliche EP durch Clanbonus"
 
 msgid "IDS_CLAN_UNLOCKED_DIVISION"
 msgstr "Die Clankameraden des Divisionskommandanten können ohne Einladung in die Division."
-
-msgid "IDS_CLASS"
-msgstr "Typ"
 
 msgid "IDS_CLASS_AA_GOOD"
 msgstr "Hohe Effizienz der Flugabwehr"
@@ -13341,9 +13326,6 @@ msgstr "Zurücksetzen"
 msgid "IDS_COMPENDIUM_RESET_COMPLETE"
 msgstr "Einstellungen zurückgesetzt"
 
-msgid "IDS_COMPENDIUM_UNIFIED_STATUS_PRIMARY"
-msgstr "Das Schiff ist das wichtigste"
-
 msgid "IDS_COMPENDIUM_UNIFIED_STATUS_SHIP_IN_GROUP"
 msgstr "Schiff in der Gruppe"
 
@@ -13809,7 +13791,7 @@ msgid "IDS_CONTEXT_TUTORIAL_SUBMARINE_PERISCOPE"
 msgstr "Auf Sehrohrtiefe wird keine Tauchkapazität verbraucht, das Hydrofon ist ständig aktiv, aber Geschwindigkeit und Sichtweite sind verringert"
 
 msgid "IDS_CONTEXT_TUTORIAL_SUBMARINE_WORKING"
-msgstr "Auf der Arbeitstiefe hat das U-Boot eine hohe Geschwindigkeit, das Hydrofon ist ständig aktiv, aber die Sichtbarkeit von Schiffen ist stark reduziert."
+msgstr "Auf der Einsatztiefe hat das U-Boot eine hohe Geschwindigkeit, das Hydrofon ist ständig aktiv, aber die Sichtbarkeit von Schiffen ist stark reduziert."
 
 msgid "IDS_CONTEXT_TUTORIAL_USE_DC_AGAINST_MINES"
 msgstr "Zerstören Sie Minen mit Wasserbomben."
@@ -21110,28 +21092,28 @@ msgid "IDS_CURRENCY_EVENTUM_1_STATUS"
 msgstr "Temporäre Ressource des Portal-Events „Projekt Oregon“. Mit Release von Update 26.8 wird sie ohne Vergütung entfernt."
 
 msgid "IDS_CURRENCY_EVENTUM_2"
-msgstr "Andenkenmarken"
+msgstr "Flottenmarken"
 
 msgid "IDS_CURRENCY_EVENTUM_2_GET_DESCRIPTION"
-msgstr "Für die Ausführung von Aufgaben des Events \"Verteidigung der Arktis\" innerhalb der begrenzten Zeit im Update 26.5 und aus den Waffenkammer bis zum Ende des Updates 26.5."
+msgstr "Erhältlich durch das Abschließen von Kampfaufträgen für eine begrenzte Zeit in Update 26.7 sowie aus Paketen in der Waffenkammer bis zum Ende von Update 26.7."
 
 msgid "IDS_CURRENCY_EVENTUM_2_SPEND_DESCRIPTION"
-msgstr "Zur Eröffnung von Karten mit Belohnungen, darunter das Schlachtschiff der Stufe IX „Ural“ mit der permanenten Tarnung „Geistesstärke“, das Schlachtschiff der Stufe V „Parischskaja kommuna“ mit der permanenten Tarnung „Sieg der Ehre“, elite und seltene Kommandantenhandbücher, Premiumcontainer „Ruhm den Siegern!“ und „Sowjetisches Geschwader“ sowie andere Gegenstände bis zum Ende des Updates 26.5."
+msgstr "Mit Ende von Update 26.7 eintauschbar für Zufallsbündel mit dem Stufe-X-Schlachtschiff „Krasnoje Znamja“ und den permanenten Tarnungen „Glanzvoll“ für die „Krasnoje Znamja“ und den Stufe-IX-Kreuzer „Schtscherbakow“, für die permanente Tarnung „Stolz der Flotte“ für den Stufe-X-Kreuzer Shenandoah, für Premiumcontainer „Maritimes Feier“ sowie für andere Gegenstände."
 
 msgid "IDS_CURRENCY_EVENTUM_2_STATUS"
-msgstr "Temporäre Ressource. Mit der Veröffentlichung von Update 26.6 werden die Marken ohne Entschädigung gelöscht."
+msgstr "Temporäre Ressource. Mit der Veröffentlichung von Update 26.8 werden die Marken ohne Entschädigung gelöscht."
 
 msgid "IDS_CURRENCY_EVENTUM_3"
-msgstr "Panamerikanische Marken"
+msgstr "Amerikanische Marken"
 
 msgid "IDS_CURRENCY_EVENTUM_3_GET_DESCRIPTION"
-msgstr "Für das Abschließen von Kampfaufträgen bis zum Ende von Update 26.4, sowie aus Paketen in der Waffenkammer bis zum Ende von Update 26.5."
+msgstr "Für das Abschließen von Kampfaufträgen bis zum Ende von Update 26.7, sowie aus Paketen in der Waffenkammer bis zum Ende von Update 26.8."
 
 msgid "IDS_CURRENCY_EVENTUM_3_SPEND_DESCRIPTION"
-msgstr "Für das Auffüllen der Fortschrittsleiste zum Erhalt von Schiffen des frühen Zugangs der Stufen VII–X (Acre, Carvajal, Pará, Nueva Esparta) und des Super-Schiffs 20 de Julio sowie der Premium-Container „Pan-Amerika-Geschwader“ und anderer Gegenstände bis zum Ende des Updates 26.5."
+msgstr "Gegen sequenzielle Pakete mit dem Schlachtschiff der Stufe X New Jersey mit frühem Zugang, Premiumcontainern „Vorabzugang“, permanenten Tarnungen „Wellenschimmer“ und „Mondschein“ für New Jersey und das Super-Schlachtschiff Virginia und Bonuspakete für Schiffe mit frühem Zugang der Stufen VIII–X und einem Superschiff, sowie gegen andere Gegenstände bis zum Ende von Update 26.8."
 
 msgid "IDS_CURRENCY_EVENTUM_3_STATUS"
-msgstr "Temporäre Ressource des Events „Panamerikanische Zerstörer“. Mit der Veröffentlichung von Update 26.6 werden die Marken ohne Vergütung entfernt."
+msgstr "Temporäre Ressource des Events „US-Schlachtschiffe“. Mit der Veröffentlichung von Update 26.9 werden die Marken ohne Vergütung entfernt."
 
 msgid "IDS_CURRENCY_EVENTUM_4"
 msgstr "Bunte Marken"
@@ -21170,16 +21152,16 @@ msgid "IDS_CURRENCY_EVENTUM_6_STATUS"
 msgstr "Temporäre Ressource für das Event „Eispatrouille“. Mit Erscheinen von Update 13.7 werden die Marken ohne Entschädigung gelöscht."
 
 msgid "IDS_CURRENCY_EVENTUM_7"
-msgstr "Weiße Edelsteine"
+msgstr "Deutsche Marken"
 
 msgid "IDS_CURRENCY_EVENTUM_7_GET_DESCRIPTION"
-msgstr "Als Boni für Kampfergebnisse auf Schiffen der Stufen V–VII und Überschiffen für eine begrenzte Zeit im Update 25.9, sowie aus den Containern „Perlentrophäe“, „Saphirtrophäe“ und „Rubintrophäe“ und aus Sets in der Admiralität bis zum Ende des Updates 25.9."
+msgstr "Erhältlich durch das Abschließen von Kampfaufträgen für eine begrenzte Zeit in Update 26.7 sowie aus Paketen in der Waffenkammer bis zum Ende von Update 26.7."
 
 msgid "IDS_CURRENCY_EVENTUM_7_SPEND_DESCRIPTION"
-msgstr "Für das Öffnen von Karten mit scharlachroten Edelsteinen, Premium-Containern und anderem Eigentum, sowie auf die permanente Tarnung „Palast“ für das Schlachtschiff der Stufe IX Julang, Wirtschaftspakete für Schiffe der Stufe X und Superschiffe und auf anderes Eigentum bis zum Ende von Update 25.9."
+msgstr "Auf die aufeinanderfolgenden Sets mit dem Stufe-X-Kreuzer Wotan und den Premiumcontainern „Deutsches Geschwader“, auf die permanenten Tarnungen „Forschung“ für Schiffe der Stufen VIII–X und Superschiffe sowie auf weitere Gegenstände bis zum Ende von Update 26.7."
 
 msgid "IDS_CURRENCY_EVENTUM_7_STATUS"
-msgstr "Temporäre Ressource des Geburtstagsevents. Mit Update 25.10 wird sie ohne Entschädigung eingezogen."
+msgstr "Temporäre Ressource. Mit der Veröffentlichung von Update 26.8 werden die Marken ohne Entschädigung gelöscht."
 
 msgid "IDS_CURRENCY_EVENTUM_8"
 msgstr "Purpurrote Edelsteine"
@@ -23605,10 +23587,10 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_BUFFSSHIFTS"
 msgstr "Bei Aktivierung des Verbrauchsmaterials verteilen Sie Ladungen um und verstärken die Wirkung des ausgewählten Verbrauchsmaterials auf Kosten der anderen."
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY001_CRASHCREW"
-msgstr "Löscht Brände, beseitigt Wassereinbrüche und repariert beschädigte Module."
+msgstr "<p>Löscht Brände, beseitigt Wassereinbrüche und repariert beschädigte Module.</p><p class=\"p_spacing\"> </p><p>Notfallverbrauchsmaterial.</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY002_REGENCREW"
-msgstr "Stellt die TP des Schiffes durch Reparatur leichter Schäden teilweise wieder her."
+msgstr "<p>Stellt die TP des Schiffes durch Reparatur leichter Schäden teilweise wieder her.</p><p class=\"p_spacing\"> </p><p>Reparaturverbrauchsmaterial.</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY003_AIRDEFENSEDISP"
 msgstr "Verstärkt die Intensität des Flugabwehrfeuers."
@@ -23635,19 +23617,19 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY008_SONARSEARCH"
 msgstr "Verbessert die Reichweite der sicheren Erfassung gegnerischer Schiffe und Torpedos, inklusive jener im Nebel."
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY009_CRASHCREWPREMIUM"
-msgstr "<p>Löscht Brände, beseitigt Wassereinbrüche und repariert beschädigte Module.</p><p class=\"p_spacing\"> </p><p>Verhindert die Zielfindung der Torpedos von gegnerischen U-Booten.</p>"
+msgstr "<p>Löscht Brände, beseitigt Wassereinbrüche und repariert beschädigte Module.</p><p class=\"p_spacing\"> </p><p>Verhindert die Zielfindung von Torpedos gegnerischer U-Boote.</p><p class=\"p_spacing\"> </p><p>Notfallverbrauchsmaterial.</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY009_CRASHCREW_LIMITED_PREMIUM"
-msgstr "<p>Löscht Brände, beseitigt Wassereinbrüche und repariert beschädigte Module.</p><p class=\"p_spacing\"> </p><p>Verhindert die Zielfindung von Torpedos gegnerischer U-Boote.</p><p class=\"p_spacing\"> </p><p>Schnelle Ladezeit.</p><p class=\"p_spacing\"> </p><p>Begrenzte Anzahl von Ladungen.</p>"
+msgstr "<p>Löscht Brände, beseitigt Wassereinbrüche und repariert beschädigte Module.</p><p class=\"p_spacing\"> </p><p>Verhindert die Zielfindung von Torpedos gegnerischer U-Boote.</p><p class=\"p_spacing\"> </p><p>Schnelle Ladezeit.</p><p class=\"p_spacing\"> </p><p>Begrenzte Anzahl von Ladungen.</p><p class=\"p_spacing\"> </p><p>Notfallverbrauchsmaterial.</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY010_REGENCREWPREMIUM"
-msgstr "Stellt die TP des Schiffes durch Reparatur leichter Schäden teilweise wieder her."
+msgstr "<p>Stellt die TP des Schiffes durch Reparatur leichter Schäden teilweise wieder her.</p><p class=\"p_spacing\"> </p><p>Reparaturverbrauchsmaterial.</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY010_REGENCREW_EHEAL_PREMIUM"
-msgstr "Regeneriert einen beachtlichen Teil der Schiffs-TP, indem Schäden in kurzer Zeit repariert werden."
+msgstr "<p>Regeneriert einen beachtlichen Teil der Schiffs-TP, indem Schäden in kurzer Zeit repariert werden.</p><p class=\"p_spacing\"> </p><p>Reparaturverbrauchsmaterial.</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY010_REGENCREW_LONG"
-msgstr "Regeneriert einen erheblichen Teil der Schiffs-TP. Die Reparatur des Schadens erfordert viel Zeit."
+msgstr "<p>Regeneriert einen erheblichen Teil der Schiffs-TP. Die Reparatur des Schadens erfordert viel Zeit.</p><p class=\"p_spacing\"> </p><p>Reparatur-Verbrauchsmaterial.</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY011_AIRDEFENSEDISPPREMIUM"
 msgstr "Verstärkt die Intensität des Flugabwehrfeuers."
@@ -23683,7 +23665,7 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY015_SPEEDBOOSTER_IMP_PREMIUM"
 msgstr "<p>Steigert deutlich die Höchstgeschwindigkeit des Schiffs und verringert die Beschleunigungs- und Bremszeit.</p><p class=\"p_spacing\"> </p><p>Kurze Wirkungsdauer des Verbrauchsmaterials.</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY016_SONARSEARCHPREMIUM"
-msgstr "<p>Erkennt Schiffe, U-Boote in Sehrohrtiefe oder an der Wasseroberfläche sowie Torpedos, Minen und Wasserbomben, auch in einer Nebelwand.</p><p class=\"p_spacing\"> </p><p>Zeigt die ungefähre Position von U-Booten in Arbeitstiefe an.</p>"
+msgstr "<p>Erkennt Schiffe, U-Boote in Sehrohrtiefe oder an der Wasseroberfläche sowie Torpedos, Minen und Wasserbomben, auch in einer Nebelwand.</p><p class=\"p_spacing\"> </p><p>Zeigt die ungefähre Position von U-Booten in Sehrohr- und Periskoptiefe an.</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY016_SONARSEARCH_SHORT_PREMIUM"
 msgstr "<p>Vergrößert die Reichweite der sicheren Erfassung gegnerischer Schiffe, Torpedos und Minen, inklusive solcher in einer Nebelwand.</p><p class=\"p_spacing\"> </p><p>Kurze Erfassungsreichweite von Schiffen.</p>"
@@ -23707,7 +23689,7 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY022_ARTILLERYBOOSTERPREMIUM"
 msgstr "Verkürzt die Ladezeit der Hauptbatteriegeschütze."
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY023_CRASHCREWSUPER"
-msgstr "Löscht Brände, beseitigt Wassereinbrüche und repariert beschädigte Module."
+msgstr "<p>Löscht Brände, beseitigt Wassereinbrüche und repariert beschädigte Module.</p><p class=\"p_spacing\"> </p><p>Notfallverbrauchsmaterial.</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY023_INVULNERABLE"
 msgstr "Ihr Schiff wird unverwundbar gegenüber jedem Schadenstypen außer dem Schmutz."
@@ -23716,7 +23698,7 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY024_INVULNERABLEPREMIUM"
 msgstr "Ihr Schiff wird unverwundbar gegenüber jedem Schadenstypen außer dem Schmutz."
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY024_REGENCREWSUPER"
-msgstr "Stellt die TP des Schiffes durch Reparatur leichter Schäden teilweise wieder her."
+msgstr "<p>Stellt die TP des Schiffes durch Reparatur leichter Schäden teilweise wieder her.</p><p class=\"p_spacing\"> </p><p>Reparaturverbrauchsmaterial.</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY025_AIRDEFENSEDISPSUPER"
 msgstr "Verstärkt die Intensität des Flugabwehrfeuers."
@@ -23761,7 +23743,7 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY036_REGENERATEHEALTH_LONG_PREMIUM"
 msgstr "Regeneriert die Staffel-TP. Kurze Ladezeit, lange Wirkungsdauer. Bei Aktivierung nach einem Angriffsanflug am effektivsten."
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY037_CRASHCREWAUTO"
-msgstr "<p>Löscht Brände, beseitigt Wassereinbrüche und repariert beschädigte Module.</p><p class=\"p_spacing\"> </p><p>Verhindert die Zielfindung der Torpedos von gegnerischen U-Booten.</p>"
+msgstr "<p>Löscht Brände, beseitigt Wassereinbrüche und repariert beschädigte Module.</p><p class=\"p_spacing\"> </p><p>Verhindert die Zielfindung von Torpedos gegnerischer U-Boote.</p><p class=\"p_spacing\"> </p><p>Notfallverbrauchsmaterial.</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY038_FIGHTERAUTO"
 msgstr "Folgt dem Schiff und greift automatisch gegnerische Flugzeuge an."
@@ -23785,7 +23767,7 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY049_PLANESMOKEGENERATOR"
 msgstr "Erzeugt eine Nebelwand, welche das Risiko für verbündete Schiffe verringert, vom Gegner entdeckt zu werden."
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY051_VAMPIREDAMAGE"
-msgstr "Stellt Trefferpunkte in Höhe von 50 % des von der Hauptbatterie verursachten Schadens wieder her."
+msgstr "<p>Stellt Trefferpunkte in Höhe von 60 % des von der Hauptbatterie verursachten Schadens wieder her.</p><p class=\"p_spacing\"> </p><p>Reparaturverbrauchsmaterial.</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY052_SHIELD"
 msgstr "Blockiert sämtlichen dem Schiff zugefügten Schaden."
@@ -23842,21 +23824,21 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY012_SMOKEGENERATOR"
 msgstr "Erzeugt eine Nebelwand, welche das Risiko verringert, vom Gegner entdeckt zu werden."
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY013_CRASHCREW"
-msgstr "Löscht Brände, beseitigt Wassereinbrüche und repariert beschädigte Module."
+msgstr "<p>Löscht Brände, beseitigt Wassereinbrüche und repariert beschädigte Module.</p><p class=\"p_spacing\"> </p><p>Notfallverbrauchsmaterial.</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY014_REGENCREW"
-msgstr "Stellt die TP des Schiffes durch Reparatur leichter Schäden teilweise wieder her."
+msgstr "<p>Stellt die TP des Schiffes durch Reparatur leichter Schäden teilweise wieder her.</p><p class=\"p_spacing\"> </p><p>Reparaturverbrauchsmaterial.</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY015_SPEEDBOOSTERH18"
 msgstr "Erhöht die Höchstgeschwindigkeit des Schiffs und verringert die Beschleunigungs- und Bremszeit."
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY021_CRASHCREW"
 msgstr ""
-"Löscht Brände, beseitigt Wassereinbrüche und repariert beschädigte Module.\n"
-"Verhindert die Zielfindung der Torpedos von gegnerischen U-Booten."
+"<p>Löscht Brände, beseitigt Wassereinbrüche und repariert beschädigte Module.\n"
+"Verhindert die Zielfindung der Torpedos von gegnerischen U-Booten.</p><p class=\"p_spacing\"> </p><p>Notfallverbrauchsmaterial.</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY022_REGENCREW"
-msgstr "Stellt die TP des Schiffes durch Reparatur leichter Schäden teilweise wieder her."
+msgstr "<p>Stellt die TP des Schiffes durch Reparatur leichter Schäden teilweise wieder her.</p><p class=\"p_spacing\"> </p><p>Reparaturverbrauchsmaterial.</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY023_ARTILLERYBOOSTER"
 msgstr "Verkürzt die Ladezeit der Hauptbatteriegeschütze."
@@ -23904,10 +23886,10 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY112_SMOKEGENERATORPREMIUM"
 msgstr "Erzeugt eine Nebelwand, welche das Risiko verringert, vom Gegner entdeckt zu werden."
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY113_CRASHCREWPREMIUM"
-msgstr "Löscht Brände, beseitigt Wassereinbrüche und repariert beschädigte Module."
+msgstr "<p>Löscht Brände, beseitigt Wassereinbrüche und repariert beschädigte Module.</p><p class=\"p_spacing\"> </p><p>Notfallverbrauchsmaterial.</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY114_REGENCREWPREMIUM"
-msgstr "Stellt die TP des Schiffes durch Reparatur leichter Schäden teilweise wieder her."
+msgstr "<p>Stellt die TP des Schiffes durch Reparatur leichter Schäden teilweise wieder her.</p><p class=\"p_spacing\"> </p><p>Reparaturverbrauchsmaterial.</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY115_SPEEDBOOSTERH18PREMIUM"
 msgstr " "
@@ -23964,7 +23946,7 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY315_SMOKEGENERATOR_PVP"
 msgstr "Erzeugt eine Nebelwand, welche das Risiko verringert, vom Gegner entdeckt zu werden."
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY316_CRASHCREW_PVP"
-msgstr "Löscht Brände, beseitigt Wassereinbrüche und repariert beschädigte Module."
+msgstr "<p>Löscht Brände, beseitigt Wassereinbrüche und repariert beschädigte Module.</p><p class=\"p_spacing\"> </p><p>Notfallverbrauchsmaterial.</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY317_SONARSEARCH_PVP"
 msgstr "Verbessert die Reichweite der sicheren Erfassung gegnerischer Schiffe und Torpedos, inklusive jener im Nebel."
@@ -24018,7 +24000,7 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY331_ARTILLERYBOOSTER_H2019"
 msgstr "Verkürzt die Ladezeit der Hauptbatteriegeschütze."
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY332_REGENCREW_H2019"
-msgstr "Stellt die TP des Schiffes durch Reparatur leichter Schäden teilweise wieder her."
+msgstr "<p>Stellt die TP des Schiffes durch Reparatur leichter Schäden teilweise wieder her.</p><p class=\"p_spacing\"> </p><p>Reparatur-Verbrauchsmaterial.</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY333_HEALALL_H2019"
 msgstr "Regeneriert 10 000 TP bei allen verbündeten Schiffen."
@@ -25784,7 +25766,7 @@ msgid "IDS_DOGTAG_PCNB071_DESCRIPTION"
 msgstr "Für Teilnehmer des Events „Space Warships 2018“."
 
 msgid "IDS_DOGTAG_PCNB071_NAME"
-msgstr "Space Warships 2018"
+msgstr "Space Warships 2018"
 
 msgid "IDS_DOGTAG_PCNB072_DESCRIPTION"
 msgstr "Für Teilnehmer des Events „Space Warships 2018“."
@@ -27082,7 +27064,7 @@ msgid "IDS_DOGTAG_PCNB289_DESCRIPTION"
 msgstr "Unser Spiel wird häufig, ähnlich wie der Sport, für seine Unvorhersehbarkeit gelobt. Aber viel wichtiger ist, dass wir Spieler zu Land und zu Wasser zusammenbringen!"
 
 msgid "IDS_DOGTAG_PCNB289_NAME"
-msgstr "The Beautiful Game"
+msgstr "The Beautiful Game"
 
 msgid "IDS_DOGTAG_PCNB290_DESCRIPTION"
 msgstr "Sport ist der Geist eines unversöhnlichen Wettbewerbs, der Kampf zwischen den ambitioniertesten Wettbewerbern, die entschlossen bis zum Ende kämpfen. Aber gleichzeitig ist Sport auch etwas, was die Menschen eint und bei dem wahre Freundschaften entstehen."
@@ -27456,7 +27438,7 @@ msgid "IDS_DOGTAG_PCNB353_DESCRIPTION"
 msgstr "Viele Grüße an alle Reisenden."
 
 msgid "IDS_DOGTAG_PCNB353_NAME"
-msgstr "Das ist die chinesische Marine!"
+msgstr "Chinesische Marine"
 
 msgid "IDS_DOGTAG_PCNB354_DESCRIPTION"
 msgstr "Für die ruhmreichen Gewinner des Copa Latina-Americana Warships 2022."
@@ -28383,7 +28365,7 @@ msgid "IDS_DOGTAG_PCNU020_DESCRIPTION"
 msgstr "Obwohl die Fleur-de-Lis auf zahlreichen europäischen Wappen abgebildet wurde, wird sie vor allem mit der Französischen Monarchie assoziiert."
 
 msgid "IDS_DOGTAG_PCNU020_NAME"
-msgstr "Forces Élites de la Marine Nationale"
+msgstr "Forces élites de la Marine Nationale"
 
 msgid "IDS_DOGTAG_PCNU021_DESCRIPTION"
 msgstr "Die Darstellung eines Adlers als Symbol für den deutschen Staat reicht zurück bis in die Zeit Karls des Großen, dem ersten fränkischen Herrscher, der vom Papst zum Kaiser gekrönt wurde. Das neue Reich umfasste einen Teil des ehemals weströmischen Reichs, von dem es das römische Symbol des Adlers übernahm."
@@ -28824,7 +28806,7 @@ msgid "IDS_DOGTAG_PCNU091_DESCRIPTION"
 msgstr "Der Löwe als heraldische Figur befand sich bereits auf dem Wappen der früheren Republik der Sieben Vereinigten Niederlande (1581–1795), und so auch auf dem Wappen des Königreichs der Niederlande, das 1815 gegründet wurde. Die sieben Pfeile in der Pfote des einen Löwen stehen für die sieben Provinzen der Republik, das Schwert symbolisiert die Entschlossenheit zur Verteidigung ihrer Freiheit und die königliche Krone unterstreicht ihre Souveränität."
 
 msgid "IDS_DOGTAG_PCNU091_NAME"
-msgstr "Koninklijke Marine I"
+msgstr "Koninklijke Marine I"
 
 msgid "IDS_DOGTAG_PCNU092_DESCRIPTION"
 msgstr "Der Löwe als heraldische Figur befand sich bereits auf dem Wappen der früheren Republik der Sieben Vereinigten Niederlande (1581–1795), und so auch auf dem Wappen des Königreichs der Niederlande, das 1815 gegründet wurde. Die sieben Pfeile in der Pfote des einen Löwen stehen für die sieben Provinzen der Republik, das Schwert symbolisiert die Entschlossenheit zur Verteidigung ihrer Freiheit und die königliche Krone unterstreicht ihre Souveränität."
@@ -28866,19 +28848,19 @@ msgid "IDS_DOGTAG_PCNU098_DESCRIPTION"
 msgstr "Ein Symbol Spaniens, dessen Ursprung bis ins Altertum zurückreicht. Durch seine beeindruckende Größe, seinen unerschütterlichen Mut und seine clevere Natur steht der Bulle für beispiellose Kampfkraft."
 
 msgid "IDS_DOGTAG_PCNU098_NAME"
-msgstr "Armada española III"
+msgstr "Armada española III"
 
 msgid "IDS_DOGTAG_PCNU099_DESCRIPTION"
 msgstr "Ein Symbol Spaniens, dessen Ursprung bis ins Altertum zurückreicht. Durch seine beeindruckende Größe, seinen unerschütterlichen Mut und seine clevere Natur steht der Bulle für beispiellose Kampfkraft."
 
 msgid "IDS_DOGTAG_PCNU099_NAME"
-msgstr "Armada española II"
+msgstr "Armada española II"
 
 msgid "IDS_DOGTAG_PCNU100_DESCRIPTION"
 msgstr "Ein Symbol Spaniens, dessen Ursprung bis ins Altertum zurückreicht. Durch seine beeindruckende Größe, seinen unerschütterlichen Mut und seine clevere Natur steht der Bulle für beispiellose Kampfkraft."
 
 msgid "IDS_DOGTAG_PCNU100_NAME"
-msgstr "Armada española I"
+msgstr "Armada española I"
 
 msgid "IDS_DOGTAG_PCNU101_DESCRIPTION"
 msgstr "Ein Symbol Spaniens, dessen Ursprung bis ins Altertum zurückreicht. Durch seine beeindruckende Größe, seinen unerschütterlichen Mut und seine clevere Natur steht der Bulle für beispiellose Kampfkraft."
@@ -29507,22 +29489,13 @@ msgid "IDS_ECONOMIC_BOOSTS_EXPENDABLE_AUTOPURCHASE_TOOLTIP_DESCRIPTION"
 msgstr "Wenn Sie mit den letzten Standard- oder besonderen Boni ins Gefecht gehen, werden sie automatisch nachgekauft."
 
 msgid "IDS_ECONOMIC_BOOSTS_INSTALL_BTN"
-msgstr "Anbringen?"
-
-msgid "IDS_ECONOMIC_BOOSTS_TTX_GO_TO_MODAL_WINDOW_TOOLTIP"
-msgstr "Zum Fenster der ökonomischen Boni gehen"
+msgstr "Anbringen"
 
 msgid "IDS_ECONOMIC_BOOSTS_TTX_LABEL"
 msgstr "Ökonomische Boni"
 
 msgid "IDS_ECONOMIC_BOOSTS_TTX_NOT_INSTALLED_HINT"
 msgstr "Keine Boni ausgewählt"
-
-msgid "IDS_ECONOMIC_BOOSTS_TYPE_EXPENDABLE_CATEGORY_TOOLTIP"
-msgstr "Verbrauchbar"
-
-msgid "IDS_ECONOMIC_BOOSTS_TYPE_OTHER_CATEGORY_TOOLTIP"
-msgstr "Weitere"
 
 msgid "IDS_ECONOMIC_BOOST_INFOTIP_RARITY_TYPE_COMMON"
 msgstr "Standard"
@@ -29557,9 +29530,6 @@ msgstr "Permanente Boni sind aktiv"
 msgid "IDS_ECONOMIC_BOOST_SUMMARY_PERMANENT_SECTION_TOOLTIP"
 msgstr "Permanent"
 
-msgid "IDS_ECONOMIC_BOOST_TYPE"
-msgstr "Gesamtbonus"
-
 msgid "IDS_ECONOMIC_BOOST_TYPE_CREDITSFACTOR_SIMPLE_SUMMARY_TOOLTIP"
 msgstr "Silber"
 
@@ -29580,18 +29550,6 @@ msgstr "Seltener verbrauchbarer Bonus"
 
 msgid "IDS_ECONOMIC_BOOST_TYPE_EXPENDABLE_4"
 msgstr "Elite-Verbrauchbarer Bonus"
-
-msgid "IDS_ECONOMIC_BOOST_TYPE_EXPENDABLE_TOOLTIP_1"
-msgstr "Standard Bonus"
-
-msgid "IDS_ECONOMIC_BOOST_TYPE_EXPENDABLE_TOOLTIP_2"
-msgstr "Spezial Bonus"
-
-msgid "IDS_ECONOMIC_BOOST_TYPE_EXPENDABLE_TOOLTIP_3"
-msgstr "Seltener Bonus"
-
-msgid "IDS_ECONOMIC_BOOST_TYPE_EXPENDABLE_TOOLTIP_4"
-msgstr "Elite Bonus"
 
 msgid "IDS_ECONOMIC_BOOST_TYPE_EXPFACTOR_SIMPLE_SUMMARY_TOOLTIP"
 msgstr "Schiffs-EP"
@@ -30537,7 +30495,7 @@ msgid "IDS_EVENT_SPACE_BATTLE_TASK_NUMBER_OF_POINT"
 msgstr "+%(count)s %"
 
 msgid "IDS_EVENT_SPACE_BATTLE_TASK_POINT_IN_SEC"
-msgstr "+%(count)s / s"
+msgstr "+%(count)s / c"
 
 msgid "IDS_EVENT_SPACE_BATTLE_TASK_TEXT_BOSS_ATTACK"
 msgstr "Gegnerischen Beowulf angreifen"
@@ -31730,7 +31688,7 @@ msgid "IDS_FEAT_GOOD_HIGH_STRIKE_CRAFT_COUNT"
 msgstr "Hohe Flugzeuganzahl in einer Angriffsfluggruppe"
 
 msgid "IDS_FEAT_GOOD_JATO_LVL_VIII"
-msgstr "Jet-Booster ab Stufe VIII verfügbar"
+msgstr "Schubverstärker ab Stufe VIII verfügbar"
 
 msgid "IDS_FEAT_GOOD_LARGE_SQUADRON"
 msgstr "Große Flugzeuganzahl in einer Staffel"
@@ -34213,7 +34171,7 @@ msgid "IDS_GUIDING_TIP_282_HEADER"
 msgstr "Signale anbringen"
 
 msgid "IDS_GUIDING_TIP_283_DESC"
-msgstr "Signale verbessern die Gefechtseigenschaften Ihres Schiffs!"
+msgstr "Signale verbessern die Gefechtseigenschaften Ihres Schiffs."
 
 msgid "IDS_GUIDING_TIP_283_HEADER"
 msgstr "Signale"
@@ -35549,7 +35507,7 @@ msgid "IDS_HELP_PECULIARITIES_SUBMARINE_2"
 msgstr "Tiefenebenen"
 
 msgid "IDS_HELP_PECULIARITIES_SUBMARINE_2_DESC_0"
-msgstr "Auf Periskop- und Arbeitstiefe sieht das U-Boot die ungefähren Positionen der Gegner."
+msgstr "Auf Periskop- und Einsatztiefe sieht das U-Boot die ungefähren Positionen der Gegner."
 
 msgid "IDS_HELP_PECULIARITIES_SUBMARINE_2_DESC_1"
 msgstr "Auf Maximaltiefe ist das U-Boot für den Gegner fast unerreichbar, kann aber selbst keine Schiffe orten und keine Ausrüstung nutzen."
@@ -36065,12 +36023,6 @@ msgstr "U-Boote anzeigen"
 msgid "IDS_HINT_CHECKBOX_FILTER_CLASS_SUBMARINE_DISABLE"
 msgstr "U-Boote deaktivieren"
 
-msgid "IDS_HINT_CHECKBOX_FILTER_ELITE"
-msgstr "Eliteschiffe anzeigen"
-
-msgid "IDS_HINT_CHECKBOX_FILTER_ELITE_DISABLE"
-msgstr "Eliteschiffe zurücksetzen"
-
 msgid "IDS_HINT_CHECKBOX_FILTER_EXP_BONUS"
 msgstr "Schiffe mit einem Gefechtsbonus für EP anzeigen"
 
@@ -36233,17 +36185,8 @@ msgstr "Amerikanische Schiffe anzeigen"
 msgid "IDS_HINT_CHECKBOX_FILTER_NATION_USA_DISABLE"
 msgstr "Amerikanische Schiffe abwählen"
 
-msgid "IDS_HINT_CHECKBOX_FILTER_NOT_AVAILABLE_ELITE"
-msgstr "Sie haben keine Eliteschiffe"
-
 msgid "IDS_HINT_CHECKBOX_FILTER_NOT_AVAILABLE_EXP_BONUS"
 msgstr "Sie haben keine Schiffe mit einem Gefechts-EP-Bonus"
-
-msgid "IDS_HINT_CHECKBOX_FILTER_NOT_AVAILABLE_NOT_ELITE"
-msgstr "Sie haben keine Schiffe ohne Elitestatus"
-
-msgid "IDS_HINT_CHECKBOX_FILTER_NOT_AVAILABLE_PREMIUM"
-msgstr "Sie haben keine Premiumschiffe"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_NOT_AVAILABLE_PVE"
 msgstr "Sie haben keine für das Unternehmen geeigneten Schiffe"
@@ -36251,20 +36194,11 @@ msgstr "Sie haben keine für das Unternehmen geeigneten Schiffe"
 msgid "IDS_HINT_CHECKBOX_FILTER_NOT_AVAILABLE_RANKED"
 msgstr "Sie haben keine für gewertete Gefechte geeigneten Schiffe"
 
-msgid "IDS_HINT_CHECKBOX_FILTER_NOT_AVAILABLE_RENTED"
-msgstr "Sie haben keine Mietschiffe"
-
-msgid "IDS_HINT_CHECKBOX_FILTER_NOT_AVAILABLE_SELECTED_BY_USER"
-msgstr "Sie haben keine Schiffe als Hauptschiff gekennzeichnet"
-
 msgid "IDS_HINT_CHECKBOX_FILTER_NOT_AVAILABLE_SHIP_MASTERY_TASKS_AVAILABLE"
 msgstr "Sie haben keine Schiffe mit verfügbaren Herausforderungen"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_NOT_AVAILABLE_SHIP_MASTERY_TASKS_IN_PROGRESS"
 msgstr "Sie haben keine Schiffe mit aktiven Herausforderungen"
-
-msgid "IDS_HINT_CHECKBOX_FILTER_NOT_AVAILABLE_SPECIAL"
-msgstr "Sie haben keine Spezialschiffe"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_NOT_AVAILABLE_WITHOUT_COMMANDER"
 msgstr "Sie haben keine Schiffe ohne Kapitän"
@@ -36272,23 +36206,11 @@ msgstr "Sie haben keine Schiffe ohne Kapitän"
 msgid "IDS_HINT_CHECKBOX_FILTER_NOT_AVAILABLE_WITH_COMMANDER"
 msgstr "Sie haben keine Schiffe mit Kapitän"
 
-msgid "IDS_HINT_CHECKBOX_FILTER_NOT_ELITE"
-msgstr "Schiffe ohne Elitestatus anzeigen"
-
-msgid "IDS_HINT_CHECKBOX_FILTER_NOT_ELITE_DISABLE"
-msgstr "Schiffe ohne Elitestatus ausblenden"
-
 msgid "IDS_HINT_CHECKBOX_FILTER_PARAGON_BONUS"
 msgstr "Schiffe mit einem Gefechtsbonus für Forschungspunkte anzeigen"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_PARAGON_BONUS_DISABLE"
 msgstr "Schiffe mit einem Gefechtsbonus für Forschungspunkte abwählen"
-
-msgid "IDS_HINT_CHECKBOX_FILTER_PREMIUM"
-msgstr "Premiumschiffe anzeigen"
-
-msgid "IDS_HINT_CHECKBOX_FILTER_PREMIUM_DISABLE"
-msgstr "Premiumschiffe ausblenden"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_PVE"
 msgstr "Für das Unternehmen geeignete Schiffe anzeigen"
@@ -36304,18 +36226,6 @@ msgstr "Für gewertete Gefechte geeignete Schiffe zurücksetzen"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_RELINK_TO"
 msgstr "Schiff in diese Gruppe verschieben"
-
-msgid "IDS_HINT_CHECKBOX_FILTER_RENTED"
-msgstr "Mietschiffe einblenden"
-
-msgid "IDS_HINT_CHECKBOX_FILTER_RENTED_DISABLE"
-msgstr "Mietschiffe ausblenden"
-
-msgid "IDS_HINT_CHECKBOX_FILTER_SELECTED_BY_USER"
-msgstr "Hauptschiffe anzeigen"
-
-msgid "IDS_HINT_CHECKBOX_FILTER_SELECTED_BY_USER_DISABLE"
-msgstr "Spezialschiffe ausblenden"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_SHIP_CLASS_EARLY_ACCESS"
 msgstr "Schiffe im Vorabzugang anzeigen"
@@ -36388,12 +36298,6 @@ msgstr "Schiffe mit einem Gefechtsbonus für eine festliche Belohnung anzeigen"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_SNOWFLAKES_DISABLE"
 msgstr "Schiffe mit einem Gefechtsbonus für eine festliche Belohnung zurücksetzen"
-
-msgid "IDS_HINT_CHECKBOX_FILTER_SPECIAL"
-msgstr "Spezialschiffe anzeigen"
-
-msgid "IDS_HINT_CHECKBOX_FILTER_SPECIAL_DISABLE"
-msgstr "Spezialschiffe ausblenden"
 
 msgid "IDS_HINT_CHECKBOX_FILTER_UNLINK_FROM"
 msgstr "Schiff aus der Gruppe entfernen"
@@ -40182,7 +40086,7 @@ msgid "IDS_LOCKED_MISSION_TIME_LEFT_TASK_TOOLTIP"
 msgstr "Noch %(timeLeft)s bis die Aufgaben des Auftrags verfügbar sind."
 
 msgid "IDS_LOCKED_MISSION_TIME_LEFT_TOOLTIP"
-msgstr "Noch %(_timeLeft)s bis der Auftrag verfügbar ist."
+msgstr "Bis zum Beginn des Auftrags: %(_timeLeft)s"
 
 msgid "IDS_LOCKED_MISSION_TOOLTIP"
 msgstr "Vorherige Mission nicht abgeschlossen"
@@ -41472,7 +41376,7 @@ msgid "IDS_MINIMAP_OPTIONS_SHOOTPINGERRANGEENABLED"
 msgstr "Einsatzradius des Sonars"
 
 msgid "IDS_MINIMAP_OPTIONS_SHOOTSGRANGEENABLED"
-msgstr "Feuerreichweite der Sekundärbatterie"
+msgstr "Feuerreichweite der Mittelkalibergeschütze"
 
 msgid "IDS_MINIMAP_OPTIONS_SHOOTTARANGEENABLED"
 msgstr "Torpedoreichweite"
@@ -42473,7 +42377,7 @@ msgid "IDS_MODAL_WINDOW_PCVE027_RULES_PARAGRAPH_3_HEADER"
 msgstr "Mittelkaliber"
 
 msgid "IDS_MODAL_WINDOW_PCVE027_RULES_PARAGRAPH_3_TEXT_1"
-msgstr "Neben der Hauptbatterie und der Sekundärbatterie sind einige gepanzerte Schiffe mit Mittelkalibergeschützen bewaffnet."
+msgstr "Neben der Hauptbatterie und der Mittelkalibergeschütze sind einige gepanzerte Schiffe mit Mittelkalibergeschützen bewaffnet."
 
 msgid "IDS_MODAL_WINDOW_PCVE027_RULES_PARAGRAPH_3_TEXT_2"
 msgstr "Im Vergleich zur Hauptbatterie laden Mittelkalibergeschütze schneller, verursachen aber weniger Schaden."
@@ -43586,7 +43490,7 @@ msgid "IDS_MOUSE_INSTRUCTION_CHOOSE"
 msgstr "%(_battleType)s wählen"
 
 msgid "IDS_MOUSE_INSTRUCTION_CREW_INFO_MODAL_EPIC_SKILL_DENY"
-msgstr "Auf die Verbesserung verzichten?"
+msgstr "Auf die Verbesserung verzichten"
 
 msgid "IDS_MOUSE_INSTRUCTION_CREW_INFO_MODAL_EPIC_SKILL_SLOT_INFOTIP_OPEN"
 msgstr "Verbesserungsliste öffnen"
@@ -44285,9 +44189,6 @@ msgstr "Server: "
 
 msgid "IDS_NARONG_DUANTA"
 msgstr "Narong Duangta"
-
-msgid "IDS_NATION"
-msgstr "Nation"
 
 msgid "IDS_NATIONS"
 msgstr "Nationen"
@@ -45967,9 +45868,6 @@ msgstr "Von Ignorierenliste nehmen"
 msgid "IDS_NOT_IGNORE_PLAYER_HINT"
 msgstr "Blockieren der Nachrichten von diesem Spieler deaktivieren"
 
-msgid "IDS_NOT_INSTALLED"
-msgstr "Nicht eingebaut"
-
 msgid "IDS_NOT_IN_DIVISION_FOR_CLAN_BATTLE"
 msgstr "Erstellen Sie eine Division oder treten Sie einer bestehenden bei, wenn Sie an den Clangefechten teilnehmen wollen."
 
@@ -46611,7 +46509,7 @@ msgid "IDS_OPEN_ALL_LOOTBOXES"
 msgstr "Alle öffnen"
 
 msgid "IDS_OPEN_ALL_LOOTBOXES_CONFIRM"
-msgstr "Alle Container öffnen"
+msgstr "Alle Container öffnen?"
 
 msgid "IDS_OPEN_FINAL_TASK"
 msgstr "Aufgabe freischalten"
@@ -50493,7 +50391,7 @@ msgid "IDS_PAGM049_14IN50_3GUN_TURRET"
 msgstr "356 mm/50 Mk.7 in einem Turm"
 
 msgid "IDS_PAGM051_18IN47_MARK_A"
-msgstr "457 mm/45 Mk.A in einem Turm"
+msgstr "457 mm/47 Mk.A in einem Turm"
 
 msgid "IDS_PAGM052_12IN45_MK5"
 msgstr "305 mm/45 Mk.5 in einem Turm"
@@ -51840,7 +51738,7 @@ msgid "IDS_PAPR998_CONCORD_BRIDGE"
 msgstr "Tiny Tim"
 
 msgid "IDS_PAPT001_TORPEDO_533MM_MK_15"
-msgstr "Mk15 mod. 0"
+msgstr "Mk15 mod. 0"
 
 msgid "IDS_PAPT002_HALFORD_MK15"
 msgstr "Mk29 Mod. 1"
@@ -51849,10 +51747,10 @@ msgid "IDS_PAPT005_BLISS_LEAVITT_MK6"
 msgstr "Bliss Leavitt Mk6"
 
 msgid "IDS_PAPT006_BLISS_LEAVITT_MK7_MOD_5A"
-msgstr "Bliss Leavitt Mk7 mod. 5A"
+msgstr "Bliss Leavitt Mk7 mod. 5A"
 
 msgid "IDS_PAPT007_BLISS_LEAVITT_MK7_MOD_2A"
-msgstr "Bliss Leavitt Mk7 mod. 2A"
+msgstr "Bliss Leavitt Mk7 mod. 2A"
 
 msgid "IDS_PAPT008_MK_17"
 msgstr "Mk17"
@@ -51888,31 +51786,31 @@ msgid "IDS_PAPT019_WHITEHEAD_MK5"
 msgstr "Whitehead Mk5"
 
 msgid "IDS_PAPT020_BLISS_LEAVITT_MK7_MOD_0"
-msgstr "Bliss Leavitt Mk7 mod. 0"
+msgstr "Bliss Leavitt Mk7 mod. 0"
 
 msgid "IDS_PAPT021_BLISS_LEAVITT_MARK_9_MOD_1B"
-msgstr "Bliss Leavitt Mk9 mod. 1b"
+msgstr "Bliss Leavitt Mk9 mod. 1b"
 
 msgid "IDS_PAPT022_BLISS_LEAVITT_MARK_9_MOD_1"
-msgstr "Bliss Leavitt Mk9 mod. 1"
+msgstr "Bliss Leavitt Mk9 mod. 1"
 
 msgid "IDS_PAPT023_MK_12"
 msgstr "Mk12"
 
 msgid "IDS_PAPT024_MK_14_MOD_3"
-msgstr "Mk14 mod. 3"
+msgstr "Mk14 mod. 3"
 
 msgid "IDS_PAPT025_MK_14_MOD_0"
-msgstr "Mk14 mod. 0"
+msgstr "Mk14 mod. 0"
 
 msgid "IDS_PAPT026_MK_16_MOD_0"
-msgstr "Mk16 mod. 0"
+msgstr "Mk16 mod. 0"
 
 msgid "IDS_PAPT027_MK_16_MOD_1"
 msgstr "Mk16 Mod. 1"
 
 msgid "IDS_PAPT028_TORPEDO_533MM_MK_15_SIMS"
-msgstr "Mk15 mod. 0"
+msgstr "Mk15 mod. 0"
 
 msgid "IDS_PAPT029_MK_15_MOD_ATLANTA"
 msgstr "Mk15 Mod. 3*"
@@ -51930,7 +51828,7 @@ msgid "IDS_PAPT033_MONAGHAN_MK15"
 msgstr "Mk15 Mod. 3*"
 
 msgid "IDS_PAPT034_SMITH"
-msgstr "Bliss Leavitt Mk7 mod. 0"
+msgstr "Bliss Leavitt Mk7 mod. 0"
 
 msgid "IDS_PAPT035_TST_GEARING_1"
 msgstr "Mk16 Mod. 1"
@@ -51999,7 +51897,7 @@ msgid "IDS_PAPT058_533MM_BLISS_L_MK3"
 msgstr "Bliss Leavitt Mk3"
 
 msgid "IDS_PAPT059_MK_17_J_HUMP"
-msgstr "Mk17 mod. 1"
+msgstr "Mk17 mod. 1"
 
 msgid "IDS_PAPT060_GATO_MZ"
 msgstr "Mark 29 Mag 2"
@@ -53001,7 +52899,7 @@ msgid "IDS_PARAMS_MODIFIER_GMROTATIONSPEED_SUBMARINE"
 msgstr "Drehgeschwindigkeit der Hauptbatterie"
 
 msgid "IDS_PARAMS_MODIFIER_GMSDAMAGECOEFF"
-msgstr "Schaden der Sekundärbatteriegranaten"
+msgstr "Schaden der Mittelkalibergeschützegranaten"
 
 msgid "IDS_PARAMS_MODIFIER_GMSHOTDELAY"
 msgstr "Ladezeit der Hauptbatterie"
@@ -53010,19 +52908,19 @@ msgid "IDS_PARAMS_MODIFIER_GMSHOTDELAY_ABILITY"
 msgstr "Ladezeit der Hauptbatterie"
 
 msgid "IDS_PARAMS_MODIFIER_GMSIDEALRADIUS"
-msgstr "Maximale Streuung der Sekundärbatteriegranaten"
+msgstr "Maximale Streuung der Mittelkalibergeschützegranaten"
 
 msgid "IDS_PARAMS_MODIFIER_GMSMAXDIST"
-msgstr "Feuerreichweite der Sekundärbatterie"
+msgstr "Feuerreichweite der Mittelkalibergeschütze"
 
 msgid "IDS_PARAMS_MODIFIER_GMSPENETRATIONCOEFFCS"
-msgstr "Panzerdurchschlagskraft der SAP-Granaten der Sekundärbatterie"
+msgstr "Panzerdurchschlagskraft der SAP-Granaten der Mittelkalibergeschütze"
 
 msgid "IDS_PARAMS_MODIFIER_GMSPENETRATIONCOEFFHE"
-msgstr "Panzerdurchschlagskraft der HE-Granaten der Sekundärbatterie"
+msgstr "Panzerdurchschlagskraft der HE-Granaten der Mittelkalibergeschütze"
 
 msgid "IDS_PARAMS_MODIFIER_GMSSHOTDELAY"
-msgstr "Ladezeit der Sekundärbatterie"
+msgstr "Ladezeit der Mittelkalibergeschütze"
 
 msgid "IDS_PARAMS_MODIFIER_GSALPHAFACTOR"
 msgstr "Schaden der Sekundärbatteriegranaten"
@@ -53202,7 +53100,7 @@ msgid "IDS_PARAMS_MODIFIER_INVULNERABLE"
 msgstr "Das Schiff ist unverwundbar gegenüber allen Schadensarten."
 
 msgid "IDS_PARAMS_MODIFIER_JATODURATIONCOEF"
-msgstr "Jet-Booster-Wirkungsdauer"
+msgstr "Schubverstärker-Wirkungsdauer"
 
 msgid "IDS_PARAMS_MODIFIER_LASTCHANCERELOADCOEFFICIENT"
 msgstr "Ladezeitverkürzung aller Bewaffnungstypen je 1 % verlorener TP"
@@ -53520,13 +53418,13 @@ msgid "IDS_PARAMS_MODIFIER_REGENBYREPAIRAREA"
 msgstr "TP-Regeneration"
 
 msgid "IDS_PARAMS_MODIFIER_REGENCREWADDITIONALCONSUMABLES"
-msgstr "Anzahl der Ladungen des Verbrauchsmaterials „Reparaturmannschaft“"
+msgstr "Anzahl der Ladungen des Reparaturverbrauchsmaterials"
 
 msgid "IDS_PARAMS_MODIFIER_REGENCREWRELOADCOEFF"
-msgstr "Ladezeit des Verbrauchsmaterials „Reparaturmannschaft“"
+msgstr "Ladezeit des Reparaturverbrauchsmaterials"
 
 msgid "IDS_PARAMS_MODIFIER_REGENCREWWORKTIMECOEFF"
-msgstr "Wirkungsdauer des Verbrauchsmaterials „Reparaturmannschaft“"
+msgstr "Wirkungsdauer des Reparaturverbrauchsmaterials"
 
 msgid "IDS_PARAMS_MODIFIER_REGENERATEDHPPARTCOEF"
 msgstr "Effizienz der TP-Regeneration bei Verwendung des Verbrauchsmaterials „Reparaturmannschaft“"
@@ -53783,7 +53681,7 @@ msgstr "Granatentyp-Wechseldauer der Hauptbatterie"
 msgid "IDS_PARAMS_MODIFIER_TARGETBUOYANCYDISTANCES"
 msgstr ""
 "Anzeige der U-Boot-Positionen\n"
-"auf Arbeitstiefe"
+"auf Periskoptiefe und Einsatztiefe"
 
 msgid "IDS_PARAMS_MODIFIER_TORPEDOBOMBERACCURACYINCRATECOEFF"
 msgstr "Zielerfassungsgeschwindigkeit der Torpedobomber"
@@ -54079,10 +53977,10 @@ msgid "IDS_PARTNERS_LL_ARPEGGIO"
 msgstr "© Ark Performance /Shonengahosha, Arpeggio partners"
 
 msgid "IDS_PARTNERS_LL_AUTODESK"
-msgstr "This Software product includes Autodesk ® Scaleform ™ software, © 2013 Autodesk, Inc. All rights reserved."
+msgstr "This Software product includes Autodesk® Scaleform™ software, © 2013 Autodesk, Inc. All rights reserved."
 
 msgid "IDS_PARTNERS_LL_AZURLANE"
-msgstr "Azur Lane and its characters are trademarks of Yostar, Manjuu & Yongshi. ©2017 Manjuu Co.,Ltd. & Yongshi Co.,Ltd. All Rights Reserved. ©2017 Yostar, Inc. All Rights Reserved."
+msgstr "Azur Lane and its characters are trademarks of Yostar, Manjuu & Yongshi. © 2017 Manjuu Co.,Ltd. & Yongshi Co.,Ltd. All Rights Reserved. © 2017 Yostar, Inc. All Rights Reserved."
 
 msgid "IDS_PARTNERS_LL_GAMES_WORKSHOP"
 msgstr "Warhammer 40,000 © Copyright Games Workshop Limited 2021. GW, Games Workshop, Space Marine, 40K, Warhammer, Warhammer 40,000, 40,000, the ‘Aquila’ Double-headed Eagle logo, and all associated logos, illustrations, images, names, creatures, races, vehicles, locations, weapons, characters, and the distinctive likeness thereof, are either ® or TM, and/or © Games Workshop Limited, variably registered around the world, and used under license. All rights reserved to their respective owners."
@@ -54108,7 +54006,7 @@ msgid "IDS_PARTNERS_LL_QUIXEL"
 msgstr "Uses Megascans (R), Copyright © - 2021 Epic Games, Inc."
 
 msgid "IDS_PARTNERS_LL_SPEEDTREE"
-msgstr "Portions of this Software utilize SpeedTree ® technology (© 2013 Interactive Data Vizualization, Inc. All rights reserved)."
+msgstr "Portions of this Software utilize SpeedTree ® technology (© 2013 Interactive Data Vizualization, Inc. All rights reserved)."
 
 msgid "IDS_PARTNERS_LL_TRANSFORMERS"
 msgstr "TRANSFORMERS and its associated characters are trademarks of Hasbro and are used with permission. © 2021 Hasbro. All Rights Reserved."
@@ -54117,7 +54015,7 @@ msgid "IDS_PARTNERS_LL_TWITCH_PRIME"
 msgstr "Twitch Prime and the Twitch Prime logo are trademarks of Twitch Interactive, Inc or its affiliates."
 
 msgid "IDS_PARTNERS_LL_WWISE"
-msgstr "Powered by Wwise © 2006–2017 Audiokinetic Inc. All rights reserved."
+msgstr "Powered by Wwise © 2006-2017 Audiokinetic Inc. All rights reserved."
 
 msgid "IDS_PARTNERS_LOGIN_SCREEN_BUTTON"
 msgstr "Unsere Partner"
@@ -54456,13 +54354,13 @@ msgid "IDS_PASA588_YEAR"
 msgstr "1941"
 
 msgid "IDS_PASA598"
-msgstr "Saipan B."
+msgstr "Saipan B"
 
 msgid "IDS_PASA598_DESCR"
 msgstr "<p>Im Jahr 1943, auf dem Höhepunkt des Zweiten Weltkriegs, forderte Admiral Ernest King den Bau von zwei leichten Flugzeugträgern pro Jahr, um die erwarteten Verluste auszugleichen. Die ersten beiden Schiffe sollten im Dezember 1945 in Dienst gestellt werden. Um Konstruktion und Bau zu vereinfachen, basierten die neuen Träger auf dem Rumpf der schweren Kreuzer der Baltimore-Klasse.</p><p class=\"p_spacing\"> </p><p>Die USS Saipan wurde in Camden (Bundesstaat New Jersey) gebaut. Bis 1957 wurde der Träger, der für Düsenflugzeuge zu klein war, für Übungsmanöver, Patrouillen- und diplomatische Missionen sowie für die Ausbildung von Marinekadetten eingesetzt.</p><p class=\"p_spacing\"> </p><p>Mitte der 1960er Jahre wurde die Saipan zu einem Kommunikationsrelaisschiff umgebaut und in USS Arlington umbenannt. 1967 wurde das Schiff nach Vietnam verlegt, wo es bis 1968 diente. Das Schiff nahm als Such- und Rettungsschiff am Apollo-Programm teil.</p>"
 
 msgid "IDS_PASA598_FULL"
-msgstr "Saipan B."
+msgstr "Saipan B"
 
 msgid "IDS_PASA598_NUMBER"
 msgstr "2"
@@ -55077,7 +54975,7 @@ msgid "IDS_PASB598"
 msgstr "Massachusetts B"
 
 msgid "IDS_PASB598_DESCR"
-msgstr "<p>Das dritte Schlachtschiff der South-Dakota-Klasse – die USS Massachusetts – wurde in Quincy (Bundesstaat Massachusetts) gebaut. Nach der Ausbildung der Besatzung wurde das Schiff zur Unterstützung der Truppenlandungen in Nordafrika entsandt.</p><p class=\"p_spacing\"> </p><p>Im November 1942 lieferte sich die Massachusetts während des Angriffs auf Casablanca ein artilleristisches Duell mit dem französischen Schlachtschiff Jean Bart und beschädigte es. Ab 1943 diente das amerikanische Schiff im Pazifik: Es nahm an den Feldzügen auf den Gilbert- und Marshallinseln, am Philippinen-Feldzug sowie an der Landung auf Okinawa teil. Für seinen Dienst erhielt das Schlachtschiff 11 Battle Stars.</p><p class=\"p_spacing\"> </p><p>1965 wurde das Schiff an das Memorial Committee des Bundesstaates Massachusetts übergeben und als Museum erhalten.</p>"
+msgstr "<p>Das dritte Schlachtschiff der South-Dakota-Klasse, die USS Massachusetts, wurde in Quincy (Massachusetts) gebaut. Nach Abschluss der Mannschaftsausbildung wurde das Schiff entsandt, um die Landung der Truppen in Nordafrika zu unterstützen.</p><p class=\"p_spacing\"> </p><p>Im November 1942 lieferte sich die Massachusetts während des Angriffs auf Casablanca ein Artillerieduell mit dem französischen Schlachtschiff Jean Bart und beschädigte es. Ab 1943 diente das amerikanische Schiff im Pazifik: Es nahm an den Kampagnen auf den Gilbert- und Marshallinseln, der Philippinen-Kampagne und der Landung auf Okinawa teil. Im Laufe ihres Dienstes erhielt die Massachusetts 11 Battle Stars.</p><p class=\"p_spacing\"> </p><p>1965 wurde das Schiff an das Massachusetts Memorial Committee übergeben und als Museum erhalten.</p>"
 
 msgid "IDS_PASB598_FULL"
 msgstr "Massachusetts B"
@@ -55089,13 +54987,13 @@ msgid "IDS_PASB598_YEAR"
 msgstr "1942"
 
 msgid "IDS_PASB599"
-msgstr "Kearsarge B."
+msgstr "Kearsarge B"
 
 msgid "IDS_PASB599_DESCR"
-msgstr "<p>In den 1930er Jahren plante die UdSSR, ihre Flotte mit großen Artillerieschiffen zu verstärken. Zu diesem Zweck wurde 1938 eine sowjetische Kommission in die USA entsandt, um die Erfahrungen ausländischer Kollegen zu studieren. Über die Führung der US Navy knüpften die angekommenen Delegierten Kontakte zur Schiffbaufirma Gibbs & Cox, die Projekte für zwei Schiffe entwickeln sollte: Eines sollte in den USA gebaut werden, das andere in der Sowjetunion.</p><p class=\"p_spacing\"> </p><p>Auf der Grundlage der von sowjetischer Seite vorgegebenen taktisch-technischen Anforderungen wurden drei Projekte für einen hybriden Schlachtschiffträger mit dem Gesamtindex 1058 entwickelt. Das Projekt 1058.1 war mit zwölf 406-mm-Geschützen in vier Türmen bewaffnet.</p><p class=\"p_spacing\"> </p><p>Im November 1938 erkannte die sowjetische Seite den Bau eines so großen und teuren Schiffs als unzweckmäßig und das Projekt wurde eingestellt.</p>"
+msgstr "<p>In den 1930er Jahren plante die UdSSR, ihre Flotte mit großen Artillerieschiffen zu verstärken. Zu diesem Zweck wurde 1938 eine sowjetische Kommission in die USA entsandt, um die Erfahrungen ausländischer Kollegen zu studieren. Über das US-Marinekommando knüpften die angekommenen Delegierten Kontakte zur Schiffbaufirma Gibbs & Cox, die die Projekte für zwei Schiffe entwickeln sollte: eines sollte in den USA gebaut werden, das andere in der Sowjetunion.</p><p class=\"p_spacing\"> </p><p>Auf der Grundlage der von der sowjetischen Seite vorgelegten taktisch-technischen Anforderungen wurden drei Projekte für Hybrid-Schlachtschiffträger mit dem gemeinsamen Index 1058 entwickelt. Projekt 1058.1 war mit zwölf 406-mm-Geschützen in vier Türmen bewaffnet.</p><p class=\"p_spacing\"> </p><p>Im November 1938 erkannte die sowjetische Seite den Bau eines so großen und teuren Schiffs als unzweckmäßig an und das Projekt wurde eingestellt.</p>"
 
 msgid "IDS_PASB599_FULL"
-msgstr "Kearsarge B."
+msgstr "Kearsarge B"
 
 msgid "IDS_PASB599_NUMBER"
 msgstr "1"
@@ -55137,7 +55035,7 @@ msgid "IDS_PASB708"
 msgstr "Alabama ST"
 
 msgid "IDS_PASB708_DESCR"
-msgstr "<p>Die USS Alabama, das vierte Schlachtschiff der South-Dakota-Klasse, wurde in Portsmouth (Bundesstaat Virginia) gebaut. Nach der Ausbildung der Besatzung wurde das Schlachtschiff vorübergehend der britischen Marine zugewiesen, um Arktiskonvois zu schützen. 1943 wurde das Schiff in den Pazifik verlegt, um an Operationen gegen Japan teilzunehmen. Die erste davon war der Gilbert- und Marshallinseln-Feldzug, später nahm die Alabama am Marianen-Feldzug, am Philippinen-Feldzug und 1945 an der Unterstützung der Landung auf Okinawa teil. Für ihren Dienst wurde das Schlachtschiff mit neun Battle Stars ausgezeichnet.</p><p class=\"p_spacing\"> </p><p>Von 1947 bis 1962 befand sich die Alabama in der Reserve und wurde später zu einem Museumsschiff umgebaut.</p>"
+msgstr "<p>Die USS Alabama, das vierte Schlachtschiff der South-Dakota-Klasse, wurde in Portsmouth (Virginia) gebaut. Nach der Mannschaftsausbildung wurde das Schlachtschiff kurzzeitig der britischen Marine zugeteilt, um Arktiskonvois zu schützen. 1943 wurde das Schiff in den Pazifik verlegt, um an Operationen gegen Japan teilzunehmen: die erste war die Kampagne auf den Gilbert- und Marshallinseln, später nahm die Alabama an der Kampagne auf den Marianeninseln, der Philippinen-Kampagne und 1945 an der Unterstützung der Landung auf Okinawa teil. Während ihres Dienstes wurde die Alabama mit neun Battle Stars ausgezeichnet.</p><p class=\"p_spacing\"> </p><p>Von 1947 bis 1962 befand sich die Alabama in der Reserve und wurde später zu einem Museumsschiff umgebaut.</p>"
 
 msgid "IDS_PASB708_FULL"
 msgstr "Alabama ST"
@@ -55899,7 +55797,7 @@ msgid "IDS_PASC587"
 msgstr "Atlanta B"
 
 msgid "IDS_PASC587_DESCR"
-msgstr "<p>Auf Beschluss der Londoner Konferenz wurde die Verdrängung von leichten Kreuzern auf 8000 Tonnen begrenzt. Ursprünglich plante die Führung der US Navy den Bau von Schiffen mit der maximal zulässigen Größe, konzentrierte sich später jedoch auf den Bau eines leichteren Kreuzers für Operationen an der Seite von Zerstörern.</p><p class=\"p_spacing\"> </p><p>Ein Entwurf für ein 6000-Tonnen-Schiff mit einem Panzergürtel und Zwillingslafetten für 127-mm-Flugabwehrgeschütze wurde 1938 erstellt.</p><p class=\"p_spacing\"> </p><p>Die USS Atlanta wurde in Kearny (New Jersey) gebaut. 1942 wurde der Kreuzer in den Pazifik verlegt, wo er in der Schlacht um Midway kämpfte und später amerikanische Seestreitkräfte vor den Salomonen deckte.</p><p class=\"p_spacing\"> </p><p>Am 12. November 1942 wurde der Kreuzer in der Seeschlacht von Guadalcanal von einem Torpedo eines japanischen Zerstörers und mehreren 203-mm-Granaten getroffen, die versehentlich von einem amerikanischen Schiff abgefeuert wurden. Am folgenden Tag wurde der Kreuzer im Schlepptau versenkt. Im Kriegsverlauf wurde die Atlanta mit fünf Battle Stars ausgezeichnet.</p>"
+msgstr "<p>Gemäß der Entscheidung der Londoner Konferenz wurde die Wasserverdrängung von leichten Kreuzern auf 8000 t begrenzt. Ursprünglich plante die US Navy den Bau von Schiffen mit der maximal zulässigen Größe, konzentrierte sich später jedoch auf den Bau eines leichteren Kreuzers für gemeinsame Operationen mit Zerstörern.</p><p class=\"p_spacing\"> </p><p>1938 wurde der Entwurf eines 6000-t-Schiffes mit Panzergürtel und 127-mm-Zwillings-Fla-Geschützen entwickelt.</p><p class=\"p_spacing\"> </p><p>Die USS Atlanta wurde in Kearny, New Jersey, gebaut. 1942 wurde der Kreuzer in den Pazifik verlegt, wo er bei Midway kämpfte und später amerikanische Flottenverbände bei den Salomonen deckte.</p><p class=\"p_spacing\"> </p><p>Am 12. November 1942 wurde der Kreuzer in der Schlacht von Guadalcanal von einem Torpedo japanischer Zerstörer und mehreren versehentlich von einem amerikanischen Schiff abgefeuerten 203-mm-Granaten getroffen. Am folgenden Tag wurde der Kreuzer während des Abschleppens aufgegeben und versenkt. Im Krieg wurde die Atlanta mit fünf Battle Stars ausgezeichnet.</p>"
 
 msgid "IDS_PASC587_FULL"
 msgstr "Atlanta B"
@@ -55929,7 +55827,7 @@ msgid "IDS_PASC599"
 msgstr "Alaska B"
 
 msgid "IDS_PASC599_DESCR"
-msgstr "<p>Nach dem Scheitern des zweiten Londoner Flottenabkommens begannen die USA mit dem Vorentwurf von Schiffen zur Kreuzerbekämpfung. Gemäß der Aufgabenstellung plante die Führung der US-Marine, sie mit 305-mm-Geschützen auszurüsten.</p><p class=\"p_spacing\"> </p><p>1941 wurde ein Schiffsentwurf entwickelt, der „schlechter gepanzert war als jedes Schlachtschiff, aber besser als jeder Kreuzer“ und drei Drillingstürme der Hauptbatterie hatte.</p><p class=\"p_spacing\"> </p><p>Die USS Alaska, das Typschiff der Klasse, wurde in Camden (New Jersey) gebaut. 1944 diente der Kreuzer im Pazifik, wo er die Flugzeugträger während der Angriffe auf Tokio und der Landungen auf Iwojima und Okinawa schützte. 1945 nahm er am Angriff auf Shanghai teil. Im Laufe des Zweiten Weltkriegs wurde das Schiff mit drei Battle Stars ausgezeichnet.</p><p class=\"p_spacing\"> </p><p>1947 wurde die Alaska in die Reserve versetzt. 1958 wurde ein Umbau zum Raketenkreuzer vorgeschlagen, aber aufgrund der zu hohen Kosten wurde das Projekt eingestellt.</p>"
+msgstr "<p>Nach dem Scheitern des zweiten Londoner Flottenabkommens begannen die USA mit vorläufigen Entwurfsarbeiten für Schiffe, die speziell zur Bekämpfung von Kreuzern konzipiert waren. Gemäß dem von der US Navy ausgegebenen Pflichtenheft sollten sie mit 305-mm-Geschützen ausgerüstet werden.</p><p class=\"p_spacing\"> </p><p>1941 wurde der Entwurf eines Schiffes entwickelt, das „schlechter gepanzert war als jedes Schlachtschiff, aber besser als jeder Kreuzer“ und über drei Drillingstürme als Hauptbatterie verfügte.</p><p class=\"p_spacing\"> </p><p>Die USS Alaska, das Typschiff ihrer Klasse, wurde in Camden, New Jersey, gebaut. 1944 diente der Kreuzer im Pazifik, wo er Flugzeugträger während der Angriffe auf Tokio und der Landungen auf Iwojima und Okinawa schützte. 1945 nahm er am Angriff auf Shanghai teil. Im Zweiten Weltkrieg wurde das Schiff mit drei Battle Stars ausgezeichnet.</p><p class=\"p_spacing\"> </p><p>1947 wurde die Alaska in die Reserve versetzt. 1958 wurde ein Umbau zum Raketenkreuzer vorgeschlagen, aber das Projekt wurde wegen der zu hohen Kosten eingestellt.</p>"
 
 msgid "IDS_PASC599_FULL"
 msgstr "Alaska B"
@@ -56432,13 +56330,13 @@ msgid "IDS_PASD521_YEAR"
 msgstr "1943"
 
 msgid "IDS_PASD529"
-msgstr "Black B"
+msgstr "Black Black"
 
 msgid "IDS_PASD529_DESCR"
 msgstr "<p>Die USS Black, ein Zerstörer der Fletcher-Klasse, wurde in Kearny (New Jersey) gebaut. Während des Zweiten Weltkriegs wurde sie für Patrouillenfahrten im Zentralpazifik, zur Unterstützung der Landungen auf Saipan und Guam, in der Schlacht im Golf von Leyte und bei den Angriffen auf Okinawa eingesetzt. Im Laufe des Krieges wurde sie mit sechs Battle Stars ausgezeichnet. Später kamen zwei weitere für den Koreakrieg hinzu, wo sie 1953 eingesetzt wurde.</p><p class=\"p_spacing\"> </p><p>Von 1955 bis 1969 führte die Black Patrouillen- und Geleitschutzaufgaben für Flugzeugträger durch, unter anderem während des Vietnamkriegs.</p>"
 
 msgid "IDS_PASD529_FULL"
-msgstr "Black B"
+msgstr "Black Black"
 
 msgid "IDS_PASD529_NUMBER"
 msgstr "175"
@@ -56450,7 +56348,7 @@ msgid "IDS_PASD597"
 msgstr "Sims B"
 
 msgid "IDS_PASD597_DESCR"
-msgstr "<p>Die Zerstörer der Sims-Klasse ähnelten den Schiffen der Mahan-Klasse, waren aber größer als ihre Vorgänger und unterschieden sich durch die Installation der Hauptgeschütze auf einer ringförmigen Basis. Bereits nach dem Bau wurde auf den Schiffen eine starke Überlast festgestellt, weshalb der dritte Torpedowerfer entfernt und die Position des zweiten geändert werden musste.</p><p class=\"p_spacing\"> </p><p>Die USS Sims wurde auf der Werft der Bath Iron Works gebaut. Nach dem Eintritt der USA in den Zweiten Weltkrieg schloss sich das Schiff dem Kampfverband des Flugzeugträgers Yorktown an. In der Seeschlacht im Korallenmeer am 7. Mai 1942 sank der Zerstörer infolge eines Angriffs japanischer Sturzbomber. Vor ihrem Untergang erhielt die Sims zwei Battle Stars.</p>"
+msgstr "<p>Die Zerstörer der Sims-Klasse ähnelten denen der Mahan-Klasse, waren aber größer als ihre Vorgänger und unterschieden sich durch die Montage der Hauptgeschütze auf einer ringförmigen Basis. Bereits nach dem Bau wurde bei den Schiffen eine starke Überlast festgestellt, weshalb der dritte Torpedowerfer entfernt und die Position des zweiten geändert werden musste.</p><p class=\"p_spacing\"> </p><p>Die USS Sims wurde auf der Werft von Bath Iron Works gebaut. Nach dem Eintritt der Vereinigten Staaten in den Zweiten Weltkrieg schloss sich das Schiff dem gleichen Kampfverband wie der Flugzeugträger Yorktown an. Im Zuge der Seeschlacht im Korallenmeer am 7. Mai 1942 sank der Zerstörer in der Folge eines Angriffs japanischer Sturzbomber. Vor ihrem Untergang erhielt die Sims zwei Battle Stars.</p>"
 
 msgid "IDS_PASD597_FULL"
 msgstr "Sims B"
@@ -57087,7 +56985,7 @@ msgid "IDS_PAUA841_BLACK"
 msgstr "127 mm/38 Mk.12 in einer Lafette Mk.30 Mod.0"
 
 msgid "IDS_PAUA900_B10_ART_STOCK"
-msgstr "457 mm/45 Mk.A in einem Turm"
+msgstr "457 mm/47 Mk.A in einem Turm"
 
 msgid "IDS_PAUA901_C10_ART_STOCK"
 msgstr "203 mm/55 RF Mk.16 in einem Turm"
@@ -57114,7 +57012,7 @@ msgid "IDS_PAUA908_ART_P_RICO"
 msgstr "305 mm/50 Mk.8 in einem Turm"
 
 msgid "IDS_PAUA909_BB10_ART_STOCK"
-msgstr "457 mm/45 Mk.A in einem Turm"
+msgstr "457 mm/47 Mk.A in einem Turm"
 
 msgid "IDS_PAUA910_ART_AUSTIN"
 msgstr "127 mm/54 Mk.18 in einem Turm"
@@ -58323,7 +58221,7 @@ msgid "IDS_PAUF912_FLIGHTCONTROL_2_A"
 msgstr "Mk10 Mod. 2"
 
 msgid "IDS_PAUF913_FLIGHTCONTROL_2_F"
-msgstr "Mk10 mod. 3"
+msgstr "Mk10 mod. 3"
 
 msgid "IDS_PAUF974_FC_1_MIDWAY"
 msgstr "Mk10 Mod. 1"
@@ -58332,7 +58230,7 @@ msgid "IDS_PAUF975_FC_2A_MIDWAY"
 msgstr "Mk10 Mod. 2"
 
 msgid "IDS_PAUF976_FC_2B_MIDWAY"
-msgstr "Mk10 mod. 3"
+msgstr "Mk10 mod. 3"
 
 msgid "IDS_PAUF991_FC1_MIDWAY"
 msgstr "Mk10 Mod. 1"
@@ -58862,7 +58760,7 @@ msgid "IDS_PAUH818_HALFORD"
 msgstr "Halford"
 
 msgid "IDS_PAUH819_HULL_BLACK_BLACK"
-msgstr "Black B"
+msgstr "Black Black"
 
 msgid "IDS_PAUH820_D9_HULL_STOCK"
 msgstr "Maffitt"
@@ -59346,7 +59244,7 @@ msgid "IDS_PAUS001_SUO"
 msgstr "Mk1 Mod. 1"
 
 msgid "IDS_PAUS002_SUO"
-msgstr "Mk1 mod. 2"
+msgstr "Mk1 mod. 2"
 
 msgid "IDS_PAUS011_SUO"
 msgstr "Mk1 Mod. 1"
@@ -59952,7 +59850,7 @@ msgid "IDS_PAUT521_533_4_APT017"
 msgstr "533 mm (4x Mk14)"
 
 msgid "IDS_PAUT531_533_4_PAPT001"
-msgstr "Mk15 mod. 0"
+msgstr "Mk15 mod. 0"
 
 msgid "IDS_PAUT541_533_3_PAPT017_MB"
 msgstr "Mk9 Mod. 1"
@@ -59964,7 +59862,7 @@ msgid "IDS_PAUT601_D7_TORP_STOCK"
 msgstr "Mk12"
 
 msgid "IDS_PAUT602_D7_TORP_TOP"
-msgstr "Mk15 mod. 0"
+msgstr "Mk15 mod. 0"
 
 msgid "IDS_PAUT603_TORP_BLACK_ATLANTA"
 msgstr "Mk15 Mod. 3*"
@@ -59985,25 +59883,25 @@ msgid "IDS_PAUT621_533_4_PAPT001"
 msgstr "Mark 11"
 
 msgid "IDS_PAUT631_533_PAPT015_SIMS"
-msgstr "Bliss Leavitt Mk7 mod. 2B"
+msgstr "Bliss Leavitt Mk7 mod. 2B"
 
 msgid "IDS_PAUT680_TORP_STOCK_BLACK_SIMS"
-msgstr "Mk15 mod. 0"
+msgstr "Mk15 mod. 0"
 
 msgid "IDS_PAUT681_TORP_TOP_BLACK_SIMS"
-msgstr "Bliss Leavitt Mk7 mod. 2B"
+msgstr "Bliss Leavitt Mk7 mod. 2B"
 
 msgid "IDS_PAUT700_S8_TORP_STOCK"
 msgstr "Mk28 Mod. 0 und Mk28 Mod. 0 MIE"
 
 msgid "IDS_PAUT701_D8_TORP_STOCK"
-msgstr "Mk15 mod. 0"
+msgstr "Mk15 mod. 0"
 
 msgid "IDS_PAUT702_D8_TORP_TOP"
 msgstr "Mk15 Mod. 3*"
 
 msgid "IDS_PAUT703_533_MARK_14_MOD_3"
-msgstr "Mk14 mod. 3"
+msgstr "Mk14 mod. 3"
 
 msgid "IDS_PAUT704_TORP_KIDD"
 msgstr "Mk15 Mod. 3*"
@@ -60327,28 +60225,28 @@ msgid "IDS_PBAD907_ASW_T10_CV"
 msgstr "Handley Page Halifax GR"
 
 msgid "IDS_PBAF001_H_NIMROD"
-msgstr "Nimrod Mk I"
+msgstr "Nimrod Mk I"
 
 msgid "IDS_PBAF002_G_SEAGLADIATOR"
-msgstr "Sea Gladiator Mk II"
+msgstr "Sea Gladiator Mk II"
 
 msgid "IDS_PBAF003_B_FIREBRAND_F"
 msgstr "Firebrand F.I"
 
 msgid "IDS_PBAF004_H_SEA_HURR_MKIB"
-msgstr "Sea Hurricane Mk IB"
+msgstr "Sea Hurricane Mk IB"
 
 msgid "IDS_PBAF005_S_SEAFIREII"
-msgstr "Seafire Mk II"
+msgstr "Seafire Mk II"
 
 msgid "IDS_PBAF006_F_FIREFLY"
-msgstr "Firefly Mk I"
+msgstr "Firefly Mk I"
 
 msgid "IDS_PBAF007_S_SEAFIRE_MKXV"
-msgstr "Seafire F.Mk XV"
+msgstr "Seafire F.Mk XV"
 
 msgid "IDS_PBAF008_F_FIREFLY_INDOMITABLE"
-msgstr "Firefly Mk I"
+msgstr "Firefly Mk I"
 
 msgid "IDS_PBAF016_FAIREY_F"
 msgstr "Fairey Flycatcher"
@@ -61707,7 +61605,7 @@ msgid "IDS_PBPB112_MALTA_STOCK"
 msgstr "500-lb-Splitterbombe"
 
 msgid "IDS_PBPB121_EAGLE_JET"
-msgstr "1000 lb G.P. Bomb"
+msgstr "1000 lb G.P. Bomb"
 
 msgid "IDS_PBPB206_FURIOUS_TOP"
 msgstr "250-lb-Splitterbombe"
@@ -61794,7 +61692,7 @@ msgid "IDS_PBPR112_MALTA_STOCK"
 msgstr "RP-3 60 lb No2 Mk.I"
 
 msgid "IDS_PBPR121_EAGLE_JET"
-msgstr "RP-3 60 lb No2 Mk.I"
+msgstr "RP-3 60 lb No2 Mk.I"
 
 msgid "IDS_PBPR206_FURIOUS_TOP"
 msgstr "RP-3 60 lb No1 Mk.I"
@@ -65295,7 +65193,7 @@ msgid "IDS_PBUS719_SUO_TIGER_TEST"
 msgstr "Mk VIII Mod. 1"
 
 msgid "IDS_PBUS720_SUO_ANSON"
-msgstr "Mk VIII"
+msgstr "Mk VIII"
 
 msgid "IDS_PBUS800_B9_SUO_STOCK"
 msgstr "Mk IX Mod. 1"
@@ -65364,7 +65262,7 @@ msgid "IDS_PBUS904_SUO_PLYMOUTH"
 msgstr "Mk X Mod. 1"
 
 msgid "IDS_PBUS905_SUO_THUNDERER"
-msgstr "Mk X"
+msgstr "Mk X"
 
 msgid "IDS_PBUS906_CA10_SUO_STOCK"
 msgstr "Mk X Mod. 1"
@@ -65418,7 +65316,7 @@ msgid "IDS_PBUT101_D2_TORP_STOCK"
 msgstr "533 mm Mk II"
 
 msgid "IDS_PBUT201_CAMPBELTOWN"
-msgstr "Bliss Leavitt Mk8 mod. 2"
+msgstr "Bliss Leavitt Mk8 mod. 2"
 
 msgid "IDS_PBUT201_D3_TORP_STOCK"
 msgstr "533 mm Mk II"
@@ -70369,7 +70267,7 @@ msgid "IDS_PCEE692_USA_DD_EA_FLAG"
 msgstr "US-Zerstörer"
 
 msgid "IDS_PCEE692_USA_DD_EA_FLAG_DESCRIPTION"
-msgstr "Not for self but for country."
+msgstr "Non sibi sed patriae."
 
 msgid "IDS_PCEE692_USA_DD_EA_FLAG_EXTRA_DESCRIPTION"
 msgstr "Zur Feier der Einführung der neuen amerikanischen Zerstörer, die in Update 13.6 im Vorabzugang in See stechen."
@@ -70672,7 +70570,7 @@ msgid "IDS_PCEE740_FALKENHAYN_FLAG_DESCRIPTION"
 msgstr "Die Flagge, die im 19. und 20. Jahrhundert auf Schiffen und Fahrzeugen des preußischen Kriegsministeriums gehisst wurde. In den Jahren 1913–14 bekleidete Erich Georg Sebastian Anton von Falkenhayn (1861–1922) das Amt des preußischen Kriegsministers – ein herausragender General der Kaiserlich Deutschen Armee im Ersten Weltkrieg."
 
 msgid "IDS_PCEE741_FRANCISCO_MIRANDA_FLAG"
-msgstr "ARV Francisco de Miranda"
+msgstr "ARV Francisco de Miranda "
 
 msgid "IDS_PCEE741_FRANCISCO_MIRANDA_FLAG_DESCRIPTION"
 msgstr "Sebastián Francisco de Miranda y Rodríguez (1750–1816) – Revolutionär und einer der Anführer im Unabhängigkeitskampf der spanischen Kolonien in Südamerika. Im Jahr 1806 brach Miranda zu einer Expedition zur Befreiung Venezuelas an Bord des Korvetten Leander auf, auf dessen Mast seine eigene Marineflagge gehisst wurde."
@@ -70834,31 +70732,31 @@ msgid "IDS_PCEE765_OWARI_NO_ONI_FLAG_DESCRIPTION"
 msgstr "Dem „Black Friday“ gewidmet – dem Tag, an dem in vielen Ländern der Welt offiziell die Wintersonderangebote beginnen."
 
 msgid "IDS_PCEE766_BRISBANE_B_FLAG"
-msgstr "Brisbane B"
+msgstr "Brisbane B"
 
 msgid "IDS_PCEE766_BRISBANE_B_FLAG_DESCRIPTION"
 msgstr "Dem „Black Friday“ gewidmet – dem Tag, an dem in vielen Ländern der Welt offiziell die Wintersonderangebote beginnen."
 
 msgid "IDS_PCEE767_JAGER_B_FLAG"
-msgstr "Jäger B"
+msgstr "Jäger B"
 
 msgid "IDS_PCEE767_JAGER_B_FLAG_DESCRIPTION"
 msgstr "Dem „Black Friday“ gewidmet – dem Tag, an dem in vielen Ländern der Welt offiziell die Wintersonderangebote beginnen."
 
 msgid "IDS_PCEE768_GASCOGNE_B_FLAG"
-msgstr "Gascogne B"
+msgstr "Gascogne B"
 
 msgid "IDS_PCEE768_GASCOGNE_B_FLAG_DESCRIPTION"
 msgstr "Dem „Black Friday“ gewidmet – dem Tag, an dem in vielen Ländern der Welt offiziell die Wintersonderangebote beginnen."
 
 msgid "IDS_PCEE769_PRINZ_EUGEN_B_FLAG"
-msgstr "Prinz Eugen B"
+msgstr "Prinz Eugen B"
 
 msgid "IDS_PCEE769_PRINZ_EUGEN_B_FLAG_DESCRIPTION"
 msgstr "Dem „Black Friday“ gewidmet – dem Tag, an dem in vielen Ländern der Welt offiziell die Wintersonderangebote beginnen."
 
 msgid "IDS_PCEE770_HORNET_B_FLAG"
-msgstr "Hornet B"
+msgstr "Hornet B"
 
 msgid "IDS_PCEE770_HORNET_B_FLAG_DESCRIPTION"
 msgstr "Dem „Black Friday“ gewidmet – dem Tag, an dem in vielen Ländern der Welt offiziell die Wintersonderangebote beginnen."
@@ -70876,7 +70774,7 @@ msgid "IDS_PCEE772_SABIE_FLAG_DESCRIPTION"
 msgstr "Ein Kriegsschiff, das die Ideale von Nokmar verkörpert: unbeugsamen Willen, Disziplin und den Glauben an die unendliche Kraft des menschlichen Geistes. Befehligt wird es von Keira – der besten Studentin der Nordsee‑Akademie. Gleich ihrer Besitzerin greift Sabie schnell und präzise an wie ein scharfes Schwert und beseitigt jeden Gegner, der sich ihr in den Weg stellt."
 
 msgid "IDS_PCEE773_WILLIAM_R_RUSH_FLAG"
-msgstr "USS William R. Rush"
+msgstr "USS William R. Rush"
 
 msgid "IDS_PCEE773_WILLIAM_R_RUSH_FLAG_DESCRIPTION"
 msgstr "William R. Rush war ein US-amerikanischer Marineoffizier, der am Spanisch-Amerikanischen Krieg, der US-Intervention in Mexiko und am Ersten Weltkrieg teilnahm. Während der Besetzung des mexikanischen Veracruz im Jahr 1914 befehligte Rush eine Landungstruppe, wofür er die höchste militärische Auszeichnung der USA erhielt – die Medal of Honor. Am Ordensband sind 13 Sterne zu Ehren der ersten 13 US-Bundesstaaten abgebildet."
@@ -71716,10 +71614,10 @@ msgid "IDS_PCQC010_HALSEY_DESC"
 msgstr "Admiral William Halsey wurde einer derjenigen, die den Sieg der Alliierten im Pazifikkrieg sicherstellten. Ihm gelang der entscheidende Erfolg in der Schlacht um Guadalcanal, und er führte den Kampf um die Salomonen an, der den Weg nach Japan ebnete. Sein Ausspruch „Triff hart! Triff schnell! Triff oft!“ (Hit hard! Hit fast! Hit often!) wurde zum Motto der US Navy im Pazifikkrieg."
 
 msgid "IDS_PCQC010_HALSEY_NAME"
-msgstr "Triff hart! Triff schnell! Triff oft!"
+msgstr "„Triff hart! Triff schnell! Triff oft!“"
 
 msgid "IDS_PCQC010_HALSEY_NAME_QUOTES"
-msgstr "Triff hart! Triff schnell! Triff oft!"
+msgstr "„Triff hart! Triff schnell! Triff oft!“"
 
 msgid "IDS_PCQC014_EPOCHSOFSHIPS_DESC"
 msgstr "<p>Segelschiffe, die erstmals vor unserer Zeitrechnung auftauchten, begeisterten und beeindruckten die Menschen jahrhundertelang mit ihrer Kraft und prächtigen Ausstattung. Mit dem Beginn des 19. Jahrhunderts und der Beschleunigung der industriellen Revolution wurden die hölzernen Schiffsrümpfe jedoch nach und nach durch metallene ersetzt, und die Segel wurden von Dampfmaschinen verdrängt.</p><p class=\"p_spacing\"> </p><p>Von nun an bis zum Beginn des Weltraumzeitalters flossen die meisten Errungenschaften des wissenschaftlich-technischen Fortschritts in den Schiffbau ein. Und da das 20. Jahrhundert eine Ära beispielloser Weltkriege wurde, standen unweigerlich Kriegsschiffe an der Spitze des Schiffbaus, die mit ihrer Symmetrie, Komplexität und tödlichen Macht beeindruckten.</p>"
@@ -75148,7 +75046,7 @@ msgstr ""
 "Im Jahr des Todes dieses Kaisers wurde in St. Petersburg ein nach ihm benanntes Segelschlachtschiff kielgelegt. Nach der Indienstnahme 1861 wurde eine Dampfmaschine eingebaut. Mehr als drei Jahrzehnte später, im Jahr 1893, besuchte das modernste Schlachtschiff der russischen Marine – die Imperator Nikolai I – New York City, um den 400. Jahrestag der Entdeckung Amerikas zu feiern. Während des Ersten Weltkriegs gab es in einer Kampfeinheit der Schwarzmeerflott einen Wasserflugzeugträger gleichen Namens, der von einem Fracht- und Passagierschiff umgebaut worden war. Der Bau einer weiteren Imperator Nikolai I in der Stadt Nikolajew sollte das gewaltigste Dreadnought-Schlachtschiff auf dem Schwarzen Meer hervorbringen. Die Revolution von 1917 machte diesem „Imperator“ jedoch ein Ende – und auch dem russischen Reich selbst."
 
 msgid "IDS_PCZC271_NY2019_ABRUZZIEMBLEM"
-msgstr "Luigi di Savoia Duca degli Abruzzi"
+msgstr "Luigi di Savoia Duca degli Abruzzi"
 
 msgid "IDS_PCZC271_NY2019_ABRUZZIEMBLEM_DESCRIPTION"
 msgstr ""
@@ -75294,7 +75192,7 @@ msgid "IDS_PCZC290_BRITISHCVARC_WESTLAND_WYVERN_DESCRIPTION"
 msgstr "<p>Die Geschichte der Westland Wyvern, dem ersten Turboprop-Kampfflugzeug, begann 1944. Auf dem Höhepunkt des Zweiten Weltkriegs fehlte der britischen Marine noch immer ein modernes, trägergestütztes Mehrzweckflugzeug mit großem Aktionsradius. Das Unternehmen Westland begann ein entsprechendes Projekt aufzunehmen und konnte 1946 den ersten Prototyp präsentieren. Die eigenartige buckelförmige Silhouette des Flugzeugs gab dem Piloten ausreichend Sicht für den Start- und Landevorgang. Ein weiteres Designmerkmal des vielversprechenden Torpedojagdbombers, der „Wyvern“ getauft wurde, waren seine zwei gegenläufigen Vierblattpropeller.</p><p class=\"p_spacing\"> </p><p>Gewöhnliche Kolbenmotoren konnten die Geschwindigkeitsanforderungen für ein gut bewaffnetes Langstreckenflugzeug mit beachtlicher Zuladung nicht erfüllen, also entschieden sich die Konstrukteure bei Westland für ein Turboproptriebwerk. Da sich aber Entwicklung und Fertigung über mehrere Jahre hinzogen, trafen die ersten Westland Wyvern erst 1953 bei den Staffeln der Naval Air Force ein.</p>"
 
 msgid "IDS_PCZC291_BRITISHCVARC_FAIREYBARRACUDA_II"
-msgstr "Fairey Barracuda II"
+msgstr "Fairey Barracuda II"
 
 msgid "IDS_PCZC291_BRITISHCVARC_FAIREYBARRACUDA_II_DESCRIPTION"
 msgstr "<p>Die Idee zur Entwicklung eines trägergestützten Ganzmetall-Eindeckers, der sowohl als Torpedo- als auch als Sturzbomber fungieren kann, wurde erstmals von dem Unternehmen Fairey in den frühen 1930er Jahren vorgebracht. Allerdings hatte die schier endlose Reihe an widersprüchlichen Forderungen nach Konstruktionsänderungen aus der britischen Luftfahrtbehörde zur Folge, dass sich die Arbeiten um fast ein Jahrzehnt verzögerten. Und so waren ihre Leistungsmerkmale, als die Produktion der sogenannten „Barracuda“ 1942 endlich anlief, alles andere als beeindruckend. Die Barracuda II, die ab Anfang 1943 in den Dienst der Naval Air Force gestellt wurde, war mit ihrem 1600-PS-Motor etwas besser aufgestellt.</p><p class=\"p_spacing\"> </p><p>Die nicht sehr schnelle und nicht besonders manövrierbare Barracuda gab keinen guten Torpedobomber ab. Aber einige ihrer Konstruktionsvorteile machten sie zu einem durchaus passablen Sturzbomber. Der aufsehenerregendste Moment in ihrer Dienstzeit ereignete sich während der Operation Tungsten, bei der sich das deutsche Schlachtschiff Tirpitz in den norwegischen Fjorden versteckte. Am 04. April 1944 flogen 42 Barracudas in zwei Wellen Angriffe auf das Schlachtschiff, erzielten 14 Bombentreffer und verloren dabei nur drei Maschinen. Dadurch wurde das Schlachtschiff für mehrere Monate außer Gefecht gesetzt. Als die Air Force im Rahmen eines Leih-Pacht-Abkommens amerikanische Grumman Avengers erhielt, die die Barracudas in allen Aspekten übertrafen, wurden die britischen Flugzeuge fast nur noch zur Aufklärung, dem Verminen von feindlichen Häfen und Fahrrinnen, für Anti-U-Boot-Patrouillen und für Transportflüge eingesetzt.</p>"
@@ -75927,7 +75825,7 @@ msgid "IDS_PCZC395_ITCA_MUZIO_ATTENDOLO_DESCRIPTION"
 msgstr "<p>Der zweite Kreuzer der Raimondo Montecuccoli-Klasse war Muzio Attendolo, 1931 auf Stapel gelegt und 1934 in der Stadt Triest vom Stapel gelassen. Das Schiff wurde nach einem Söldner-Condottiere benannt, der zur Jahrhundertwende des 14. und 15. Jahrhunderts lebte und mit seiner Truppe den Herrschern von Milan, Florenz, Ferrara und Neapel diente. Berühmt für seine erstaunliche Kraft erhielt Muzio Attendolo am Anfang seiner Karriere den Spitznamen „Stark“ (italienisch: „Sforza“). Dieser Spitzname wurde auch der Name der berühmten Dynastie, die er gründete und die Milan in der Hochrenaissance beherrschte.</p><p class=\"p_spacing\"> </p><p>Das Gedenkabzeichen der Schiffsbesatzung zeigt die Schiffssilhouette und das Motto: „Hartnäckig und unbesiegbar“ (Latein: „Constans [et] indomitus“). Auf der anderen Seite war ein Profil von Muzio Attendolo mit einem Fresko von Bernardino Luini, einem italienischen Künstler des 16. Jahrhunderts sowie sein Spitzname „Sforza“.</p>"
 
 msgid "IDS_PCZC396_ITCA_DUCA_DAOSTA"
-msgstr "Duca d'Aosta"
+msgstr "Duca d’Aosta"
 
 msgid "IDS_PCZC396_ITCA_DUCA_DAOSTA_DESCRIPTION"
 msgstr "<p>Nicht alle leichten Kreuzer der königlich italienischen Marine wurden nach Militärkommandanten, Condottieri, benannt, die im Mittelalter Söldner anführten. Beispielsweise wurde das Typschiff der vierten Reihe der Condottieri-Klasse, das 1934 vom Stapel lief, nach dem Cousin des Königs und Marschall Italiens benannt, dem Herzog von Aosta, Emanuele Filiberto (1869–1931).</p><p class=\"p_spacing\"> </p><p>Im Ersten Weltkrieg befahl der Herzog von Aosta die Dritte Armee, die im Norden Venedigs kämpfte. Emanuele Filiberto war einer der Helden der siegreichen Schlacht von Vittorio Veneto und erlitt keine einzige Niederlage, weshalb er den Spitznamen „Unbesiegbarer Herzog“ erhielt (italienisch: „Duca Invitto“). Das Motto des nach ihm benannten Kreuzers war das lateinische Sprichwort „Sieg gibt uns Leben“. Das Gedenkabzeichen der Besatzung zeigte ein Bildnis des Kreuzes, das wiederum an die verliehen wurde, die in der Armee des Herzogs dienten.</p>"
@@ -76107,11 +76005,7 @@ msgid "IDS_PCZC424_TM_ORGBOSS"
 msgstr "Ersteller:"
 
 msgid "IDS_PCZC424_TM_ORGBOSS_DESCRIPTION"
-msgstr ""
-"Auf ihm lastet die Verantwortung und er arbeitet jeden Tag hart an der Belastungsgrenze.\n"
-"Nicht selten werden Wettbewerbe von besonders initiativen Spielergruppen organisiert.\n"
-"Was muss ein Organisator tun, damit alles glatt läuft? Das Datum festlegen und abstimmen, die Turnierpaarungen erstellen, sowohl die Arbeit der Streamer als auch die Durchführung des gesamten Turniers koordinieren.\n"
-"Der Organisator gibt alles für das Turnier, er ist ein echter Enthusiast und jemand, dessen titanische Arbeit hinter den Kulissen bleibt – denn am Ende geht der ganze Ruhm an die Spieler!"
+msgstr "<p>Auf ihm lastet die Verantwortung und er arbeitet jeden Tag hart an der Belastungsgrenze.</p><p class=\"p_spacing\"> </p><p>Nicht selten werden Wettbewerbe von besonders initiativen Spielergruppen organisiert.<br>Was muss ein Organisator tun, damit alles glatt läuft? Das Datum festlegen und abstimmen, die Turnierpaarungen erstellen, sowohl die Arbeit der Streamer als auch die Durchführung des gesamten Turniers koordinieren.<br>Der Organisator gibt alles für das Turnier, er ist ein echter Enthusiast und jemand, dessen titanische Arbeit hinter den Kulissen bleibt – denn am Ende geht der ganze Ruhm an die Spieler!</p>"
 
 msgid "IDS_PCZC425_TM_REFEREE1"
 msgstr "Die Peitsche schwingende Schiedsrichterin"
@@ -78688,7 +78582,7 @@ msgid "IDS_PCZC936_TSAR_MOREY_4_2"
 msgstr "Wer sich anpasst, gewinnt"
 
 msgid "IDS_PCZC936_TSAR_MOREY_4_2_DESCRIPTION"
-msgstr "<p>„Leicht, mittelschwer, schwer? Nebel, Radar oder Hydro? Und was ist mit Torpedos, Hauptbatterie und Sekundärbatterie? Die Antwort: alles!“</p><p class=\"p_spacing\"> </p><p>Kreuzer sind die vielseitigste Klasse, und das zeigt sich in jedem Turnier! Es gibt keine Position, die für Kreuzer unerreichbar ist.</p>"
+msgstr "<p>„Leicht, mittelschwer, schwer? Nebel, Radar oder Hydro? Und was ist mit Torpedos, Hauptbatterie und Mittelkaliberbatterie? Die Antwort: alles!“</p><p class=\"p_spacing\"> </p><p>Kreuzer sind die vielseitigste Klasse, und das zeigt sich in jedem Turnier! Es gibt keine Position, die für Kreuzer unerreichbar ist.</p>"
 
 msgid "IDS_PCZC937_TSAR_MOREY_4_3"
 msgstr "Gedankenspiele"
@@ -79101,7 +78995,7 @@ msgid "IDS_PETER_THE_GREAT"
 msgstr "Pjotr Weliki"
 
 msgid "IDS_PFAB501_BEARN_STOCK"
-msgstr "Levasseur PL.108 "
+msgstr "Levasseur PL.108"
 
 msgid "IDS_PFAD501_BEARN_STOCK"
 msgstr "Vought V-156F"
@@ -80147,7 +80041,7 @@ msgid "IDS_PFPD106_DEPTH_CV_6"
 msgstr "100-Pfund-Bombe Mk VIII"
 
 msgid "IDS_PFPR001_BEARN_STOCK"
-msgstr "RP3 25 lb"
+msgstr "RP3 25lb"
 
 msgid "IDS_PFPS001_BEARN_STOCK"
 msgstr "500-kg G.P. Mle 1930"
@@ -80504,13 +80398,13 @@ msgid "IDS_PFSB518_YEAR"
 msgstr "1949"
 
 msgid "IDS_PFSB519"
-msgstr "Jean Bart '43"
+msgstr "Jean Bart '43"
 
 msgid "IDS_PFSB519_DESCR"
 msgstr "<p>Im Jahr 1943 führte das „Freie Frankreich“ Verhandlungen mit den USA über die Fertigstellung des Schlachtschiffs Jean Bart, das Ende 1942 von den Alliierten in Casablanca erbeutet worden war. Es wurden zwei Varianten entwickelt, den Einbau von 340-mm-Geschützen des Schlachtschiffs Lorraine auf dem Schiff vorsahen.</p><p class=\"p_spacing\"> </p><p>Eine der Varianten bedeutete die faktische Umwandlung des Schlachtschiffs in ein Flugabwehrschiff. Dazu sollte anstelle des zweiten Hauptbatterieturms eine Anzahl amerikanischer 127-mm-Zwillings-Mehrzwecklafetten, zwanzig 40-mm-Vierlingslafetten Bofors und weitere Geschütze an Bord untergebracht werden.</p>"
 
 msgid "IDS_PFSB519_FULL"
-msgstr "Jean Bart '43"
+msgstr "Jean Bart '43"
 
 msgid "IDS_PFSB519_NUMBER"
 msgstr "2"
@@ -80579,13 +80473,13 @@ msgid "IDS_PFSB548_YEAR"
 msgstr "1939"
 
 msgid "IDS_PFSB596"
-msgstr "Dunkerque B."
+msgstr "Dunkerque B"
 
 msgid "IDS_PFSB596_DESCR"
 msgstr "Nach der Unterzeichnung des Washingtoner Flottenabkommens wurde mit den Arbeiten am Entwurf einer neuen Schiffsklasse begonnen. In den frühen 1930er Jahren war ein Schiffsprojekt bereit, das acht 330-mm-Geschütze in zwei Vierlingstürmen und eine Verdrängung von 26 500 Tonnen vorsah. Zu Beginn des Zweiten Weltkriegs wurde die Dunkerque für Patrouillen- und Geleitschutzoperationen eingesetzt, anschließend wurde sie ins Mittelmeer beordert. In Folge des Angriffs auf Mers-el-Kébir wurde der Schlachtkreuzer schwer beschädigt und lief auf Grund."
 
 msgid "IDS_PFSB596_FULL"
-msgstr "Dunkerque B."
+msgstr "Dunkerque B"
 
 msgid "IDS_PFSB596_NUMBER"
 msgstr "2"
@@ -80609,13 +80503,13 @@ msgid "IDS_PFSB598_YEAR"
 msgstr "1939"
 
 msgid "IDS_PFSB599"
-msgstr "Jean Bart B."
+msgstr "Jean Bart B"
 
 msgid "IDS_PFSB599_DESCR"
 msgstr "Die Jean Bart, das zweite Schlachtschiff der Richelieu-Klasse, wurde nach dem Ausbruch des Zweiten Weltkriegs vom Stapel gelassen. Um eine Eroberung durch den Feind zu verhindern, wurde das unfertige Schiff nach Casablanca gebracht, wo die Bauarbeiten fortgesetzt wurden. Während der Landung der Alliierten in Casablanca leistete die Jean Bart Widerstand und wurde durch das Schlachtschiff Massachusetts schwer beschädigt. Der Bau des Schiffs wurde erst nach dem Krieg abgeschlossen."
 
 msgid "IDS_PFSB599_FULL"
-msgstr "Jean Bart B."
+msgstr "Jean Bart B"
 
 msgid "IDS_PFSB599_NUMBER"
 msgstr "2"
@@ -81908,7 +81802,7 @@ msgid "IDS_PFUE991_C10_ENG_STOCK"
 msgstr "Leistung: 220 000 PS"
 
 msgid "IDS_PFUF501_FC1_BEARN"
-msgstr "Contrôle de vol Mle 6"
+msgstr "Contrôle de vol Mle 6"
 
 msgid "IDS_PFUH001_C1_HULL_A"
 msgstr "Bougainville (A)"
@@ -84638,7 +84532,7 @@ msgid "IDS_PGPT064_Z32"
 msgstr "G7 T1 Ausf. B"
 
 msgid "IDS_PGPT065_Z38"
-msgstr "G7 T1 Ausf. D"
+msgstr "G7 T1 Ausf. D"
 
 msgid "IDS_PGPT066_533MM_T11"
 msgstr "G7 Steinwal"
@@ -85076,7 +84970,7 @@ msgid "IDS_PGSB109_YEAR"
 msgstr "1939"
 
 msgid "IDS_PGSB110"
-msgstr "G. Kurfürst"
+msgstr "G. Kurfürst"
 
 msgid "IDS_PGSB110_DESCR"
 msgstr "<p>Nach der Untersuchung des Verlusts des Schlachtschiffs Bismarck und der Beschädigung des Schlachtschiffs Scharnhorst im Juli 1941 führte die Führung der deutschen Marine eine Überprüfung der im Bau befindlichen Schiffe H und J durch. Eine der Anforderungen war die Verstärkung der horizontalen Panzerung, wobei der Tiefgang von 11,5 Metern erhalten bleiben sollte, damit ein solches Schiff in den seichten Gewässern der Nordsee operieren konnte.</p><p class=\"p_spacing\"> </p><p>Im Laufe der Entwicklung erhielt der Entwurf einen Dreifachboden, und die Anzahl der wasserdichten Abteilungen wurde erhöht, um den Schutz gegen Unterwasserexplosionen zu verbessern. Darüber hinaus war geplant, das Kaliber der Hauptartillerie zu erhöhen, um den neuen Schlachtschiffen einen erheblichen Vorteil gegenüber den britischen und amerikanischen Schlachtschiffen zu verschaffen.</p><p class=\"p_spacing\"> </p><p>Die in den Entwurf eingebrachten Änderungen erwiesen sich als erheblich, und der Bau der beiden bereits auf Kiel gelegten Schiffe wurde eingestellt. Es war vorgesehen, dass die Schiffe nach dem neuen Entwurf im Jahr 1942 auf Kiel gelegt werden sollten. Bald darauf wurde der Bau für die deutsche Marine jedoch auf U-Boote umgestellt, und es wurden keine neuen Schlachtschiffe mehr auf Kiel gelegt.</p>"
@@ -85466,13 +85360,13 @@ msgid "IDS_PGSB598_YEAR"
 msgstr "1941"
 
 msgid "IDS_PGSB599"
-msgstr "Pommern B."
+msgstr "Pommern B"
 
 msgid "IDS_PGSB599_DESCR"
 msgstr "<p>Beim Entwurf des Schlachtschiffs H bestand die Hauptanforderung an die Feuerkraft darin, dass sie alle vorhandenen Gegenstücke auf der Welt übertreffen sollte. Die Führung bestand auf dem Kaliber 420 mm, das das Hauptkaliber der Schlachtschiffe jedes anderen Landes übertroffen hätte (die wahre Größe der Geschütze der Yamato erfuhr die Welt erst nach dem Ende des Zweiten Weltkriegs). Durch die Installation von Geschützen dieses Kalibers an Bord hätte Deutschland jedoch das Washingtoner Flottenabkommen verletzt, zu dessen Einhaltung sich die Deutschen verpflichtet hatten.</p><p class=\"p_spacing\"> </p><p>Eine mögliche Lösung wäre die Umstellung auf das Kaliber 406 mm gewesen, aber solche Geschütze gab es in Deutschland nicht, und ihre Entwicklung hätte viel Zeit in Anspruch genommen. Eine andere Variante sah die Erhöhung der Anzahl der 380-mm-Geschütze auf zwölf vor – in vier Drillingstürmen. Schließlich entschied sich die Führung der Marine für 406-mm-Geschütze, und die Variante mit zwölf 380-mm-Geschützen wurde nicht realisiert.</p>"
 
 msgid "IDS_PGSB599_FULL"
-msgstr "Pommern B."
+msgstr "Pommern B"
 
 msgid "IDS_PGSB599_NUMBER"
 msgstr "1"
@@ -86051,13 +85945,13 @@ msgid "IDS_PGSC588_YEAR"
 msgstr "1940"
 
 msgid "IDS_PGSC598"
-msgstr "Mainz B."
+msgstr "Mainz B"
 
 msgid "IDS_PGSC598_DESCR"
 msgstr "<p>Im Zuge der Konstruktion der Schweren Kreuzer der Admiral-Hipper-Klasse standen die deutschen Ingenieure vor dem Problem, dass der vorgeschlagene Entwurf die „Washingtoner Beschränkungen“ hinsichtlich der Standardverdrängung nicht einhielt. Die Panzerung sollte die des französischen Kreuzers Algérie nicht unterschreiten, was zusammen mit den geforderten Werten für Geschwindigkeit und Reichweite dazu führte, dass die Gesamttonnage die Beschränkungen deutlich überschritt. Eine Möglichkeit, die Verdrängung zu verringern, war die Reduzierung des Hauptgeschützkalibers: man erwog den Umstieg auf 190 oder 170 mm.</p><p class=\"p_spacing\"> </p><p>Zum zweiten Mal wurde die Frage der Kaliberreduzierung 1936 aufgegriffen, als Deutschland zwei Kreuzer mit zwölf 150-mm-Geschützen in vier Türmen in Auftrag gab. Diese Kreuzer waren jedoch derart konstruiert, dass ihre Barbetten identisch mit denen der Kreuzer mit 203-mm-Geschützen waren, die problemlos anstelle der 150-mm-Geschütze installiert werden konnten. Dennoch wurde keines dieser Schiffe in Deutschland als Kreuzer fertiggestellt.</p>"
 
 msgid "IDS_PGSC598_FULL"
-msgstr "Mainz B."
+msgstr "Mainz B"
 
 msgid "IDS_PGSC598_NUMBER"
 msgstr "1"
@@ -87508,46 +87402,46 @@ msgid "IDS_PGUE975_ENG_HIND"
 msgstr "Leistung: 155 000 PS"
 
 msgid "IDS_PGUF301_FC1_CV4_STOCK"
-msgstr "FID Typ 4 Mod. 1"
+msgstr "FID Typ 4 Mod. 1"
 
 msgid "IDS_PGUF501_FC1_CV6_STOCK"
-msgstr "FID Typ 6 Mod. 1"
+msgstr "FID Typ 6 Mod. 1"
 
 msgid "IDS_PGUF502_FC1_LOEWENHARDT"
-msgstr "FID Typ 6 Mod. 1"
+msgstr "FID Typ 6 Mod. 1"
 
 msgid "IDS_PGUF701_FC1_GRAF_Z"
-msgstr "FID Typ 8 Mod. 1"
+msgstr "FID Typ 8 Mod. 1"
 
 msgid "IDS_PGUF702_FC2_GRAF_Z"
-msgstr "FID Typ 8 Mod. 3"
+msgstr "FID Typ 8 Mod. 3"
 
 msgid "IDS_PGUF703_FC1_BLACK_GRAF_Z"
-msgstr "FID Typ 8 Mod. 1"
+msgstr "FID Typ 8 Mod. 1"
 
 msgid "IDS_PGUF704_FC1_CV8_STOCK"
-msgstr "FID Typ 8 Mod. 1"
+msgstr "FID Typ 8 Mod. 1"
 
 msgid "IDS_PGUF712_FC1_GRAF_Z_I"
-msgstr "FID Typ 8 Mod. 2"
+msgstr "FID Typ 8 Mod. 2"
 
 msgid "IDS_PGUF791_FC1_GRAF_Z"
-msgstr "FID Typ 8 Mod. 1"
+msgstr "FID Typ 8 Mod. 1"
 
 msgid "IDS_PGUF801_FC_LOTHRINGEN"
-msgstr "FID Type 9 Mod. 1"
+msgstr "FID Typ 9 Mod. 1"
 
 msgid "IDS_PGUF900_CV10_FC_STOCK"
-msgstr "FID Typ 10 Mod. 1"
+msgstr "FID Typ 10 Mod. 1"
 
 msgid "IDS_PGUF901_FC1_CV10_STOCK"
-msgstr "FID Typ 10 Mod. 1"
+msgstr "FID Typ 10 Mod. 1"
 
 msgid "IDS_PGUF950_FC1_CV10_STOCK"
-msgstr "FID Typ 10 Mod. 1"
+msgstr "FID Typ 10 Mod. 1"
 
 msgid "IDS_PGUF951_FC1_CV10_STOCK"
-msgstr "FID Typ 10 Mod. 1"
+msgstr "FID Typ 10 Mod. 1"
 
 msgid "IDS_PGUH001_HERMELIN_A"
 msgstr "Hermelin (A)"
@@ -88035,7 +87929,7 @@ msgid "IDS_PGUH951_CV10_HULL_STOCK"
 msgstr "Max Immelmann"
 
 msgid "IDS_PGUH974_GROSS"
-msgstr "G. Kurfürst"
+msgstr "G. Kurfürst"
 
 msgid "IDS_PGUH975_HIND"
 msgstr "Hindenburg"
@@ -88104,34 +87998,34 @@ msgid "IDS_PGUL952_CV10_SB_TOP"
 msgstr "Ta 152C-1/R14"
 
 msgid "IDS_PGUQ500_S6_SONAR_STOCK"
-msgstr "Typ 6 Mod. A"
+msgstr "Typ 6 Mod. A"
 
 msgid "IDS_PGUQ501_S6_SONAR_STOCK"
-msgstr "Typ 6 Mod. A"
+msgstr "Typ 6 Mod. A"
 
 msgid "IDS_PGUQ502_S6_SONAR_TOP"
-msgstr "Typ 6 Mod. B"
+msgstr "Typ 6 Mod. B"
 
 msgid "IDS_PGUQ700_S8_SONAR_STOCK"
-msgstr "Typ 8 Mod. A"
+msgstr "Typ 8 Mod. A"
 
 msgid "IDS_PGUQ701_S8_SONAR_STOCK"
-msgstr "Typ 8 Mod. A"
+msgstr "Typ 8 Mod. A"
 
 msgid "IDS_PGUQ702_S8_SONAR_TOP"
-msgstr "Typ 8 Mod. B"
+msgstr "Typ 8 Mod. B"
 
 msgid "IDS_PGUQ900_S10_SONAR_STOCK"
-msgstr "Typ 10 Mod. A"
+msgstr "Typ 10 Mod. A"
 
 msgid "IDS_PGUQ901_S10_SONAR_STOCK"
-msgstr "Typ 10 Mod. A"
+msgstr "Typ 10 Mod. A"
 
 msgid "IDS_PGUQ902_S10_SONAR_TOP"
-msgstr "Typ 10 Mod. B"
+msgstr "Typ 10 Mod. B"
 
 msgid "IDS_PGUQ903_SONAR_U4501"
-msgstr "Typ 10 Mod. A"
+msgstr "Typ 10 Mod. A"
 
 msgid "IDS_PGUQ904_S11_SONAR_STOCK"
 msgstr "Typ 11 Mod. A"
@@ -88212,13 +88106,13 @@ msgid "IDS_PGUS312_SUO"
 msgstr "FKS Typ 4 Mod. 2"
 
 msgid "IDS_PGUS401_SUO"
-msgstr "FKS Typ 5 Mod. 1"
+msgstr "FKS Typ 5 Mod. 1"
 
 msgid "IDS_PGUS402_SUO"
 msgstr "FKS Typ 5 Mod. 2"
 
 msgid "IDS_PGUS403_D5_SUO_STOCK"
-msgstr "FKS Typ 5 Mod. 1"
+msgstr "FKS Typ 5 Mod. 1"
 
 msgid "IDS_PGUS404_D5_SUO_TOP"
 msgstr "FKS Typ 5 Mod. 2"
@@ -88230,7 +88124,7 @@ msgid "IDS_PGUS406_BB5_SUO_TOP"
 msgstr "FKS Typ 5 Mod. 2"
 
 msgid "IDS_PGUS411_SUO"
-msgstr "FKS Typ 5 Mod. 1"
+msgstr "FKS Typ 5 Mod. 1"
 
 msgid "IDS_PGUS412_SUO"
 msgstr "FKS Typ 5 Mod. 2"
@@ -88302,7 +88196,7 @@ msgid "IDS_PGUS609_D7_2_SUO_TOP"
 msgstr "FKS Typ 7 Mod. 2"
 
 msgid "IDS_PGUS610_SUO_WEIMAR"
-msgstr "FKS Typ 7 Mod. 2"
+msgstr "FKS Typ 7 Mod. 2"
 
 msgid "IDS_PGUS611_SUO"
 msgstr "FKS Typ 7 Mod. 1"
@@ -88356,10 +88250,10 @@ msgid "IDS_PGUS708_SUO_ODIN"
 msgstr "FKS Typ 8 Mod. 1"
 
 msgid "IDS_PGUS709_SUO_ANHALT"
-msgstr "FKS Typ 8 Mod. 1"
+msgstr "FKS Typ 8 Mod. 1"
 
 msgid "IDS_PGUS710_SUO_SCHILL"
-msgstr "FKS Typ 8 Mod. 1"
+msgstr "FKS Typ 8 Mod. 1"
 
 msgid "IDS_PGUS711_SUO_TIRPITZ"
 msgstr "FKS Typ 8 Mod. 1"
@@ -88368,10 +88262,10 @@ msgid "IDS_PGUS712_SUO_BLACK_TIRPITZ"
 msgstr "FKS Typ 8 Mod. 1"
 
 msgid "IDS_PGUS713_SUO_Z35"
-msgstr "FKS Typ 8 Mod. 1"
+msgstr "FKS Typ 8 Mod. 1"
 
 msgid "IDS_PGUS714_DD8_SUO_STOCK"
-msgstr "FKS Typ 8 Mod. 1"
+msgstr "FKS Typ 8 Mod. 1"
 
 msgid "IDS_PGUS715_DD8_SUO_TOP"
 msgstr "FKS Typ 8 Mod. 2"
@@ -88425,55 +88319,55 @@ msgid "IDS_PGUS800_SUO_COLORFUL_ROON"
 msgstr "FKS Typ 9 Mod. 2"
 
 msgid "IDS_PGUS801_SUO"
-msgstr "FKS Typ 9 Mod. 1"
+msgstr "FKS Typ 9 Mod. 1"
 
 msgid "IDS_PGUS802_SUO"
 msgstr "FKS Typ 9 Mod. 2"
 
 msgid "IDS_PGUS803_D9_SUO_STOCK"
-msgstr "FKS Typ 9 Mod. 1"
+msgstr "FKS Typ 9 Mod. 1"
 
 msgid "IDS_PGUS804_D9_SUO_TOP"
 msgstr "FKS Typ 9 Mod. 2"
 
 msgid "IDS_PGUS805_SUO_SIEGFRIED"
-msgstr "FKS Typ 9 Mod. 1"
+msgstr "FKS Typ 9 Mod. 1"
 
 msgid "IDS_PGUS806_SUO_AEGIR"
-msgstr "FKS Typ 9 Mod. 1"
+msgstr "FKS Typ 9 Mod. 1"
 
 msgid "IDS_PGUS807_SUO_POMMERN"
-msgstr "FKS Typ 9 Mod. 1"
+msgstr "FKS Typ 9 Mod. 1"
 
 msgid "IDS_PGUS808_SUO_Z44"
-msgstr "FKS Typ 9 Mod. 1"
+msgstr "FKS Typ 9 Mod. 1"
 
 msgid "IDS_PGUS809_SUO_ZF6"
-msgstr "FKS Typ 9 Mod. 1"
+msgstr "FKS Typ 9 Mod. 1"
 
 msgid "IDS_PGUS810_SUO_A_SHRODER"
-msgstr "FKS Typ 9 Mod. 1"
+msgstr "FKS Typ 9 Mod. 1"
 
 msgid "IDS_PGUS811_SUO"
-msgstr "FKS Typ 9 Mod. 1"
+msgstr "FKS Typ 9 Mod. 1"
 
 msgid "IDS_PGUS812_SUO"
 msgstr "FKS Typ 9 Mod. 2"
 
 msgid "IDS_PGUS813_DD9_SUO_STOCK"
-msgstr "FKS Typ 9 Mod. 1"
+msgstr "FKS Typ 9 Mod. 1"
 
 msgid "IDS_PGUS814_DD9_SUO_TOP"
 msgstr "FKS Typ 9 Mod. 2"
 
 msgid "IDS_PGUS815_BB9_SUO_STOCK"
-msgstr "FKS Typ 9 Mod. 1"
+msgstr "FKS Typ 9 Mod. 1"
 
 msgid "IDS_PGUS816_BB9_SUO_TOP"
 msgstr "FKS Typ 9 Mod. 2"
 
 msgid "IDS_PGUS817_SUO_BLACK_POMMERN"
-msgstr "FKS Typ 9 Mod. 1"
+msgstr "FKS Typ 9 Mod. 1"
 
 msgid "IDS_PGUS818_SUO_LOTHRINGEN"
 msgstr "FKS Typ 10 Mod. 1"
@@ -88500,7 +88394,7 @@ msgid "IDS_PGUS903_D10_2_SUO_STOCK"
 msgstr "FKS Typ 10 Mod. 1"
 
 msgid "IDS_PGUS904_SUO_HANNOVER"
-msgstr "FKS Typ 11 Mod. 1"
+msgstr "FKS Typ 11 Mod. 1"
 
 msgid "IDS_PGUS905_BB10_SUO_STOCK"
 msgstr "FKS Typ 10"
@@ -88512,7 +88406,7 @@ msgid "IDS_PGUS907_SUO_MECKLENBURG"
 msgstr "FKS Typ 10 Mod. 1"
 
 msgid "IDS_PGUS908_C11_SUO_STOCK"
-msgstr "FKS Typ 11 Mod. 1"
+msgstr "FKS Typ 11 Mod. 1"
 
 msgid "IDS_PGUS909_D10_SUO_STOCK"
 msgstr "FKS Typ 10 Mod. 1"
@@ -88545,7 +88439,7 @@ msgid "IDS_PGUS918_SUO_WOTAN"
 msgstr "FKS Typ 10"
 
 msgid "IDS_PGUS930_SUO_HANNOVER"
-msgstr "FKS Typ 11 Mod. 1"
+msgstr "FKS Typ 11 Mod. 1"
 
 msgid "IDS_PGUS974_SUO_GROSS"
 msgstr "FKS Typ 10 Mod. 1"
@@ -88647,7 +88541,7 @@ msgid "IDS_PGUT607_TORP_MUNCHEN"
 msgstr "G7a T1"
 
 msgid "IDS_PGUT608_D7_2_TORP_STOCK"
-msgstr "G7 T1 Ausf. A"
+msgstr "G7 T1 Ausf. A"
 
 msgid "IDS_PGUT609_TORP_WEIMAR"
 msgstr "G7a T1"
@@ -88707,7 +88601,7 @@ msgid "IDS_PGUT712_TORP_Z35"
 msgstr "G7a T1"
 
 msgid "IDS_PGUT713_DD8_TORP_STOCK"
-msgstr "G7 T1 Ausf. B"
+msgstr "G7 T1 Ausf. B"
 
 msgid "IDS_PGUT714_BB8_TORP_STOCK"
 msgstr "G7 T1 Ausf. B"
@@ -88776,7 +88670,7 @@ msgid "IDS_PGUT807_TORP_Z44"
 msgstr "G7a T1 Ausf. C"
 
 msgid "IDS_PGUT808_DD9_TORP_STOCK"
-msgstr "G7 T1 Ausf. B"
+msgstr "G7 T1 Ausf. B"
 
 msgid "IDS_PGUT809_TORP_ZF6"
 msgstr "G7a T1 Ausf. B"
@@ -88809,7 +88703,7 @@ msgid "IDS_PGUT903_D10_TORP_TOP"
 msgstr "G7 Steinwal"
 
 msgid "IDS_PGUT904_D10_2_TORP_TOP"
-msgstr "G7 T1 Ausf. C"
+msgstr "G7 T1 Ausf. C"
 
 msgid "IDS_PGUT905_BB10_TORP_STOCK"
 msgstr "G7a T1"
@@ -88818,13 +88712,13 @@ msgid "IDS_PGUT906_TORP_MECKLENBURG"
 msgstr "G7a T1"
 
 msgid "IDS_PGUT907_C11_TORP_STOCK"
-msgstr "G7 T1 Ausf. C"
+msgstr "G7 T1 Ausf. C"
 
 msgid "IDS_PGUT908_S10_TORP_TOP"
 msgstr "G7e T4 und G7e T4 MZ"
 
 msgid "IDS_PGUT909_D10_TORP_TOP"
-msgstr "G7 T1 Ausf. C"
+msgstr "G7 T1 Ausf. C"
 
 msgid "IDS_PGUT910_TORP_Z42"
 msgstr "G7a T1"
@@ -89732,7 +89626,7 @@ msgid "IDS_PHUS904_SUO_CALLENBURGH"
 msgstr "SUO Mk 10 Mod. 1"
 
 msgid "IDS_PHUS905_SUO_UTRECHT"
-msgstr "Vuurleiding Mk 9 Mod.1"
+msgstr "Vuurleiding Mk 9 Mod. 1"
 
 msgid "IDS_PHUT501_TORP_KORTENAER"
 msgstr "533 mm Mk VII"
@@ -90608,13 +90502,13 @@ msgid "IDS_PIPD100_DEPTH_G_50KG"
 msgstr "SC-50 G"
 
 msgid "IDS_PIPD101_DEPTH_160KG"
-msgstr "CS 160 kg"
+msgstr "CS 160 kg"
 
 msgid "IDS_PIPD102_DEPTH_200KG"
-msgstr "CS 200 kg"
+msgstr "CS 200 kg"
 
 msgid "IDS_PIPD103_DEPTH_150KG"
-msgstr "CS 150 kg"
+msgstr "CS 150 kg"
 
 msgid "IDS_PIPD104_DEPTH_45KG"
 msgstr "SC-45 G"
@@ -90623,7 +90517,7 @@ msgid "IDS_PIPD105_DEPTH_T5"
 msgstr "CS 50 kg"
 
 msgid "IDS_PIPD106_DEPTH_T8"
-msgstr "CS 160 kg"
+msgstr "CS 160 kg"
 
 msgid "IDS_PIPD107_DEPTH_T10"
 msgstr "CS 300 kg"
@@ -91386,13 +91280,13 @@ msgid "IDS_PISC519_YEAR"
 msgstr "1934"
 
 msgid "IDS_PISC590"
-msgstr "Napoli B."
+msgstr "Napoli B"
 
 msgid "IDS_PISC590_DESCR"
 msgstr "Im Zuge der Zusammenarbeit zwischen den Marinen von Italien und der UdSSR wurden Schiffsprojekte im Auftrag der Sowjets vorbereitet. Darunter befand sich auch ein Schlachtkreuzer mit einer Standardverdrängung von 22 000 Tonnen. Er sollte eine Geschwindigkeit von 35–37 Knoten erreichen sowie neun Geschütze des Hauptkalibers in drei Türmen erhalten."
 
 msgid "IDS_PISC590_FULL"
-msgstr "Napoli B."
+msgstr "Napoli B"
 
 msgid "IDS_PISC590_NUMBER"
 msgstr "1"
@@ -95436,13 +95330,13 @@ msgid "IDS_PJSA110_YEAR"
 msgstr "1942"
 
 msgid "IDS_PJSA111"
-msgstr "Sekiryū"
+msgstr "Sekiryu"
 
 msgid "IDS_PJSA111_DESCR"
 msgstr "<p>Dies ist eine hypothetische Entwicklung der Flugzeugträger der Baureihen Taihō und Taihō Kai.</p><p class=\"p_spacing\"> </p><p>Der Entwurf sieht größere Hangars und ein verstärktes Antriebssystem mit Dieselmarschmotoren vor. Die Artillerie besteht aus universellen 100-mm-Geschützen, wie sie auf den Zerstörern der Akizuki-Klasse verwendet wurden.</p>"
 
 msgid "IDS_PJSA111_FULL"
-msgstr "Sekiryū"
+msgstr "Sekiryu"
 
 msgid "IDS_PJSA111_NUMBER"
 msgstr "0"
@@ -96889,7 +96783,7 @@ msgid "IDS_PJSC550_YEAR"
 msgstr "1939"
 
 msgid "IDS_PJSC590"
-msgstr "Yoshino B."
+msgstr "Yoshino B"
 
 msgid "IDS_PJSC590_DESCR"
 msgstr ""
@@ -96897,7 +96791,7 @@ msgstr ""
 "Das Schiff dieses Projekts war für den Kampf gegen schwere Kreuzer des Gegners vorgesehen."
 
 msgid "IDS_PJSC590_FULL"
-msgstr "Yoshino B."
+msgstr "Yoshino B"
 
 msgid "IDS_PJSC590_NUMBER"
 msgstr "1"
@@ -99983,7 +99877,7 @@ msgid "IDS_PJUH844_D9_HULL_TOP_3"
 msgstr "Kitakaze (B)"
 
 msgid "IDS_PJUH900_CV11_HULL_STOCK"
-msgstr "Sekiryū"
+msgstr "Sekiryu"
 
 msgid "IDS_PJUH902_D10_HULL_STOCK"
 msgstr "Harugumo"
@@ -100836,7 +100730,7 @@ msgid "IDS_PJUS933_SUO_SATSUMA"
 msgstr "Typ 11 Mod. 1"
 
 msgid "IDS_PJUS971_SUO_AZUMAYA"
-msgstr "Type 9"
+msgstr "Type9"
 
 msgid "IDS_PJUS974_SUO_ZAO"
 msgstr "Typ 10 Mod. 1"
@@ -102710,7 +102604,7 @@ msgid "IDS_PRES328_TSARMOREY_LUKOMOR"
 msgstr "Lukomorie"
 
 msgid "IDS_PRES329_URAL_VICTORYDAY"
-msgstr "Stärke des Geistes"
+msgstr "Geistesstärke"
 
 msgid "IDS_PRES330_LENIN_VICTORY"
 msgstr "Rotbanner"
@@ -104554,9 +104448,6 @@ msgstr "240 mm AP Modell 1944"
 
 msgid "IDS_PRPA207_130MM_HE_55_NAVARIN"
 msgstr "130 mm HE Modell 1911"
-
-msgid "IDS_PRPA207_130MM_HE_NAVARIN_ATBA"
-msgstr "HE-46"
 
 msgid "IDS_PRPA208_406MM_HE_SEVEROMORSK"
 msgstr "406 mm HE Modell 1928"
@@ -111004,10 +110895,10 @@ msgid "IDS_PSUS402_C5_SUO_TOP"
 msgstr "SCI Mk V Mod. 2"
 
 msgid "IDS_PSUS501_SUO_CANARIAS"
-msgstr "SCI Mk VI Mod. 1"
+msgstr "SCI Mk VI Mod. 1"
 
 msgid "IDS_PSUS502_C6_SUO_STOCK"
-msgstr "SCI Mk VI Mod. 1"
+msgstr "SCI Mk VI Mod. 1"
 
 msgid "IDS_PSUS503_C6_SUO_TOP"
 msgstr "SCI Mk VI Mod. 2"
@@ -112455,13 +112346,13 @@ msgid "IDS_PVSC104_YEAR"
 msgstr "1918"
 
 msgid "IDS_PVSC105"
-msgstr "La Argentina"
+msgstr "La Argentina"
 
 msgid "IDS_PVSC105_DESCR"
 msgstr "Der Kreuzer La Argentina wurde nach dem Programm von 1926 in Großbritannien gebaut. Die Grundlage für den Entwurf waren die britischen leichten Kreuzer der Arethusa-Klasse. Es gab jedoch eine Reihe von Änderungen, wie etwa eine verbesserte Bewaffnung, um dem Schiff Ausbildungsfunktionen übertragen zu können. Die La Argentina wurde 1939 Teil der argentinischen Marine."
 
 msgid "IDS_PVSC105_FULL"
-msgstr "La Argentina"
+msgstr "La Argentina"
 
 msgid "IDS_PVSC105_NUMBER"
 msgstr "1"
@@ -112530,13 +112421,13 @@ msgid "IDS_PVSC109_YEAR"
 msgstr "1948"
 
 msgid "IDS_PVSC110"
-msgstr "San Martín"
+msgstr "San Martín"
 
 msgid "IDS_PVSC110_DESCR"
 msgstr "Nach dem Zweiten Weltkrieg plante die argentinische Führung, den Bau neuer Kreuzer in Großbritannien oder den USA in Auftrag zu geben. Die wichtigste Anforderung bestand in der Mehrzwecktauglichkeit der Hauptgeschütze. Die geeignetsten Schiffe für diese Anforderung waren zu dieser Zeit die Kreuzer der Worcester-Klasse – von ihnen hätten sich Konstrukteure leiten lassen, wenn die Schiffe jemals in Auftrag gegeben worden wären. Eines dieser Schiffe hätte die San Martín sein können."
 
 msgid "IDS_PVSC110_FULL"
-msgstr "San Martín"
+msgstr "San Martín"
 
 msgid "IDS_PVSC110_NUMBER"
 msgstr "1"
@@ -112740,13 +112631,13 @@ msgid "IDS_PVSD110_YEAR"
 msgstr "1953"
 
 msgid "IDS_PVSD111"
-msgstr "20 de Julio"
+msgstr "20 de Julio"
 
 msgid "IDS_PVSD111_DESCR"
 msgstr "<p>Nach dem Ende des Zweiten Weltkriegs begannen die südamerikanischen Länder, ihre Seestreitkräfte aktiv zu modernisieren. Um veraltete Schiffe zu ersetzen, wurden neue bestellt, hauptsächlich in den USA und Großbritannien. Kolumbien wandte sich jedoch an Schweden, wo gerade die modernen Zerstörer der Halland-Klasse gebaut worden waren.</p><p class=\"p_spacing\"> </p><p>Die kolumbianische Version des Zerstörers erhielt einen dritten Hauptgeschützturm anstelle der vorderen 57-mm-Lafette. Für die Flugabwehr musste ein U-Jagd-Wasserbombenwerfer geopfert werden, dafür erwies sich die installierte niederländische Funkelektronik als fortschrittlicher als die auf den schwedischen Schiffen.</p><p class=\"p_spacing\"> </p><p>Der Zerstörer 20 de Julio wurde auf der Werft Kockums in Malmö gebaut. Während seiner 26-jährigen Dienstzeit nahm das Schiff an mehreren Übungen teil, darunter auch mit der US Navy.</p>"
 
 msgid "IDS_PVSD111_FULL"
-msgstr "20 de Julio"
+msgstr "20 de Julio"
 
 msgid "IDS_PVSD111_NUMBER"
 msgstr "2"
@@ -114816,7 +114707,7 @@ msgid "IDS_PWUS303_DD4_SUO_TOP"
 msgstr "SUO Mk 4 Mod. 2"
 
 msgid "IDS_PWUS305_SUO_VIRIBUS"
-msgstr "FKS Typ 5 Mod. 1"
+msgstr "FKS Typ 5 Mod. 1"
 
 msgid "IDS_PWUS401_DD5_SUO_STOCK"
 msgstr "SUO Mk 5 Mod. 1"
@@ -117635,7 +117526,7 @@ msgid "IDS_PXSD522"
 msgstr "Sazanami"
 
 msgid "IDS_PXSD522_DESCR"
-msgstr "<p>The Ikazuchi-class torpedo boats were built between 1897 and 1899 by the British firm Yarrow. The ships participated in the suppression of the Boxer Rebellion in China and then fought in the Russo-Japanese War.</p><p class=\"p_spacing\"> </p><p>Sazanami was laid down in June 1897, launched and commissioned in August 1899, and arrived in Japan in 1900. It participated in the Russo-Japanese War, engaging in battle with the Russian torpedo boat Steregushchy and capturing the severely wounded Admiral Z. Rozhestvensky, who was aboard the destroyer Bedovy during the Battle of Tsushima.</p>"
+msgstr "TEMPORARY TEXT"
 
 msgid "IDS_PXSD522_FULL"
 msgstr "Sazanami"
@@ -121334,13 +121225,13 @@ msgid "IDS_PZSD529_YEAR"
 msgstr "1945"
 
 msgid "IDS_PZSD598"
-msgstr "Loyang B."
+msgstr "Loyang B"
 
 msgid "IDS_PZSD598_DESCR"
 msgstr "<p>Die USS Benson, das Typschiff ihrer Klasse, wurde auf der Werft Fore River Shipyard gebaut. In den Jahren 1940–41 gehörte sie zu den Kräften der „Neutralitätspatrouille“. Seit dem Eintritt der USA in den Zweiten Weltkrieg begleitete sie Konvois im Nordatlantik und im Mittelmeer und unterstützte die Landung alliierter Truppen in Italien.</p><p class=\"p_spacing\"> </p><p>1945 wurde sie in den Pazifik verlegt und begleitete amerikanische Flugzeugträger. Während des Krieges wurde sie mit vier Battle Stars ausgezeichnet. 1954 wurde das Schiff an Taiwan, Provinz Chinas übergeben, wo es den Namen Loyang erhielt.</p>"
 
 msgid "IDS_PZSD598_FULL"
-msgstr "Loyang B."
+msgstr "Loyang B"
 
 msgid "IDS_PZSD598_NUMBER"
 msgstr "96"
@@ -121349,13 +121240,13 @@ msgid "IDS_PZSD598_YEAR"
 msgstr "1940"
 
 msgid "IDS_PZSD610"
-msgstr "Tuntou"
+msgstr "Huang Long Chuan"
 
 msgid "IDS_PZSD610_DESCR"
 msgstr "<p>In Quellen der Han- und Wei-Dynastien werden „Opfer“- oder „Ritual“-Schiffe mit Drachensymbolik erwähnt, die sowohl für Zeremonien als auch zur Machtdemonstration genutzt wurden.</p><p class=\"p_spacing\"> </p><p>In China verkörperte der Drache die Macht des Kaisers und dessen göttliche Herkunft; der Kaiserthron wurde als Drachenthron bezeichnet. Der Legende nach erlangte der mythische Gelbe Kaiser Huangdi Unsterblichkeit, indem er die Gestalt eines Drachen annahm und in den Himmel aufstieg.</p>"
 
 msgid "IDS_PZSD610_FULL"
-msgstr "Tuntou"
+msgstr "Huang Long Chuan"
 
 msgid "IDS_PZSD610_NUMBER"
 msgstr "1"
@@ -121976,7 +121867,7 @@ msgid "IDS_PZUS506_C6_SUO_TOP"
 msgstr "Mk VI Mod. 2"
 
 msgid "IDS_PZUS507_B6_SUO_STOCK"
-msgstr "Mk VI"
+msgstr "Mk VI"
 
 msgid "IDS_PZUS601_D7_SUO_STOCK"
 msgstr "Mk VII Mod. 1"
@@ -121991,7 +121882,7 @@ msgid "IDS_PZUS604_C7_SUO_TOP"
 msgstr "Mk VII mod. 2"
 
 msgid "IDS_PZUS605_B7_SUO_STOCK"
-msgstr "Mk VII"
+msgstr "Mk VII"
 
 msgid "IDS_PZUS701_SUO_LO_YANG"
 msgstr "Mk8 Mod. 1"
@@ -122030,13 +121921,13 @@ msgid "IDS_PZUS712_B8_SUO_STOCK"
 msgstr "FLA VIII Mod. 1"
 
 msgid "IDS_PZUS713_SUO_DOU_JIAN"
-msgstr "Mk VIII"
+msgstr "Mk VIII"
 
 msgid "IDS_PZUS714_SUO_TANIFA"
 msgstr "FLA VIII Mod. 1"
 
 msgid "IDS_PZUS800_SUO_MENGCHONG"
-msgstr "FKS Typ 9 Mod. 1"
+msgstr "FKS Typ 9 Mod. 1"
 
 msgid "IDS_PZUS801_D9_SUO_STOCK"
 msgstr "Mk9 Mod. 1"
@@ -122798,7 +122689,7 @@ msgid "IDS_RANKED_QUALIFICATION_TOOLTIP_TITLE"
 msgstr "Qualifikation"
 
 msgid "IDS_RANKED_REWARDS_COUNT"
-msgstr "+ %(_value)s"
+msgstr "+ %(_value)s"
 
 msgid "IDS_RANKED_REWARDS_TITLE"
 msgstr "Belohnungen"
@@ -124370,10 +124261,10 @@ msgid "IDS_REWARD_EVENTUM_1_TITLE"
 msgstr "Mysteriöse Splitter"
 
 msgid "IDS_REWARD_EVENTUM_2_TITLE"
-msgstr "Andenkenmarken"
+msgstr "Flottenmarken"
 
 msgid "IDS_REWARD_EVENTUM_3_TITLE"
-msgstr "Panamerikanische Marken"
+msgstr "Amerikanische Marken"
 
 msgid "IDS_REWARD_EVENTUM_4_TITLE"
 msgstr "Bunte Marken"
@@ -124385,7 +124276,7 @@ msgid "IDS_REWARD_EVENTUM_6_TITLE"
 msgstr "Raider-Marken"
 
 msgid "IDS_REWARD_EVENTUM_7_TITLE"
-msgstr "Weiße Edelsteine"
+msgstr "Deutsche Marken"
 
 msgid "IDS_REWARD_EVENTUM_8_TITLE"
 msgstr "Purpurrote Edelsteine"
@@ -125858,7 +125749,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_0_COMMON_GROUP_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_0_TITLE_FULL"
-msgstr "Ship"
+msgstr "Schiff"
 
 msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
 msgstr "Stufe-X-Spezialschiff"
@@ -125876,19 +125767,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_1_COMMON_GROUP_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_1_TITLE_FULL"
-msgstr "Schiff"
-
-msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "Stufe-X-Spezialschiff"
-
-msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
-msgstr "Stufe X"
-
-msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "Premiumschiff der Stufe VIII–IX"
-
-msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "Stufe VIII–IX"
+msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL062_SARC1_PREM_OLD_SLOT_2_COMMON_GROUP_TITLE_FULL"
 msgstr " "
@@ -127415,10 +127294,10 @@ msgid "IDS_REWARD_LOOTBOX_PCL131_LOGH_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
 msgstr "Tarnung"
 
 msgid "IDS_REWARD_LOOTBOX_PCL131_LOGH_PREM_TITLE"
-msgstr "LOGH: DNT"
+msgstr "LOGH: DNT"
 
 msgid "IDS_REWARD_LOOTBOX_PCL131_LOGH_PREM_TITLE_QUOTES"
-msgstr "LOGH: DNT"
+msgstr "LOGH: DNT"
 
 msgid "IDS_REWARD_LOOTBOX_PCL132_TF108_PREM_SLOT_0_COMMON_GROUP_TITLE_FULL"
 msgstr " "
@@ -127559,7 +127438,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL137_WARHAMMER40K_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE
 msgstr "Kapitän"
 
 msgid "IDS_REWARD_LOOTBOX_PCL137_WARHAMMER40K_PREM_TITLE"
-msgstr "Warhammer 40,000"
+msgstr "Warhammer 40,000"
 
 msgid "IDS_REWARD_LOOTBOX_PCL137_WARHAMMER40K_PREM_TITLE_QUOTES"
 msgstr "Warhammer 40,000"
@@ -128447,7 +128326,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL186_EVENTPREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "Schiff"
 
 msgid "IDS_REWARD_LOOTBOX_PCL186_EVENTPREM_TITLE"
-msgstr "Premium Container Picardie"
+msgstr "Picardie"
 
 msgid "IDS_REWARD_LOOTBOX_PCL186_EVENTPREM_TITLE_QUOTES"
 msgstr "Picardie"
@@ -128537,7 +128416,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL190_EVENTPREM2_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "Schiff"
 
 msgid "IDS_REWARD_LOOTBOX_PCL190_EVENTPREM2_TITLE"
-msgstr "Premium Container Karl XIV Johan"
+msgstr "Karl XIV Johan"
 
 msgid "IDS_REWARD_LOOTBOX_PCL190_EVENTPREM2_TITLE_QUOTES"
 msgstr "Karl XIV Johan"
@@ -129002,7 +128881,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL210_BLACK_FRIDAY_PREM_SLOT_0_COMMON_GROUP_TITLE_FUL
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL210_BLACK_FRIDAY_PREM_SLOT_0_TITLE_FULL"
-msgstr "Ship"
+msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL210_BLACK_FRIDAY_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
 msgstr "Blendendes Schiff der Stufe X"
@@ -129353,7 +129232,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL225_MITA_MISIDE_SLOT_2_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL225_MITA_MISIDE_TITLE"
-msgstr "MiSide Premium"
+msgstr "MiSide"
 
 msgid "IDS_REWARD_LOOTBOX_PCL225_MITA_MISIDE_TITLE_QUOTES"
 msgstr "MiSide"
@@ -132357,7 +132236,7 @@ msgid "IDS_SGDOWNSS"
 msgstr "Sekundärturm-Barbettenpanzerung"
 
 msgid "IDS_SGRUDDER_TIME_CHANGED"
-msgstr "Drehgeschwindigkeit der Hauptbatterie erhöht"
+msgstr "Ruderstellzeit reduziert"
 
 msgid "IDS_SHADER_MODEL_2"
 msgstr "Shader-Version 2.0"
@@ -132477,7 +132356,7 @@ msgid "IDS_SHIPS_MASTERY_SINGLE_TRIAL_REPLACE_TITLE"
 msgstr "TEST ERSETZEN"
 
 msgid "IDS_SHIPS_MASTERY_TRIALS_RESET_BUTTON"
-msgstr "Ersetzen?"
+msgstr "Ersetzen"
 
 msgid "IDS_SHIPS_SPOTTED"
 msgstr "Kriegsschiffe aufgeklärt"
@@ -132651,9 +132530,6 @@ msgstr "Panzerungsstärke"
 
 msgid "IDS_SHIP_ARMOUR_WHOLE_RANGE"
 msgstr "Gesamtbereich der Panzerungsdicke"
-
-msgid "IDS_SHIP_BONUS"
-msgstr "Boni"
 
 msgid "IDS_SHIP_BRANCHES_FEATURE"
 msgstr "Merkmale"
@@ -133244,7 +133120,7 @@ msgid "IDS_SHIP_FEAT_PLANE_HIGH_HP_GOOD"
 msgstr "Alle Flugzeuge haben viele Trefferpunkte."
 
 msgid "IDS_SHIP_FEAT_PLANE_JATO_GOOD"
-msgstr "Jet-Booster verfügbar"
+msgstr "Schubverstärker verfügbar"
 
 msgid "IDS_SHIP_FEAT_PLANE_LOW_DAMAGE_SINGLE_PLANE_BAD"
 msgstr "Flugzeuge verursachen geringen Schaden"
@@ -133788,7 +133664,7 @@ msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_INTANIA_MAGIC"
 msgstr "Die Gefechtseigenschaften von Schiffen werden verändert. Die Art der Änderungen hängt vom Schiffstyp ab."
 
 msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PCOM300_TRIGGERHYDROPHONEZONEBUFF"
-msgstr "Schiffe erhalten Boni, solange sie sich im Wirkungsbereich der hydroakustischen Suche eines verbündeten U-Boots auf Periskop- oder Arbeitstiefe befinden."
+msgstr "Schiffe erhalten Boni, solange sie sich im Wirkungsbereich der hydroakustischen Suche eines verbündeten U-Boots auf Periskop- oder Einsatztiefe befinden."
 
 msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_PXOM147_CRUISERBUFF_DE"
 msgstr " "
@@ -134831,7 +134707,7 @@ msgid "IDS_SHIP_PARAM_AA_SECTOR_STRENGTH"
 msgstr "Maximale Verstärkung"
 
 msgid "IDS_SHIP_PARAM_ACTIVE_EFFECT_DESCRIPTION_HYDROPHONE"
-msgstr "Zeigt das Gelände sowie die Positionen von Schiffen und U-Booten an. Funktioniert auf Periskop- und Arbeitstiefe. Zeigt keine U-Boote, die sich auf Maximaltiefe befinden."
+msgstr "Zeigt das Gelände sowie die Positionen von Schiffen und U-Booten an. Funktioniert auf Periskop- und Einsatztiefe. Zeigt keine U-Boote, die sich auf Maximaltiefe befinden."
 
 msgid "IDS_SHIP_PARAM_ACTIVE_EFFECT_DESCRIPTION_RAGE_MODE"
 msgstr "Das erfolgreiche Einschießen der Geschütze gewährt eine temporäre Verstärkung der Eigenschaften Ihres Schiffs."
@@ -135758,7 +135634,7 @@ msgid "IDS_SHIP_PARAM_SEA_MINES_RELOAD_TIME"
 msgstr "Ladezeit"
 
 msgid "IDS_SHIP_PARAM_SEC_ARTILLERY_GUNS_COUNT"
-msgstr "Sekundärbatterietürme"
+msgstr "Mittelkaliberärbatterietürme"
 
 msgid "IDS_SHIP_PARAM_SEC_MAIN_GUN"
 msgstr "Mittleres Kaliber"
@@ -135923,7 +135799,7 @@ msgid "IDS_SHIP_PARAM_SQUADRON_GROUPING"
 msgstr "Streuung"
 
 msgid "IDS_SHIP_PARAM_SQUADRON_JATO_DURATION"
-msgstr "Jet-Booster-Wirkungsdauer"
+msgstr "Schubverstärker-Wirkungsdauer"
 
 msgid "IDS_SHIP_PARAM_SQUADRON_LEVEL"
 msgstr "Stufe"
@@ -136541,13 +136417,13 @@ msgid "IDS_SHIP_ROLE_SS_SILENT_HUNTER"
 msgstr "Lautloser Jäger"
 
 msgid "IDS_SHIP_ROLE_SS_SILENT_HUNTER_DESC"
-msgstr "<p>Führen Sie verdeckte Angriffe mit Torpedos durch. Klären Sie für Verbündete an der Oberfläche und mithilfe der Hydrofonortung auf Sehrohr- oder Arbeitstiefe auf. Erobern Sie Kontrollpunkte, sammeln Sie Buffs ein und kämpfen Sie um andere wichtige Gebiete auf dem Schlachtfeld.</p>"
+msgstr "<p>Führen Sie verdeckte Angriffe mit Torpedos durch. Klären Sie für Verbündete an der Oberfläche und mithilfe der Hydrofonortung auf Sehrohr- oder Einsatztiefe auf. Erobern Sie Kontrollpunkte, sammeln Sie Buffs ein und kämpfen Sie um andere wichtige Gebiete auf dem Schlachtfeld.</p>"
 
 msgid "IDS_SHIP_ROLE_SS_SURCOUF"
 msgstr "U-Boot-Kreuzer"
 
 msgid "IDS_SHIP_ROLE_SS_SURCOUF_DESC"
-msgstr "<p>Führen Sie heimliche Angriffe mit Torpedos durch. Nutzen Sie an der Oberfläche die schwenkbaren Torpedowerfer. Liefern Sie sich kurze Gefechte mit Zerstörern auf kurze Distanz, indem Sie sowohl die Hauptbatterie als auch Torpedos einsetzen. Decken Sie Verbündete aus sicherer Entfernung mit dem Feuer der Hauptbatterie, indem Sie das „Aufklärungsflugzeug“ einsetzen. Klären Sie für Verbündete an der Oberfläche auf, ebenso mit Hilfe der Hydrofonortung in Periskop- oder Arbeitstiefe.</p><p class=\"p_spacing\"> </p><p>Einzigartige Rolle.</p>"
+msgstr "<p>Führen Sie heimliche Angriffe mit Torpedos durch. Nutzen Sie an der Oberfläche die schwenkbaren Torpedowerfer. Liefern Sie sich kurze Gefechte mit Zerstörern auf kurze Distanz, indem Sie sowohl die Hauptbatterie als auch Torpedos einsetzen. Decken Sie Verbündete aus sicherer Entfernung mit dem Feuer der Hauptbatterie, indem Sie das „Aufklärungsflugzeug“ einsetzen. Klären Sie für Verbündete an der Oberfläche auf, ebenso mit Hilfe der Hydrofonortung in Periskop- oder Einsatztiefe.</p><p class=\"p_spacing\"> </p><p>Einzigartige Rolle.</p>"
 
 msgid "IDS_SHIP_ROLE_TITLE"
 msgstr "Schiffsrollen"
@@ -137614,7 +137490,7 @@ msgid "IDS_SKILL_TRIGGER_SPREADING"
 msgstr "Blenden"
 
 msgid "IDS_SKILL_TRIGGER_SUBMARINE_HYDROPHONE_TRIGGER_DESC"
-msgstr "Ihr U-Boot und Verbündete im Wirkungsbereich Ihres Hydrofons erhalten Boni, solange Sie sich auf Periskoptiefe oder Arbeitstiefe befinden."
+msgstr "Ihr U-Boot und Verbündete im Wirkungsbereich Ihres Hydrofons erhalten Boni, solange Sie sich auf Periskoptiefe oder Einsatztiefe befinden."
 
 msgid "IDS_SKILL_TRIGGER_SUBMARINE_SPEED_ON_BUOYANCY"
 msgstr "Auf Periskoptiefe und Maximaltiefe ist die Geschwindigkeit erhöht."
@@ -137752,7 +137628,7 @@ msgid "IDS_SNOWFLAKES_STATUS_WRITE_OFF_EXPLANATION"
 msgstr "Nach dem Ende des Events werden die festlichen Belohnungen ohne Vergütung entfernt."
 
 msgid "IDS_SNOWFLAKES_TAKE_BONUSES_BUTTON"
-msgstr "Belohnungen abholen?"
+msgstr "Belohnungen abholen"
 
 msgid "IDS_SNOWFLAKES_TAKE_BONUSES_QUESTION"
 msgstr "Belohnungen von ausgewählten Schiffen abholen:"
@@ -139138,9 +139014,6 @@ msgstr "Spaniens"
 
 msgid "IDS_SPAIN_SUBMARINE"
 msgstr "Spanische U-Boote"
-
-msgid "IDS_SPECIAL"
-msgstr "Spezial"
 
 msgid "IDS_SPECIAL_SHIPS"
 msgstr "Spezialschiffe"
@@ -140666,7 +140539,7 @@ msgid "IDS_SUBST_ARC_EVENT_FINAL_EFFICIENCY"
 msgstr "Ihre Leistung war höher als die von %(_higherThan)s % der Spieler."
 
 msgid "IDS_SUBST_ARC_EVENT_MAIN_SCREEN_TASK_PERSONAL_LEADERBOARD"
-msgstr "Beste %(_percentRate)s%"
+msgstr "BESTE %(_percentRate)s%"
 
 msgid "IDS_SUBST_ARC_EVENT_MAIN_SCREEN_TASK_STATUS_TIME_TILL_FINISH"
 msgstr "Zeitlimit: %(_timeLeft)s"
@@ -141277,10 +141150,10 @@ msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_10"
 msgstr "Sommer-Marken gekauft"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_2"
-msgstr "Andenkenmarken gekauft"
+msgstr "Flotten-Marken gekauft"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_3"
-msgstr "Panamerikanische Marken gekauft"
+msgstr "Amerikanische Marken gekauft"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_4"
 msgstr "Helle Marken gekauft"
@@ -141292,7 +141165,7 @@ msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_6"
 msgstr "Raidermarken gekauft"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_7"
-msgstr "Weiße Edelsteine gekauft"
+msgstr "Deutsche Marken gekauft"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_8"
 msgstr "Scharlachrote Edelsteine gekauft"
@@ -141416,9 +141289,6 @@ msgstr "Feldzug abgeschlossen"
 
 msgid "IDS_SYS_MSG_CAMPAIGNS_CAMPAIGN_DURATION_CHANGED_PROLONGATED"
 msgstr "Die Dauer des Feldzugs wurde verlängert"
-
-msgid "IDS_SYS_MSG_CAMPAIGNS_CAMPAIGN_DURATION_CHANGED_PROLONGATED_NEW"
-msgstr "Der Feldzug kann abgeschlossen werden"
 
 msgid "IDS_SYS_MSG_CAMPAIGNS_CAMPAIGN_DURATION_CHANGED_REDUCED"
 msgstr "Die Dauer des Feldzugs wurde verkürzt"
@@ -141844,10 +141714,10 @@ msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_10"
 msgstr "Sommermarken erhalten"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_2"
-msgstr "Erinnerungsmarken erhalten"
+msgstr "Flottenmarken erhalten"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_3"
-msgstr "Panamerikanische Marken erhalten"
+msgstr "Amerikanische Marken erhalten"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_4"
 msgstr "Helle Marken erhalten"
@@ -141859,7 +141729,7 @@ msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_6"
 msgstr "Raid-Marken erhalten"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_7"
-msgstr "Weiße Edelsteine erhalten"
+msgstr "Deutsche Marken erhalten"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_8"
 msgstr "Scharlachrote Edelsteine erhalten"
@@ -142323,10 +142193,10 @@ msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_10"
 msgstr "Sommer-Marken entfernt"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_2"
-msgstr "Gedenkjeton entfernt"
+msgstr "Flotten-Marken entfernt"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_3"
-msgstr "Panamerikanische Marken entfernt"
+msgstr "Amerikanische Marken entfernt"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_4"
 msgstr "Bunte Marken entfernt"
@@ -142338,7 +142208,7 @@ msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_6"
 msgstr "Raider-Marken entfernt"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_7"
-msgstr "Weiße Edelsteine entfernt"
+msgstr "Deutsche Marken entfernt"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_8"
 msgstr "Scharlachrote Edelsteine entfernt"
@@ -142611,7 +142481,7 @@ msgid "IDS_TAKE_AWAY"
 msgstr "Ausbauen"
 
 msgid "IDS_TAKE_REWARD"
-msgstr "Belohnungen abholen?"
+msgstr "Belohnungen abholen"
 
 msgid "IDS_TAKE_REWARD_IN_TASK_WINDOW"
 msgstr "Sammeln Sie Ihre Belohnungen im Feldzug-Fenster ein."
@@ -143097,13 +142967,13 @@ msgid "IDS_TELEGRAPH_ANGLE_LEFT_50"
 msgstr "1/2"
 
 msgid "IDS_TELEGRAPH_ANGLE_LEFT_MAX"
-msgstr "MAX."
+msgstr "MAX"
 
 msgid "IDS_TELEGRAPH_ANGLE_RIGHT_50"
 msgstr "1/2"
 
 msgid "IDS_TELEGRAPH_ANGLE_RIGHT_MAX"
-msgstr "MAX."
+msgstr "MAX"
 
 msgid "IDS_TELEGRAPH_SPEED_0"
 msgstr "STOP"
@@ -143748,7 +143618,7 @@ msgid "IDS_TIPS_AIRCRAFT_SQUADRON_JATO_DETACHABLE"
 msgstr "Schubverstärker"
 
 msgid "IDS_TIPS_AIRCRAFT_SQUADRON_JATO_DETACHABLE_DESCRIPTION"
-msgstr "<p>Bewirkt eine deutliche Erhöhung der Geschwindigkeit einer Staffel beim Start.</p><p class=\"p_spacing\"> </p><p>Drücken Sie [CMD_THROTTLE_DOWN] zur Deaktivierung der Booster.</p>"
+msgstr "<p>Bewirkt eine deutliche Erhöhung der Geschwindigkeit einer Staffel beim Start.</p><p class=\"p_spacing\"> </p><p>Drücken Sie [CMD_THROTTLE_DOWN] zur Deaktivierung der Schubverstärker.</p>"
 
 msgid "IDS_TIPS_AIRCRAFT_SQUADRON_LEAD"
 msgstr "Vorhaltzeit"
@@ -143999,7 +143869,7 @@ msgid "IDS_TIPS_HYDROACUSTIC_SEARCH"
 msgstr "Hydroakustische Suche"
 
 msgid "IDS_TIPS_HYDROACUSTIC_SEARCH_DESCRIPTION"
-msgstr "<p>Erkennt Schiffe, U-Boote in Sehrohrtiefe oder an der Wasseroberfläche sowie Torpedos, Minen und Wasserbomben, auch in einer Nebelwand.</p><p class=\"p_spacing\"> </p><p>Zeigt die ungefähre Position von U-Booten in Arbeitstiefe an.</p>"
+msgstr "<p>Erkennt Schiffe, U-Boote in Sehrohrtiefe oder an der Wasseroberfläche sowie Torpedos, Minen und Wasserbomben, auch in einer Nebelwand.</p><p class=\"p_spacing\"> </p><p>Zeigt die ungefähre Position von U-Booten in Sehrohr- und Periskoptiefe an.</p>"
 
 msgid "IDS_TIPS_MAIN_CALIBER_RELOAD_BOOST"
 msgstr "Hauptbatterie-Nachladebooster"
@@ -144169,7 +144039,7 @@ msgid "IDS_TIPS_SUBMARINE_CONSUMABLE_HYDROPHONE"
 msgstr "Hydrofon"
 
 msgid "IDS_TIPS_SUBMARINE_CONSUMABLE_HYDROPHONE_DESCRIPTION"
-msgstr "<p>Zeigt das Relief und die Positionen von Schiffen sowie U-Boote auf Periskop- und Arbeitstiefe an.</p><p class=\"p_spacing\"> </p><p>Funktioniert dauerhaft auf Periskop- und Arbeitstiefe.</p>"
+msgstr "<p>Zeigt das Relief und die Positionen von Schiffen sowie U-Boote auf Periskop- und Einsatztiefe an.</p><p class=\"p_spacing\"> </p><p>Funktioniert dauerhaft auf Periskop- und Einsatztiefe.</p>"
 
 msgid "IDS_TIPS_SUBMARINE_DEPTH_CONTROL"
 msgstr "Abtauchen und Auftauchen"
@@ -144181,7 +144051,7 @@ msgid "IDS_TIPS_SUBMARINE_DEPTH_INVULNERABLE"
 msgstr "Ortung von U-Booten"
 
 msgid "IDS_TIPS_SUBMARINE_DEPTH_INVULNERABLE_DESCRIPTION"
-msgstr "<p>Die Erkennbarkeit eines U-Bootes hängt von seiner Tauchtiefe ab.</p><p class=\"p_spacing\"> </p><p>Periskoptiefe: Das U-Boot kann mit hydroakustischer Suche entdeckt werden.</p><p class=\"p_spacing\"> </p><p>Arbeitstiefe: Die hydroakustische Suche zeigt die ungefähre Position des U-Bootes an.</p><p class=\"p_spacing\"> </p><p>Maximaltiefe: Das U-Boot kann nicht entdeckt werden.</p>"
+msgstr "<p>Die Erkennbarkeit eines U-Bootes hängt von seiner Tauchtiefe ab.</p><p class=\"p_spacing\"> </p><p>Periskoptiefe: Das U-Boot kann mit hydroakustischer Suche entdeckt werden.</p><p class=\"p_spacing\"> </p><p>Einsatztiefe: Die hydroakustische Suche zeigt die ungefähre Position des U-Bootes an.</p><p class=\"p_spacing\"> </p><p>Maximaltiefe: Das U-Boot kann nicht entdeckt werden.</p>"
 
 msgid "IDS_TIPS_SUBMARINE_ENERGY_MANAGEMENT"
 msgstr "Tauchkapazität"
@@ -145049,7 +144919,7 @@ msgid "IDS_TOOLTIP_GUARANTEED_VISIBILITY"
 msgstr "Reichweite, bei der das Schiff garantiert von einem gegnerischen Schiff entdeckt wird, selbst im Nebel oder hinter einer Insel."
 
 msgid "IDS_TOOLTIP_GUARANTEED_VISIBILITY_SUBMARINE"
-msgstr "<p>Reichweite, bei der das U-Boot garantiert von einem gegnerischen Schiff entdeckt wird – auch in einer Nebelwand oder hinter einer Insel.</p><p class=\"p_spacing\"> </p><p>Auf Arbeitstiefe kann ein U-Boot nur von einem gegnerischen U-Boot oder mit Hilfe der „Hydroakustischen Suche“ entdeckt werden.</p>"
+msgstr "<p>Reichweite, bei der das U-Boot garantiert von einem gegnerischen Schiff entdeckt wird – auch in einer Nebelwand oder hinter einer Insel.</p><p class=\"p_spacing\"> </p><p>Auf Einsatztiefe kann ein U-Boot nur von einem gegnerischen U-Boot oder mit Hilfe der „Hydroakustischen Suche“ entdeckt werden.</p>"
 
 msgid "IDS_TOOLTIP_HANGARVOLUME"
 msgstr "Flugzeuge an Deck"
@@ -145108,7 +144978,7 @@ msgstr ""
 "U-Boots"
 
 msgid "IDS_TOOLTIP_MAX_SPEED_UNDER_WATER"
-msgstr "Maximale Vorwärtsgeschwindigkeit des U-Boots auf Arbeitstiefe."
+msgstr "Maximale Vorwärtsgeschwindigkeit des U-Boots auf Einsatztiefe."
 
 msgid "IDS_TOOLTIP_MENU"
 msgstr "Menü öffnen"
@@ -145172,12 +145042,6 @@ msgstr "Spielen"
 
 msgid "IDS_TOOLTIP_PREMSHOP"
 msgstr "Erfahren Sie mehr über Sonderangebote und kaufen Sie im Premium-Laden ein."
-
-msgid "IDS_TOOLTIP_PRIMARY_SHIP"
-msgstr "Hauptschiff"
-
-msgid "IDS_TOOLTIP_PRIMARY_SHIP_DESCRIPTION"
-msgstr "Hauptschiffe werden im Karussell zuerst angezeigt"
 
 msgid "IDS_TOOLTIP_PRIORITY_SECTOR"
 msgstr "Flugabwehr-Geschützgruppe"
