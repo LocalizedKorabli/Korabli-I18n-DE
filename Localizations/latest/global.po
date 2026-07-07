@@ -5548,10 +5548,10 @@ msgid "IDS_ANDROID_TM4"
 msgstr "ZM-10A"
 
 msgid "IDS_AND_INSTALL_ON_THIS_SHIP"
-msgstr "des Schiffes und installieren für"
+msgstr "Schiff und installieren für"
 
 msgid "IDS_AND_RECEIVE_QUESTION_DROP_BRANCH_CONFIRMATION_WINDOW"
-msgstr "und erhalten"
+msgstr "und erhalten:"
 
 msgid "IDS_ANGLE_LEFT"
 msgstr "Wende nach Backbord halten"
@@ -5726,11 +5726,6 @@ msgstr "Zeit bis Beginn: %(_timeStart)s"
 
 msgid "IDS_ARC_EVENT_CONFIRM_SIDE_CALL_TO_ACTION"
 msgstr "Aufbrechen?"
-
-msgid "IDS_ARC_EVENT_DIFFICULTY_LEVEL_SCORES"
-msgid_plural "IDS_ARC_EVENT_DIFFICULTY_LEVEL_SCORES"
-msgstr[0] "<p>Erreichen Sie<br><span class=\"bold\">%(_score)s PUNKT</span></p>"
-msgstr[1] "<p>Erreichen Sie<br><span class=\"bold\">%(_score)s PUNKTE</span></p>"
 
 msgid "IDS_ARC_EVENT_END_DAY_RESTRICTION"
 msgstr ""
@@ -9455,7 +9450,7 @@ msgid "IDS_BONUS_OTVINTA"
 msgstr "Bonus"
 
 msgid "IDS_BONUS_QUESTION_DROP_BRANCH_CONFIRMATION_WINDOW"
-msgstr "Schiffen gutschreiben"
+msgstr "Auf die Schiffe gutschreiben:"
 
 msgid "IDS_BONUS_SCORES"
 msgstr "Bonuspunkte"
@@ -133222,7 +133217,7 @@ msgid "IDS_SHIP_FEAT_VIS_IMPROVED_FULLSPEED_SMOKE_DESC"
 msgstr "Erhöhte Wirkungsdauer des Nebelerzeugers und Dauer der Nebelwand."
 
 msgid "IDS_SHIP_FOR"
-msgstr "des Schiffs für"
+msgstr "Schiff für"
 
 msgid "IDS_SHIP_FROZEN_FOR_PVE_OPERATION"
 msgstr "WARTE AUF EINEN BEFEHL"
@@ -146977,7 +146972,7 @@ msgid "IDS_UNMOUNT_MODERNIZATIONS"
 msgstr "Verbesserungen ausbauen"
 
 msgid "IDS_UNMOUNT_MODERNIZATION_FROM_SELECTED"
-msgstr "Eine Verbesserung vom ausgewählten ausbauen"
+msgstr "Gewählte Verbesserung ausbauen vom"
 
 msgid "IDS_UNMUTE"
 msgstr "Nachrichten aktivieren"
@@ -148760,6 +148755,11 @@ msgid "IDS_AOGAS_RESET_PENALTY"
 msgid_plural "IDS_AOGAS_RESET_PENALTY"
 msgstr[0] "Sie haben sich seit über einer Stunde nicht im Spiel angemeldet. Sie erhalten wieder volle Silber und EP."
 msgstr[1] "Sie haben sich seit über %(hours)s Stunden nicht im Spiel angemeldet. Sie erhalten wieder volle Silber und EP."
+
+msgid "IDS_ARC_EVENT_DIFFICULTY_LEVEL_SCORES"
+msgid_plural "IDS_ARC_EVENT_DIFFICULTY_LEVEL_SCORES"
+msgstr[0] "<p>Erreichen Sie<br><span class=\"bold\">%(_score)s PUNKT</span></p>"
+msgstr[1] "<p>Erreichen Sie<br><span class=\"bold\">%(_score)s PUNKTE</span></p>"
 
 msgid "IDS_ARC_EVENT_POINTS_COST"
 msgid_plural "IDS_ARC_EVENT_POINTS_COST"
