@@ -34367,25 +34367,25 @@ msgid "IDS_GUIDING_TIP_316_DESC"
 msgstr "Die Aufgaben dieses Tages sind abgeschlossen. Während sie aktualisiert werden, können Sie hier einen beliebigen Kampfauftrag anheften und seinen Fortschritt verfolgen."
 
 msgid "IDS_GUIDING_TIP_316_HEADER"
-msgstr "Priorit\\u00e4re Aufgaben abgeschlossen"
+msgstr "Prioritäre Aufgaben abgeschlossen"
 
 msgid "IDS_GUIDING_TIP_317_DESC"
 msgstr "Die Aufgaben dieser Woche sind abgeschlossen. Während sie aktualisiert werden, können Sie hier einen beliebigen Kampfauftrag anheften und seinen Fortschritt verfolgen."
 
 msgid "IDS_GUIDING_TIP_317_HEADER"
-msgstr "Priorit\\u00e4re Aufgaben abgeschlossen"
+msgstr "Prioritäre Aufgaben abgeschlossen"
 
 msgid "IDS_GUIDING_TIP_318_DESC"
-msgstr "Stellen Sie Ihre St\\u00e4rke im Kampf auf die Probe, indem Sie Kriegsschiffe unterschiedlicher Nationen befehligen. Mit jeder abgeschlossenen Herausforderung steigt die Komplexit\\u00e4t."
+msgstr "Stellen Sie Ihre Stärke im Kampf auf die Probe, indem Sie Kriegsschiffe unterschiedlicher Nationen befehligen. Mit jeder abgeschlossenen Herausforderung steigt die Komplexität."
 
 msgid "IDS_GUIDING_TIP_318_HEADER"
-msgstr "Pers\\u00f6nliche Herausforderungen: Nationen"
+msgstr "Persönliche Herausforderungen: Nationen"
 
 msgid "IDS_GUIDING_TIP_319_DESC"
-msgstr "Stellen Sie Ihre St\\u00e4rke im Kampf auf die Probe, indem Sie Kriegsschiffe unterschiedlicher Typen befehligen. Mit jeder abgeschlossenen Herausforderung steigt die Komplexit\\u00e4t."
+msgstr "Stellen Sie Ihre Stärke im Kampf auf die Probe, indem Sie Kriegsschiffe unterschiedlicher Typen befehligen. Mit jeder abgeschlossenen Herausforderung steigt die Komplexität."
 
 msgid "IDS_GUIDING_TIP_319_HEADER"
-msgstr "Pers\\u00f6nliche Herausforderungen: Typen"
+msgstr "Persönliche Herausforderungen: Typen"
 
 msgid "IDS_GUIDING_TIP_31_DESC"
 msgstr "Wechseln Sie zum Bereich „Aktivitäten“ und dann zum Container-Bildschirm."
@@ -34394,7 +34394,7 @@ msgid "IDS_GUIDING_TIP_31_HEADER"
 msgstr "Container"
 
 msgid "IDS_GUIDING_TIP_320_DESC"
-msgstr "Demonstrieren Sie Ihre Meisterschaft auf einem bestimmten Schiff! Um das Meisterschaftsniveau zu erh\\u00f6hen, m\\u00fcssen Sie Basis-EP verdienen und Herausforderungen bestehen."
+msgstr "Demonstrieren Sie Ihre Meisterschaft auf einem bestimmten Schiff! Um das Meisterschaftsniveau zu erhöhen, müssen Sie Basis-EP verdienen und Herausforderungen bestehen."
 
 msgid "IDS_GUIDING_TIP_320_HEADER"
 msgstr "Meisterschaftsniveau"
@@ -132434,7 +132434,7 @@ msgid "IDS_SHIP_ACES_METRICS_TASKS_TOTAL"
 msgstr "Abgeschlossene Herausforderungen"
 
 msgid "IDS_SHIP_ACES_NATION_TITLE"
-msgstr "Pers\\u00f6nliche Herausforderungen: Nationen"
+msgstr "Persönliche Herausforderungen: Nationen"
 
 msgid "IDS_SHIP_ACES_RESULTS_HEADER_CELL_BATTLE_PROGRESS"
 msgstr "Basis-EP"
@@ -132479,7 +132479,7 @@ msgid "IDS_SHIP_ACES_RULES_RIBBONS"
 msgstr "Erhalten Sie so viele Bänder wie möglich."
 
 msgid "IDS_SHIP_ACES_SHIP_TYPE_TITLE"
-msgstr "Pers\\u00f6nliche Herausforderungen: Typen"
+msgstr "Persönliche Herausforderungen: Typen"
 
 msgid "IDS_SHIP_ACES_SPRINT_TOOLTIP_STATUS_SPRINT_MISSED"
 msgstr "Kein Gefechtsbeitrag in diesem Abschnitt."
@@ -139850,7 +139850,7 @@ msgid "IDS_SSE_MOTIVATOR_TASKS_COMMON_TITLE"
 msgstr "Prioritätsaufgaben"
 
 msgid "IDS_SSE_MOTIVATOR_TASKS_COMPLETED"
-msgstr "Priorit\\u00e4re Aufgaben abgeschlossen"
+msgstr "Prioritäre Aufgaben abgeschlossen"
 
 msgid "IDS_SSE_MOTIVATOR_TASK_CHOOSE_BUTTON_TOOLTIP"
 msgstr "Wählen Sie eine der Aufgaben zum Ersetzen"
