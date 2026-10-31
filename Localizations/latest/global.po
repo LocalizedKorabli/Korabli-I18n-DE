@@ -1430,7 +1430,7 @@ msgid "IDS_ACHIEVEMENT_COLLECTION_OVECHKIN_COMPLETED"
 msgstr "Die Große Acht"
 
 msgid "IDS_ACHIEVEMENT_COLLECTION_VIVELAFRANCE_COMPLETED"
-msgstr "\"Vive la France\""
+msgstr "Vive la France"
 
 msgid "IDS_ACHIEVEMENT_COLLECTION_YAMAMOTO_COMPLETED"
 msgstr "Yamamoto Isoroku"
@@ -2555,6 +2555,9 @@ msgstr "Vervollständigen Sie die Sammlung „Schiffsbau“."
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_PA_SAZHENBING_COMPLETED"
 msgstr "Vervollständigen Sie die Sammlung „Ära des Sa Zhenbing“."
 
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_RARE_BEAST_2026"
+msgstr "Fangen Sie alle Mitglieder des Verbrechersyndikats."
+
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_FILLALBUM_SCARLET_BIRTHDAY_2_COMPLETED"
 msgstr "Vervollständigen Sie die Sammlung „Echo der Zukunft“."
 
@@ -2984,6 +2987,15 @@ msgstr "Erzielen Sie einen Sieg im Unternehmen „Hydras Versteck“."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_RAM_PA"
 msgstr "Zerstören Sie in einem einzelnen Gefecht zwei gegnerische Schiffe durch Rammen."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_RARE_BEAST_KILL_EPIC_BOT"
+msgstr "Fangen Sie den Boss der Verbrecherbande."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_RARE_BEAST_KILL_LEGENDARY_BOT"
+msgstr "Fangen Sie den Anführer der Verbrecherbande."
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_RARE_BEAST_KILL_RARE_BOT"
+msgstr "Fangen Sie ein Mitglied der Verbrecherbande."
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_RASPUTIN"
 msgstr "Verliehen für einen Sieg in einem Zwielichtgefecht mit dem Schlachtschiff Rasputin."
@@ -3678,6 +3690,9 @@ msgstr "Schiffsbau"
 msgid "IDS_ACHIEVEMENT_FILLALBUM_PA_SAZHENBING_COMPLETED"
 msgstr "Ära des Sa Zhenbing"
 
+msgid "IDS_ACHIEVEMENT_FILLALBUM_RARE_BEAST_2026"
+msgstr "Fall geschlossen"
+
 msgid "IDS_ACHIEVEMENT_FILLALBUM_SCARLET_BIRTHDAY_2_COMPLETED"
 msgstr "Echo der Zukunft"
 
@@ -4125,6 +4140,15 @@ msgstr "Hydras Versteck"
 msgid "IDS_ACHIEVEMENT_RAM_PA"
 msgstr "Störenfried"
 
+msgid "IDS_ACHIEVEMENT_RARE_BEAST_KILL_EPIC_BOT"
+msgstr "Privatdetektiv"
+
+msgid "IDS_ACHIEVEMENT_RARE_BEAST_KILL_LEGENDARY_BOT"
+msgstr "Undercover-Agent"
+
+msgid "IDS_ACHIEVEMENT_RARE_BEAST_KILL_RARE_BOT"
+msgstr "Spurensucher"
+
 msgid "IDS_ACHIEVEMENT_RARITY_ELITE"
 msgstr "Andenken-Errungenschaft"
 
@@ -4259,6 +4283,9 @@ msgstr "Kann innerhalb einer von Ihnen im Hafen erstellten Division in Zufallsge
 
 msgid "IDS_ACHIEVEMENT_RESTRICTIONS_RANKED_ONEPERSEASON"
 msgstr "Kann in gewerteten Gefechten abgeschlossen werden. Wird nur einmal pro Saison verliehen."
+
+msgid "IDS_ACHIEVEMENT_RESTRICTIONS_RARE_BEAST"
+msgstr "Kann im Event „Ernste Ermittlungen“ abgeschlossen werden."
 
 msgid "IDS_ACHIEVEMENT_RESTRICTIONS_SPACE"
 msgstr "Kann in Weltraumgefechten abgeschlossen werden."
@@ -5148,6 +5175,12 @@ msgstr "Spieler hinzufügen"
 msgid "IDS_ADD_PLAYER_TO_CONTACT_LIST"
 msgstr "Zu Kontakten hinzufügen"
 
+msgid "IDS_ADD_SHIP_TO_COMPARISON"
+msgstr "Schiff hinzufügen"
+
+msgid "IDS_ADD_TO_COMPARISON"
+msgstr "Zum Vergleich hinzufügen"
+
 msgid "IDS_ADD_TO_CONTACTS"
 msgstr "Zu Kontakten hinzufügen"
 
@@ -5635,6 +5668,66 @@ msgstr "KI-Stufe der Bots"
 
 msgid "IDS_AKENO_MASHIRO"
 msgstr "Akeno Misaki"
+
+msgid "IDS_ALBUM_EVENT_ABOUT_LINK_TEXT"
+msgstr "Über das Event"
+
+msgid "IDS_ALBUM_EVENT_CLUES"
+msgstr "Beweise gesammelt"
+
+msgid "IDS_ALBUM_EVENT_COUNTER"
+msgstr "Gefangene Verbrecher:"
+
+msgid "IDS_ALBUM_EVENT_CTA_MARKER"
+msgstr "Fangen Sie die Verbrecher"
+
+msgid "IDS_ALBUM_EVENT_DESCRIPTION"
+msgstr "<p>Sie sind nicht, wer sie zu sein vorgeben. Die gefährlichsten Verbrecher der Stadt verstecken sich hinter den Gesichtern Ihrer Freunde. Sie sprechen mit deren Stimmen, doch hinter einem vertrauten Lächeln verbirgt sich nur kalte Berechnung.</p><p class=\"p_spacing\"></p><p>Treffen Sie die Mitglieder von vier Banden im Gefecht und säubern Sie den Hafen von Spade City. Fangen Sie sie alle, bevor es zu spät ist...</p>"
+
+msgid "IDS_ALBUM_EVENT_DESCRIPTION_COMPLETED"
+msgstr "<p>Das kalte Licht der Laterne holte nur ihre verängstigten Gesichter aus der Dunkelheit. Die Verbrecher sind gefangen, der Fall ist geschlossen. Für einen Moment wurde es mir leichter ums Herz, doch dieses Gefühl löste sich schnell in der feuchten Luft auf.</p><p class=\"p_spacing\"></p><p>Geblieben sind nur die Bitterkeit von billigem Kaffee und die Erkenntnis: In Spade City ist es nie ruhig. Wenn die Straßen verstummt sind, beginnt irgendwo schon ein neuer Sturm...</p>"
+
+msgid "IDS_ALBUM_EVENT_EARNED_ITEMS"
+msgstr "Dossier eröffnet"
+
+msgid "IDS_ALBUM_EVENT_ENOUGH_CLUES_STATUS_LINE"
+msgstr "Sie haben genug Beweise, um einen weiteren Verbrecher zu fangen"
+
+msgid "IDS_ALBUM_EVENT_EVENT_PROGRESS"
+msgstr "Bis zur Zerschlagung des Syndikats"
+
+msgid "IDS_ALBUM_EVENT_MAIN_TASK_COMPLETION_TOOLTIP_HEADER"
+msgstr "Belohnung für die Zerschlagung des Syndikats"
+
+msgid "IDS_ALBUM_EVENT_RARE_BEAST_CAUGHT_STATUS_LINE"
+msgstr "Einen Verbrecher eliminiert oder bei seiner Eliminierung geholfen"
+
+msgid "IDS_ALBUM_EVENT_RARE_BEAST_CAUGHT_TITLE"
+msgstr "Auf frischer Tat ertappt"
+
+msgid "IDS_ALBUM_EVENT_RARE_BEAST_DUPLICATE_STAMP"
+msgstr "BEWEIS"
+
+msgid "IDS_ALBUM_EVENT_RARE_BEAST_MAIN_QUEST_DESCRIPTION"
+msgstr "Verdienen Sie 2 500 Basis-EP, um die Spur eines besonders gefährlichen Verbrechers aufzunehmen"
+
+msgid "IDS_ALBUM_EVENT_RARE_BEAST_MAIN_QUEST_TITLE"
+msgstr "Auf heißer Spur"
+
+msgid "IDS_ALBUM_EVENT_RARE_BEAST_RANDOM_CARD_DESCRIPTION"
+msgstr "Identität nicht festgestellt"
+
+msgid "IDS_ALBUM_EVENT_RARE_BEAST_RANDOM_CARD_TITLE"
+msgstr "Das Gesicht hinter der Maske"
+
+msgid "IDS_ALBUM_EVENT_STATUS_COMPLETED"
+msgstr "Fall geschlossen"
+
+msgid "IDS_ALBUM_EVENT_SUBALBUM_COMPLETION_TOOLTIP_HEADER"
+msgstr "Belohnung für die Zerschlagung der Bande"
+
+msgid "IDS_ALBUM_EVENT_TITLE"
+msgstr "Ernste Ermittlungen"
 
 msgid "IDS_ALCHEMY_DENY_NOT_ENOUGH"
 msgstr "Nicht genug für den Tausch: %(_deficit)d"
@@ -8526,6 +8619,15 @@ msgstr "Vorsicht! Der Gegner setzt Wasserbomben zur U-Bootabwehr ein!"
 msgid "IDS_BATTLE_LOADING_SUBMARINE_INFO_HEADER"
 msgstr "U-Boot"
 
+msgid "IDS_BATTLE_MAX_REGEN_CREW_DESCRIPTION"
+msgstr "Nicht alle verlorenen Trefferpunkte können mit Verbrauchsmaterial wiederhergestellt werden. Standardmäßig zeigt die Trefferpunkteleiste die Menge an, die Sie jetzt wiederherstellen können. Drücken Sie [KEY_LALT], um den maximal möglichen Wert zu sehen."
+
+msgid "IDS_BATTLE_MAX_REGEN_CREW_SUBTITLE"
+msgstr "Aktueller Effekt"
+
+msgid "IDS_BATTLE_MAX_REGEN_CREW_VALUE"
+msgstr "TP-Regeneration"
+
 msgid "IDS_BATTLE_MISSION"
 msgstr "KAMPFAUFTRÄGE"
 
@@ -10316,6 +10418,9 @@ msgstr "Der Schiffskauf ist verfügbar"
 msgid "IDS_BUY_AND_SAVE_DOGTAG"
 msgstr "Kaufen und speichern"
 
+msgid "IDS_BUY_COLLECTION_ALBUM_EVENT_FOR_DUPLICATE"
+msgstr "Verbrecher fangen"
+
 msgid "IDS_BUY_COLLECTION_FOR_DUPLICATE"
 msgstr "Duplikate eintauschen"
 
@@ -10729,6 +10834,9 @@ msgstr "Passende Schiffe für das Event „Verteidigung von Lukomorje“ filtern
 
 msgid "IDS_CAROUSEL_PCVE035_FILTER"
 msgstr "Passende Schiffe für das Event „Gegen alle“ filtern"
+
+msgid "IDS_CAROUSEL_PCVE036_FILTER"
+msgstr "Filter für Schiffe, die am Event „Ernste Ermittlungen“ teilnehmen können"
 
 msgid "IDS_CAROUSEL_PVEBATTLE_FILTER"
 msgstr "Passende Schiffe für Unternehmen filtern"
@@ -11508,6 +11616,9 @@ msgstr "Event „Aggression“ wählen"
 msgid "IDS_CHOOSE_EVENTBATTLE_PCVE034"
 msgstr "Event „Verteidigung von Lukomorje“ wählen"
 
+msgid "IDS_CHOOSE_EVENTBATTLE_PCVE036"
+msgstr "„Ernste Ermittlungen“ wählen"
+
 msgid "IDS_CHOOSE_MK_NAME"
 msgstr ""
 "Wählen Sie einen Benutzernamen.\n"
@@ -11593,6 +11704,12 @@ msgstr "Übungsgefecht wählen"
 
 msgid "IDS_CHOOSE_TRIALBATTLE"
 msgstr "Zur Auswahl der Prüfung gehen"
+
+msgid "IDS_CHOOSING_RESPAWN_POINT"
+msgstr "Respawn-Punkt wählen"
+
+msgid "IDS_CHOOSING_SHIP"
+msgstr "Schiff auswählen"
 
 msgid "IDS_CHOOSING_SHIP_AND_RESPAWN_POINT"
 msgstr ""
@@ -13599,6 +13716,18 @@ msgstr "Sammeln"
 msgid "IDS_COLLECTIONS"
 msgstr "Sammlungen"
 
+msgid "IDS_COLLECTION_ALBUM_EVENT_COMPLEXITY_LEVEL"
+msgstr "Gefahrenstufe"
+
+msgid "IDS_COLLECTION_ALBUM_EVENT_DUPLICATE_PRICE_COLON"
+msgstr "Erforderliche Beweise: %(amount)s"
+
+msgid "IDS_COLLECTION_ALBUM_EVENT_ITEM_TOOLTIP_ACHIEVED"
+msgstr "Gefangen"
+
+msgid "IDS_COLLECTION_ALBUM_EVENT_ITEM_TOOLTIP_NOT_ACHIEVED"
+msgstr "Nicht gefangen"
+
 msgid "IDS_COLLECTION_ALBUM_RECIEVED"
 msgstr "Sammlung"
 
@@ -13654,6 +13783,9 @@ msgstr "Sammlung %(_collectionName)s"
 
 msgid "IDS_COLLECTION_NOT_COLLECTING_TOOLTIP_DESCRIPTION"
 msgstr "Die täglichen Container enthalten derzeit keine Elemente aus dieser Sammlung."
+
+msgid "IDS_COLLECTION_OBJECT_ALBUM_EVENT_DUPLICATES_EXCHANGE_TITLE"
+msgstr "Festnahme eines Verbrechers"
 
 msgid "IDS_COLLECTION_PLAYER_POINTS_COUNTER"
 msgstr "Gegenstände erhalten"
@@ -13884,6 +14016,23 @@ msgstr "Kosten für EP-Umwandlung aller Schiffe:"
 
 msgid "IDS_COMMON_TEAM_VICTORY_DAYS_TOOLTIP"
 msgstr "Anzahl der Siege Ihres Teams im gesamten Wettbewerb"
+
+msgid "IDS_COMPARE"
+msgstr "Vergleich"
+
+msgid "IDS_COMPARISON_NO_SHIPS"
+msgstr ""
+"Sie haben noch kein Schiff zum Vergleich hinzugefügt.\n"
+"Klicken Sie auf eine leere Zelle und fügen Sie das erste Schiff hinzu."
+
+msgid "IDS_COMPARISON_RESET"
+msgstr "Einstellungen zurücksetzen"
+
+msgid "IDS_COMPARISON_TAB_CREW_SKILLS"
+msgstr "KAPITÄNSFERTIGKEITEN"
+
+msgid "IDS_COMPARISON_TAB_SHIP_CONFIGURATION"
+msgstr "Schiffsausrüstung"
 
 msgid "IDS_COMPENDIUM_COPY_VALUES"
 msgstr "In die Zwischenablage kopieren"
@@ -14327,6 +14476,9 @@ msgstr "Zum Einsetzen des Lasers [KEY_LEFTMOUSE] drücken und halten."
 
 msgid "IDS_CONTEXT_TUTORIAL_MANUAL_AIR_DEFENSE_ACTIVATION"
 msgstr "Flugabwehrsperrfeuer aktivieren"
+
+msgid "IDS_CONTEXT_TUTORIAL_MASS_HEAL"
+msgstr "[KEY_LALT] Gedrückt halten, um die Trefferpunkte Ihrer Verbündeten auf der Minikarte zu sehen"
 
 msgid "IDS_CONTEXT_TUTORIAL_PREEMPTION"
 msgstr "Der Gegner bewegt sich – halten Sie beim Schießen vor"
@@ -21497,6 +21649,9 @@ msgstr ""
 "Sie haben die Einstellungen für das Fadenkreuz geändert.\n"
 "Änderungen anwenden?"
 
+msgid "IDS_CROWS"
+msgstr "Krähenschwarm"
+
 msgid "IDS_CRUISECONTROLS"
 msgstr "Fahrtregler"
 
@@ -21550,6 +21705,12 @@ msgstr "Nach der Transaktion"
 
 msgid "IDS_CURRENCIES_OPERATION_BEFORE"
 msgstr "Vor der Transaktion"
+
+msgid "IDS_CURRENCY_ALBUM_EVENT_DUPLICATES"
+msgstr "Beweise"
+
+msgid "IDS_CURRENCY_ALBUM_EVENT_DUPLICATES_DESCRIPTION"
+msgstr "Um einen Verbrecher außerhalb des Gefechts zu fangen, müssen Sie 4 Beweise sammeln. Beweise erhalten Sie für jede wiederholte Zerstörung eines Gegners in derselben Maske im Gefecht."
 
 msgid "IDS_CURRENCY_BPPOINTS"
 msgstr "Passpunkte"
@@ -21650,6 +21811,9 @@ msgstr "Schiffsbau in der Werft"
 msgid "IDS_CURRENCY_DUBLICATES"
 msgstr "Duplikate"
 
+msgid "IDS_CURRENCY_DUPLICATES"
+msgstr "Duplikate"
+
 msgid "IDS_CURRENCY_ELITEXP"
 msgstr "Elite-Kapitäns-EP"
 
@@ -21702,16 +21866,16 @@ msgid "IDS_CURRENCY_EVENTUM_2_STATUS"
 msgstr "Temporäre Ressource des Events „11 Jahre: Es war einmal in den Wilden Landen“. Mit der Veröffentlichung von Update 26.11 werden die Reisenden-Marken ohne Entschädigung gelöscht."
 
 msgid "IDS_CURRENCY_EVENTUM_3"
-msgstr "Amerikanische Marken"
+msgstr "Cybermarken"
 
 msgid "IDS_CURRENCY_EVENTUM_3_GET_DESCRIPTION"
-msgstr "Für das Abschließen von Kampfaufträgen bis zum Ende von Update 26.7, sowie aus Paketen in der Waffenkammer bis zum Ende von Update 26.8."
+msgstr "Aus einem Paket in der Waffenkammer für begrenzte Zeit in Update 26.11."
 
 msgid "IDS_CURRENCY_EVENTUM_3_SPEND_DESCRIPTION"
-msgstr "Gegen sequenzielle Pakete mit dem Schlachtschiff der Stufe X New Jersey mit frühem Zugang, Premiumcontainern „Vorabzugang“, permanenten Tarnungen „Wellenschimmer“ und „Mondschein“ für New Jersey und das Super-Schlachtschiff Virginia und Bonuspakete für Schiffe mit frühem Zugang der Stufen VIII–X und einem Superschiff, sowie gegen andere Gegenstände bis zum Ende von Update 26.8."
+msgstr "Gegen sequenzielle Pakete mit Premiumcontainern „Cyber-Container“ und dem Schlachtschiff der Stufe X „Kiberslawa“ mit permanenter Tarnung „Stadt Kitesch“, gegen die Kapitäne Kiberslaw und Miloslawa sowie gegen andere Gegenstände für begrenzte Zeit in Update 26.11."
 
 msgid "IDS_CURRENCY_EVENTUM_3_STATUS"
-msgstr "Temporäre Ressource des Events „US-Schlachtschiffe“. Mit der Veröffentlichung von Update 26.9 werden die Marken ohne Vergütung entfernt."
+msgstr "Temporäre Ressource des Events „Kiberslaw“. Mit der Veröffentlichung von Update 26.12 wird sie ohne Vergütung entfernt."
 
 msgid "IDS_CURRENCY_EVENTUM_4"
 msgstr "Altrussische Marken"
@@ -21750,16 +21914,16 @@ msgid "IDS_CURRENCY_EVENTUM_6_STATUS"
 msgstr "Temporäre Ressource des Events „Verteidigung von Lukomorje“. Mit Veröffentlichung von Update 26.12 wird sie ohne Entschädigung gelöscht."
 
 msgid "IDS_CURRENCY_EVENTUM_7"
-msgstr "Deutsche Marken"
+msgstr "Black-Friday-Marken"
 
 msgid "IDS_CURRENCY_EVENTUM_7_GET_DESCRIPTION"
-msgstr "Erhältlich durch das Abschließen von Kampfaufträgen für eine begrenzte Zeit in Update 26.7 sowie aus Paketen in der Waffenkammer bis zum Ende von Update 26.7."
+msgstr "Für das Abschließen von Kampfaufträgen und aus Paketen in der Waffenkammer für begrenzte Zeit in Update 26.11."
 
 msgid "IDS_CURRENCY_EVENTUM_7_SPEND_DESCRIPTION"
-msgstr "Auf die aufeinanderfolgenden Sets mit dem Stufe-X-Kreuzer Wotan und den Premiumcontainern „Deutsches Geschwader“, auf die permanenten Tarnungen „Forschung“ für Schiffe der Stufen VIII–X und Superschiffe sowie auf weitere Gegenstände bis zum Ende von Update 26.7."
+msgstr "Gegen ein Paket mit dem Zerstörer Benham B der Stufe IX, gegen die Premiumcontainer „Weißer Motor“ und „Flottenschatzkammer“, gegen Container „Schwarzer Motor“ sowie gegen andere Gegenstände für begrenzte Zeit in Update 26.11."
 
 msgid "IDS_CURRENCY_EVENTUM_7_STATUS"
-msgstr "Temporäre Ressource. Mit der Veröffentlichung von Update 26.8 werden die Marken ohne Entschädigung gelöscht."
+msgstr "Temporäre Ressource des Events „Schwarzer Freitag. Bereit oder nicht?“. Mit der Veröffentlichung von Update 26.12 werden die Marken ohne Vergütung entfernt."
 
 msgid "IDS_CURRENCY_EVENTUM_8"
 msgstr "Purpurrote Edelsteine"
@@ -22594,14 +22758,23 @@ msgstr "Heißer Sommer"
 msgid "IDS_DECAL_PCED053_NAME"
 msgstr "Roter Panda"
 
+msgid "IDS_DECAL_PCED054_NAME"
+msgstr "Minin und Poscharski"
+
+msgid "IDS_DECAL_PCED058_NAME"
+msgstr "Tatort"
+
+msgid "IDS_DECAL_PCED059_NAME"
+msgstr "Hand der Gerechtigkeit"
+
 msgid "IDS_DECAL_PCED501_DESCRIPTION"
-msgstr "Berücksichtigt werden die Ergebnisse mit diesem Schiff in Co-op-, Zufalls-, Rang- und Rating-Gefechten sowie im Blitz und in Unternehmen. Maximalwert: 9 999."
+msgstr "<p>Berücksichtigt werden die Ergebnisse mit diesem Schiff in Co-op-, Zufalls-, gewerteten und Rating-Gefechten sowie in der Keilerei und in Unternehmen.</p><p class=\"p_spacing\"> </p><p>Maximalwert: 9 999.</p>"
 
 msgid "IDS_DECAL_PCED501_NAME"
 msgstr "Zerstörungen"
 
 msgid "IDS_DECAL_PCED502_DESCRIPTION"
-msgstr "Es werden die Ergebnisse auf diesem Schiff in Co-op-, Zufalls-, Ranglisten-, Rating- und Blitzgefechten sowie in Unternehmen berücksichtigt. Höchstwert: 9 999."
+msgstr "<p>Berücksichtigt werden die Ergebnisse mit diesem Schiff in Co-op-, Zufalls-, gewerteten und Rating-Gefechten sowie in der Keilerei und in Unternehmen.</p><p class=\"p_spacing\"> </p><p>Maximalwert: 9 999.</p>"
 
 msgid "IDS_DECAL_PCED502_NAME"
 msgstr "Siege"
@@ -22616,19 +22789,19 @@ msgid "IDS_DECAL_PCED503_SUBST_DESCRIPTION"
 msgstr "Um das Abziehbild zu erhalten, erreichen Sie Meisterschaftsstufe %(_value)s auf dem gewählten Schiff."
 
 msgid "IDS_DECAL_PCED504_DESCRIPTION"
-msgstr "Um das Abziehbild zu erhalten, erreichen Sie Rang I der Bronzeliga oder höher, indem Sie 20 Sterne für Siege in Gewerteten Gefechten erhalten."
+msgstr "<p>Zeigt Ihren Rang in der aktuellen Saison an. Wenn keine gewerteten Gefechte stattfinden, wird Ihr Rang zum Ende der letzten Saison angezeigt.</p><p class=\"p_spacing\"> </p><p>Um das Abziehbild zu erhalten, erreichen Sie Rang I der Bronzeliga oder höher, indem Sie 20 Sterne für Siege in gewerteten Gefechten verdienen.</p>"
 
 msgid "IDS_DECAL_PCED504_NAME"
 msgstr "Rang"
 
 msgid "IDS_DECAL_PCED505_DESCRIPTION"
-msgstr "Um das Abziehbild zu erhalten, erreichen Sie die Silberliga oder höher in Rating-Gefechten."
+msgstr "<p>Zeigt Ihr Rating in der aktuellen Saison an. Wenn keine Rating-Gefechte stattfinden, wird Ihr Rating zum Ende der letzten Saison angezeigt.</p><p class=\"p_spacing\"> </p><p>Um das Abziehbild zu erhalten, erreichen Sie die Silberliga oder höher in Rating-Gefechten.</p>"
 
 msgid "IDS_DECAL_PCED505_NAME"
 msgstr "Rating"
 
 msgid "IDS_DECAL_PCED506_DESCRIPTION"
-msgstr "Alle Gefechte auf diesem Schiff, in denen Sie den Status „Bester der Sieger“ erhalten haben, werden berücksichtigt. Maximalwert: 9 999."
+msgstr "<p>Berücksichtigt werden alle Gefechte mit diesem Schiff, in denen Sie den Status „Bester der Sieger“ erhalten haben.</p><p class=\"p_spacing\"> </p><p>Maximalwert: 9 999.</p>"
 
 msgid "IDS_DECAL_PCED506_NAME"
 msgstr "Bester der Sieger"
@@ -22837,6 +23010,9 @@ msgstr "<p>Der Himmel hat die Menschheit seit jeher angezogen – sowohl Wissens
 
 msgid "IDS_DESCRIPTION_PCZA041_BD25_PUZZLE"
 msgstr "<p>Schließen Sie die Augen und zählen Sie bis zehn. Was sehen Sie? Vielleicht steigen Bilder vergangener Gefechte vor Ihrem inneren Auge auf: Artilleriefeuer, Silhouetten stählerner Giganten, Gischt von Sturmwellen, Gesichter treuer Kampfgefährten… Oder aber Sie blicken streng nach vorne – ins Ungewisse?</p><p class=\"p_spacing\"> </p><p>Wünschen Sie sich etwas. Was auch immer Sie jenseits des Horizonts erwartet, die zehn Jahre der Kämpfe, die hinter Ihnen liegen, sind für immer im Herzen, und genau deshalb steuern Sie Ihr Schiff so zuversichtlich auf den einzig richtigen Kurs.</p>"
+
+msgid "IDS_DESCRIPTION_PCZA042_RARE_BEAST_BF26"
+msgstr "<p>Diese Stadt hat die schlechte Angewohnheit, fremde Geheimnisse zu hüten. Wenn die Nacht über die Dächer fällt, kommen die aus ihren Verstecken, die etwas zu verbergen haben. Sie verbergen ihre Gesichter hinter Masken, wechseln ihre Namen und sprechen mit fremden Stimmen. Es scheint, sie könnten für immer im Schatten verschwinden, doch manchmal beginnen selbst Leichen im Keller zu reden...</p><p class=\"p_spacing\"> </p><p>Ein unbedeutendes Detail, ein zur falschen Zeit gesagtes Wort und ein flüchtiger Blick im falschen Moment bringen die Wahrheit ans Licht. Dem scharfen Blick des Detektivs entgeht kein einziger Hinweis, und die, die einst eine ganze Stadt in Angst hielten, werden zu bloßen Namen in der Kartei der Polizeiwache.</p>"
 
 msgid "IDS_DESCRIPTION_SHIP_PARAMS_CHANGE_BY_BLOCKER_ATBA"
 msgstr "Sie können die Geschütze der Sekundärbatterie nicht verwenden."
@@ -23649,6 +23825,9 @@ msgstr "Ortung von Zerstörern"
 
 msgid "IDS_DIVEBOMBER"
 msgstr "Bomber"
+
+msgid "IDS_DIVEBOMBER_ALT"
+msgstr "Taktische Bomber"
 
 msgid "IDS_DIVEBOMBER_AP"
 msgstr "(AP-) Bomber"
@@ -24545,7 +24724,7 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY053_SUPPORTBUOY_US"
 msgstr "<p>Erschafft eine Zone. Wenn verbündete Schiffe in sie hineinfahren, werden ihre Trefferpunkte und Manövrierbarkeit vorübergehend erhöht.</p><p class=\"p_spacing\"> </p><p>Die Zone erscheint am Ort der Aktivierung des Verbrauchsmaterials.</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY054_MASSHEAL"
-msgstr "<p>Erschafft eine Zone um das Schiff. In dieser Zone werden die Trefferpunkte von Ihnen und Ihren Verbündeten teilweise regeneriert.</p><p class=\"p_spacing\"> </p><p>Reparaturverbrauchsmaterial.</p>"
+msgstr "<p>Erzeugt um das Schiff eine Zone, in der die Trefferpunkte von Ihnen und Ihren Verbündeten teilweise wiederhergestellt werden.</p><p class=\"p_spacing\"> </p><p>Halten Sie [KEY_LALT] gedrückt, um die Trefferpunkte Ihrer Verbündeten auf der Minikarte zu sehen.</p><p class=\"p_spacing\"> </p><p>Reparaturverbrauchsmaterial.</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY055_ABILITYCLONES"
 msgstr " "
@@ -24903,7 +25082,7 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY520_2025WT_HOUNDSMASSHEAL"
 msgstr "Stellt sofort einen Teil der TP für jedes Schiff Ihres Teams wieder her."
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY521_2025WT_HOUNDSSPEEDBOOSTER"
-msgstr "Erhöht Geschwindigkeit und Manövrierbarkeit aller Schiffe in Ihrem Team.</p><p class=\"p_spacing\"> </p><p>Ihr Schiff erhält einen erhöhten Bonus auf Manövrierbarkeit.</p>"
+msgstr "<p>Erhöht Geschwindigkeit und Manövrierbarkeit aller Schiffe in Ihrem Team.</p><p class=\"p_spacing\"> </p><p>Ihr Schiff erhält einen erhöhten Bonus auf Manövrierbarkeit.</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY522_2025WT_HOUNDSROTARYAC"
 msgstr "Verbessert die Eigenschaften der Hauptbatteriegeschütze auf Ihrem Schiff für jeweils mehrere Treffer auf dasselbe gegnerische Schiff. Der Fortschritt setzt sich zurück, sobald ein anderes Ziel getroffen wird."
@@ -26601,7 +26780,7 @@ msgid "IDS_DOGTAG_PCNB071_DESCRIPTION"
 msgstr "Für Teilnehmer des Events „Space Warships 2018“."
 
 msgid "IDS_DOGTAG_PCNB071_NAME"
-msgstr "Space Warships 2018"
+msgstr "Space Warships 2018"
 
 msgid "IDS_DOGTAG_PCNB072_DESCRIPTION"
 msgstr "Für Teilnehmer des Events „Space Warships 2018“."
@@ -27899,7 +28078,7 @@ msgid "IDS_DOGTAG_PCNB289_DESCRIPTION"
 msgstr "Unser Spiel wird häufig, ähnlich wie der Sport, für seine Unvorhersehbarkeit gelobt. Aber viel wichtiger ist, dass wir Spieler zu Land und zu Wasser zusammenbringen!"
 
 msgid "IDS_DOGTAG_PCNB289_NAME"
-msgstr "The Beautiful Game"
+msgstr "The Beautiful Game"
 
 msgid "IDS_DOGTAG_PCNB290_DESCRIPTION"
 msgstr "Sport ist der Geist eines unversöhnlichen Wettbewerbs, der Kampf zwischen den ambitioniertesten Wettbewerbern, die entschlossen bis zum Ende kämpfen. Aber gleichzeitig ist Sport auch etwas, was die Menschen eint und bei dem wahre Freundschaften entstehen."
@@ -28995,6 +29174,12 @@ msgstr "Der Feuervogel ist ein wundersames Geschöpf mit feurigem Gefieder, dess
 msgid "IDS_DOGTAG_PCNB482_NAME"
 msgstr "Feuervogelfeder"
 
+msgid "IDS_DOGTAG_PCNB483_DESCRIPTION"
+msgstr "Im Winter 1704 wurde während des Großen Nordischen Krieges südlich von Kronstadt ein Fort auf einem Pfahlrost errichtet. Die Befestigung, die der schwedischen Flotte den Weg versperrte, erhielt den Namen Kronschlot, was „Kronenschloss“ bedeutet."
+
+msgid "IDS_DOGTAG_PCNB483_NAME"
+msgstr "Geist von Kronschlot"
+
 msgid "IDS_DOGTAG_PCNB999_DESCRIPTION"
 msgstr "Die Arbeiten am Aufnäher sind noch nicht abgeschlossen."
 
@@ -29284,7 +29469,7 @@ msgid "IDS_DOGTAG_PCNU020_DESCRIPTION"
 msgstr "Obwohl die Fleur-de-Lis auf zahlreichen europäischen Wappen abgebildet wurde, wird sie vor allem mit der Französischen Monarchie assoziiert."
 
 msgid "IDS_DOGTAG_PCNU020_NAME"
-msgstr "Forces Élites de la Marine Nationale"
+msgstr "Forces élites de la Marine Nationale"
 
 msgid "IDS_DOGTAG_PCNU021_DESCRIPTION"
 msgstr "Die Darstellung eines Adlers als Symbol für den deutschen Staat reicht zurück bis in die Zeit Karls des Großen, dem ersten fränkischen Herrscher, der vom Papst zum Kaiser gekrönt wurde. Das neue Reich umfasste einen Teil des ehemals weströmischen Reichs, von dem es das römische Symbol des Adlers übernahm."
@@ -29725,7 +29910,7 @@ msgid "IDS_DOGTAG_PCNU091_DESCRIPTION"
 msgstr "Der Löwe als heraldische Figur befand sich bereits auf dem Wappen der früheren Republik der Sieben Vereinigten Niederlande (1581–1795), und so auch auf dem Wappen des Königreichs der Niederlande, das 1815 gegründet wurde. Die sieben Pfeile in der Pfote des einen Löwen stehen für die sieben Provinzen der Republik, das Schwert symbolisiert die Entschlossenheit zur Verteidigung ihrer Freiheit und die königliche Krone unterstreicht ihre Souveränität."
 
 msgid "IDS_DOGTAG_PCNU091_NAME"
-msgstr "Koninklijke Marine I"
+msgstr "Koninklijke Marine I"
 
 msgid "IDS_DOGTAG_PCNU092_DESCRIPTION"
 msgstr "Der Löwe als heraldische Figur befand sich bereits auf dem Wappen der früheren Republik der Sieben Vereinigten Niederlande (1581–1795), und so auch auf dem Wappen des Königreichs der Niederlande, das 1815 gegründet wurde. Die sieben Pfeile in der Pfote des einen Löwen stehen für die sieben Provinzen der Republik, das Schwert symbolisiert die Entschlossenheit zur Verteidigung ihrer Freiheit und die königliche Krone unterstreicht ihre Souveränität."
@@ -29767,19 +29952,19 @@ msgid "IDS_DOGTAG_PCNU098_DESCRIPTION"
 msgstr "Ein Symbol Spaniens, dessen Ursprung bis ins Altertum zurückreicht. Durch seine beeindruckende Größe, seinen unerschütterlichen Mut und seine clevere Natur steht der Bulle für beispiellose Kampfkraft."
 
 msgid "IDS_DOGTAG_PCNU098_NAME"
-msgstr "Armada española III"
+msgstr "Armada española III"
 
 msgid "IDS_DOGTAG_PCNU099_DESCRIPTION"
 msgstr "Ein Symbol Spaniens, dessen Ursprung bis ins Altertum zurückreicht. Durch seine beeindruckende Größe, seinen unerschütterlichen Mut und seine clevere Natur steht der Bulle für beispiellose Kampfkraft."
 
 msgid "IDS_DOGTAG_PCNU099_NAME"
-msgstr "Armada española II"
+msgstr "Armada española II"
 
 msgid "IDS_DOGTAG_PCNU100_DESCRIPTION"
 msgstr "Ein Symbol Spaniens, dessen Ursprung bis ins Altertum zurückreicht. Durch seine beeindruckende Größe, seinen unerschütterlichen Mut und seine clevere Natur steht der Bulle für beispiellose Kampfkraft."
 
 msgid "IDS_DOGTAG_PCNU100_NAME"
-msgstr "Armada española I"
+msgstr "Armada española I"
 
 msgid "IDS_DOGTAG_PCNU101_DESCRIPTION"
 msgstr "Ein Symbol Spaniens, dessen Ursprung bis ins Altertum zurückreicht. Durch seine beeindruckende Größe, seinen unerschütterlichen Mut und seine clevere Natur steht der Bulle für beispiellose Kampfkraft."
@@ -31980,6 +32165,9 @@ msgstr "Das Portal ist geöffnet. Sie haben bereits einen Schlüssel!"
 msgid "IDS_EV2020_RULES_PORTAL_WITHOUT_KEY"
 msgstr "Um durchs Portal verschwinden zu können, brauchen Sie einen Schlüssel."
 
+msgid "IDS_EV2611_E"
+msgstr "Komplize"
+
 msgid "IDS_EVAVALENTINE"
 msgstr "Eva Valentine"
 
@@ -32140,7 +32328,7 @@ msgid "IDS_EVENT_SPACE_BATTLE_TASK_NUMBER_OF_POINT"
 msgstr "+%(count)s %"
 
 msgid "IDS_EVENT_SPACE_BATTLE_TASK_POINT_IN_SEC"
-msgstr "+%(count)s / s"
+msgstr "+%(count)s / c"
 
 msgid "IDS_EVENT_SPACE_BATTLE_TASK_TEXT_BOSS_ATTACK"
 msgstr "Gegnerischen Beowulf angreifen"
@@ -34022,6 +34210,9 @@ msgstr "Schlachtflugzeuge"
 msgid "IDS_FIGHTER_AIRSUP"
 msgstr "Luftschläge: Jäger"
 
+msgid "IDS_FIGHTER_ALT"
+msgstr "Taktische Schlachtflugzeuge"
+
 msgid "IDS_FIGHTER_AP"
 msgstr "(AP-) Schlachtflugzeuge"
 
@@ -34185,7 +34376,7 @@ msgid "IDS_FIRST_BATTLE_CARD_SHOOTING_1"
 msgstr "Sekundärbatterie (PMK) und Fla-Geschütze feuern automatisch."
 
 msgid "IDS_FIRST_BATTLE_DESCRIPTION"
-msgstr "Erstes Gefecht"
+msgstr "Zerstören Sie alle gegnerischen Schiffe."
 
 msgid "IDS_FIRST_BATTLE_GOAL"
 msgstr "Zerstören Sie alle gegnerischen Schiffe."
@@ -34282,6 +34473,9 @@ msgstr "Der Admiralspfad"
 
 msgid "IDS_FIRST_PCZA027_TFTM_108_NAME"
 msgstr "Autobot-Kapitäne"
+
+msgid "IDS_FIRST_PCZA042_RARE_BEAST_BF26_NAME"
+msgstr "Schwarze Segel"
 
 msgid "IDS_FIRST_SCARLET_BIRTHDAY_2_NAME"
 msgstr "Gipfel der Innovationen"
@@ -34523,6 +34717,9 @@ msgstr "6×1"
 msgid "IDS_FORMAT_EVENTBATTLE_PCVE035"
 msgstr "1 gegen 8"
 
+msgid "IDS_FORMAT_EVENTBATTLE_PCVE036"
+msgstr "5×7"
+
 msgid "IDS_FORM_DIVISION"
 msgstr "Division zusammenstellen"
 
@@ -34609,6 +34806,9 @@ msgstr "Flotte der Zukunft"
 
 msgid "IDS_FOURTH_PCZA027_TFTM_108_NAME"
 msgstr "Decepticon-Comics: Geschichte im Spiel"
+
+msgid "IDS_FOURTH_PCZA042_RARE_BEAST_BF26_NAME"
+msgstr "Schatten des Hafens"
 
 msgid "IDS_FOURTH_SCARLET_BIRTHDAY_2_NAME"
 msgstr "Triumph der Technologie"
@@ -34894,6 +35094,9 @@ msgstr "Shirakami Fubuki"
 
 msgid "IDS_FULLSCREEN"
 msgstr "Vollbild"
+
+msgid "IDS_FUNNEL"
+msgstr "Schornsteinpanzerung"
 
 msgid "IDS_GAMELOGIC_PRESET"
 msgstr "Kleine Objekte animieren"
@@ -35365,6 +35568,9 @@ msgstr "REGELN"
 msgid "IDS_GO_TO_ACCESS_LEVEL_MOUSE_INSTRUCTION"
 msgstr "Zum Fenster „Zugangsstufen“ gehen"
 
+msgid "IDS_GO_TO_ALBUM_EVENT"
+msgstr "Zum Fenster „Ernste Ermittlungen“ gehen"
+
 msgid "IDS_GO_TO_ALMANAC_MOUSE_INSTRUCTION"
 msgstr "Zum Fenster „Tägliche Belohnungen“ gehen"
 
@@ -35409,6 +35615,9 @@ msgstr "Zum Fenster „Neuigkeiten“ gehen"
 
 msgid "IDS_GO_TO_OBJECT_SCREEN"
 msgstr "Zum Sammelstückbildschirm gehen"
+
+msgid "IDS_GO_TO_OBJECT_SCREEN_ALBUM_EVENT"
+msgstr "Dossier öffnen"
 
 msgid "IDS_GO_TO_PLAYBACK_UPPERCASE"
 msgstr "ABSPIELEN"
@@ -36558,6 +36767,26 @@ msgstr "Gesamtzahl der Belohnungen, die Sie von Ihren Schiffen erhalten können.
 
 msgid "IDS_GUIDING_TIP_380_HEADER"
 msgstr "Belohnungen"
+
+msgid "IDS_GUIDING_TIP_381_DESC"
+msgstr "Passen Sie Schiffe an und vergleichen Sie ihre Eigenschaften. Sie können ein Schiff direkt aus dem Karussell hinzufügen, indem Sie es mit der rechten Maustaste anklicken, oder erst auf dem Vergleichsbildschirm."
+
+msgid "IDS_GUIDING_TIP_381_HEADER"
+msgstr "Schiffsvergleich"
+
+msgid "IDS_GUIDING_TIP_382_DESC"
+msgstr "Der Unterschied der Eigenschaften wird relativ zum ersten Schiff in der Tabelle angezeigt. Sie können das Schiff, mit dem die anderen verglichen werden, jederzeit ändern."
+
+msgid "IDS_GUIDING_TIP_382_HEADER"
+msgstr ""
+"Vergleichen Sie ein Schiff\n"
+"mit anderen"
+
+msgid "IDS_GUIDING_TIP_383_DESC"
+msgstr "Sie haben genug Beweise, um einen weiteren Verbrecher zu fangen. Wählen Sie das Dossier desjenigen, den Sie entlarven wollen."
+
+msgid "IDS_GUIDING_TIP_383_HEADER"
+msgstr "Beweise gesammelt"
 
 msgid "IDS_GUIDING_TIP_38_DESC"
 msgstr "Verdienen Sie Kapitäns-EP im Gefecht, um die Stufe Ihres Kapitäns zu erhöhen und Fertigkeiten zu meistern."
@@ -38384,6 +38613,9 @@ msgstr "Alle Filter zurücksetzen"
 msgid "IDS_HINT_RESET_FILTER"
 msgstr "Diesen Filter zurücksetzen"
 
+msgid "IDS_HINT_RESPAWN_BUFF"
+msgstr "Schiffe, die für Respawn-Punkte verfügbar sind, haben verbesserte Eigenschaften, die nur in diesem Gefechtstyp gelten. Wenn Sie mit einem solchen Schiff ins Gefecht zurückkehren, erhalten Sie eine zusätzliche Verstärkung. Der Effekt verstärkt sich mit jedem Mal."
+
 msgid "IDS_HINT_RESTRICTION_AUTO_DAMAGE"
 msgstr "Sofern erforderlich wird dieses Verbrauchsmaterial im Gefecht automatisch aktiviert."
 
@@ -38824,6 +39056,15 @@ msgstr "Noch: %(_timeLeft)s"
 
 msgid "IDS_INFOTIP_ALMANAC"
 msgstr "TÄGLICHE BELOHNUNGEN"
+
+msgid "IDS_INFOTIP_COMPARISON_HEADER"
+msgstr "Schiffe zum Vergleich"
+
+msgid "IDS_INFOTIP_GO_TO_COMPARISON"
+msgstr "Zur Tabelle"
+
+msgid "IDS_INFOTIP_REMOVE_ALL_COMPARISON_LIST"
+msgstr "Liste leeren"
 
 msgid "IDS_INFO_AIRPLANE"
 msgstr "LMT: Staffel auswählen."
@@ -39544,7 +39785,7 @@ msgid "IDS_JAP_WWII_SA"
 msgstr "Tomokazu Satomi"
 
 msgid "IDS_JASON_TUMANOFF"
-msgstr "Yazon Tumanoff"
+msgstr "Jason Tumanoff"
 
 msgid "IDS_JASON_TUMANOFF_DESC"
 msgstr "<p>Jazon Konstantinowitsch Tumanow (1883–1955) — Fürst, russischer und paraguayischer Marineoffizier, Kapitän 1. Ranges.</p><p class=\"p_spacing\"> </p><p>Während des Russisch-Japanischen Krieges diente er auf dem Geschwaderpanzerschiff «Orjol» und wurde in der Schlacht von Tsushima schwer verwundet. Während des Ersten Weltkriegs kommandierte er den Zerstörer «Shivutschi», war Leiter der Operationsabteilung des Stabs der Schwarzmeerflotte und wurde mit vier militärischen Orden ausgezeichnet. Er nahm auf Seiten der Weißen am Bürgerkrieg teil, emigrierte und zog 1924 nach Südamerika. In den Jahren 1932–1935 nahm er am Chacokrieg zwischen Paraguay und Bolivien teil und zeichnete sich als Organisator der paraguayischen Kampfflusskräfte aus. Jazon Konstantinowitsch lebte in der Hauptstadt Paraguays, Asunción, unterstützte die Forschung der örtlichen russischen Gemeinschaft und hinterließ ein Buch mit Erinnerungen an seinen Dienst in der russischen und paraguayischen Flotte.</p>"
@@ -43222,6 +43463,9 @@ msgstr "Mina Hurray"
 msgid "IDS_MINEBOMBER"
 msgstr "Minenleger"
 
+msgid "IDS_MINEBOMBER_ALT"
+msgstr "Taktische Minenleger"
+
 msgid "IDS_MINES"
 msgstr "Minen"
 
@@ -43566,6 +43810,21 @@ msgstr "Maxim Metky"
 
 msgid "IDS_MK_PREMIUM_ACCOUNT_ENDS_TIME"
 msgstr "Warships-Premiumkonto läuft noch: %(timeLeft)s"
+
+msgid "IDS_MODAL_COMPARISON_CLEAR_HEADER_TEXT"
+msgstr "Die Liste der Schiffe zum Vergleich leeren?"
+
+msgid "IDS_MODAL_COMPARISON_CLEAR_SUBHEADER_TEXT"
+msgstr "Die angewendeten Schiffseinstellungen werden ebenfalls zurückgesetzt."
+
+msgid "IDS_MODAL_COMPARISON_INCOMPARABLE_CONFIRMATION_TEXT"
+msgstr "Sind Sie sicher, dass Sie dieses Schiff („Incomparable“ heißt auf Deutsch „Unvergleichlich“) mit anderen vergleichen möchten?"
+
+msgid "IDS_MODAL_COMPARISON_RESET_CONFIG_HEADER_TEXT"
+msgstr "Alle Einstellungen zurücksetzen?"
+
+msgid "IDS_MODAL_COMPARISON_RESET_CONFIG_SUBHEADER_TEXT"
+msgstr "Nach der Bestätigung werden alle Einstellungen einschließlich Konfigurationen und Fertigkeiten zurückgesetzt"
 
 msgid "IDS_MODAL_ENTER_BATTLE_WITHOUT_CREW_DESCRIPTION_PARAGRAPH_1"
 msgstr "Ein Schiff ohne Kapitän ist im Gefecht weniger effizient."
@@ -44727,6 +44986,60 @@ msgstr "Teilnahmebedingungen"
 msgid "IDS_MODAL_WINDOW_PCVE035_RULES_PARAGRAPH_5_TEXT_1"
 msgstr "Passende Schiffe:"
 
+msgid "IDS_MODAL_WINDOW_PCVE036_BATTLE_RULES_HEADER"
+msgstr "Ermittlung"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_BATTLE_RULES_PARAGRAPH_1_HEADER"
+msgstr "ZWEITE CHANCE"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_BATTLE_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "Eine zweite Chance verdienen selbst die, die ganz unten angekommen sind. Nach dem Untergang können Sie ins Gefecht zurückkehren, indem Sie einen Respawn-Punkt und ein Schiff wählen. Einige Schiffe sind nur für Respawn-Punkte verfügbar, die im Gefecht verdient wurden."
+
+msgid "IDS_MODAL_WINDOW_PCVE036_BATTLE_RULES_PARAGRAPH_2_HEADER"
+msgstr "SCHIFFSVERSTÄRKUNG"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_BATTLE_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "Vor dem Eintritt ins Gefecht werden die Eigenschaften Ihres Schiffs verbessert. Eine zusätzliche Verstärkung erhalten Sie für die Zerstörung gefährlicher Verbrecher und für die Rückkehr ins Gefecht mit Schiffen für Respawn-Punkte."
+
+msgid "IDS_MODAL_WINDOW_PCVE036_BATTLE_RULES_PARAGRAPH_3_HEADER"
+msgstr "VIER ANGRIFFE"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_BATTLE_RULES_PARAGRAPH_3_TEXT_1"
+msgstr "Das Verbrechersyndikat der Stadt besteht aus vier Banden. Eine nach der anderen werden sie aus der Dunkelheit treten und Ihre Schiffe angreifen. Zerstören Sie alle Gegner, um den Hafen von Spade City zu säubern."
+
+msgid "IDS_MODAL_WINDOW_PCVE036_RULES_HEADER"
+msgstr "Ernste Ermittlungen"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_RULES_PARAGRAPH_1_HEADER"
+msgstr "Gefechtsmerkmale"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "Vier Verbrecherbanden greifen den Hafen von Spade City an. Unter den Angreifern sind besonders gefährliche Gestalten, die sich hinter den Masken bekannter Kapitäne verbergen. Eliminieren Sie sie, enttarnen Sie das Verbrechersyndikat und verteidigen Sie die Stadt, bevor es zu spät ist."
+
+msgid "IDS_MODAL_WINDOW_PCVE036_RULES_PARAGRAPH_1_TEXT_2"
+msgstr "Für die Zerstörung von Gegnern, die mit dem Zeichen [scenario_tag_buff] markiert sind, erhalten die Schiffe Ihres Teams Verstärkungen, die helfen, diese Nacht zu überleben."
+
+msgid "IDS_MODAL_WINDOW_PCVE036_RULES_PARAGRAPH_2_HEADER"
+msgstr "Rückkehr ins Gefecht"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "Wenn Sie zerstört wurden, kehren Sie ins Gefecht zurück, indem Sie eine Position und ein Schiff wählen. Einige Schiffe sind nur für Respawn-Punkte verfügbar, die im Gefecht verdient wurden."
+
+msgid "IDS_MODAL_WINDOW_PCVE036_RULES_PARAGRAPH_2_TEXT_2"
+msgstr "Für einige Sekunden nach der Rückkehr wird der erlittene Schaden verringert."
+
+msgid "IDS_MODAL_WINDOW_PCVE036_RULES_PARAGRAPH_3_HEADER"
+msgstr "Bis zum Morgengrauen durchhalten"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_RULES_PARAGRAPH_3_TEXT_1"
+msgstr "Eliminieren Sie die Verbrecher, bevor die Zeit des Überfalls abläuft. Wenn Ihr Team die Gegner nicht rechtzeitig zerstört oder alle Ihre Schiffe gleichzeitig außer Gefecht gesetzt werden, gewinnt die Unterwelt, und Spade City wird nie wieder dieselbe sein."
+
+msgid "IDS_MODAL_WINDOW_PCVE036_RULES_PARAGRAPH_4_HEADER"
+msgstr "Teilnahmebedingungen"
+
+msgid "IDS_MODAL_WINDOW_PCVE036_RULES_PARAGRAPH_4_TEXT_1"
+msgstr "Passende Schiffe:"
+
 msgid "IDS_MODAL_WINDOW_PCVO006_RULES_HEADER"
 msgstr "Hydras Versteck"
 
@@ -45207,6 +45520,9 @@ msgstr "Gamma"
 msgid "IDS_MODAL_WINDOW_TITLE_PREMIUM_ACCOUNT_PURCHASE"
 msgstr "Premiumkonto kaufen"
 
+msgid "IDS_MODAL_WINDOW_TITLE_SHIP_COMPARISON"
+msgstr "Schiffsvergleich"
+
 msgid "IDS_MODAL_WINDOW_TITLE_SIGNAL_PURCHASE"
 msgstr "Signal kaufen"
 
@@ -45221,6 +45537,9 @@ msgstr "Talent ablehnen"
 
 msgid "IDS_MODAL_WINDOW_TITLE_TALENT_UNLOCK"
 msgstr "Talent freischalten"
+
+msgid "IDS_MODAL_WINDOW_TITLE_UPGRADE_SHIP_COMPARISON"
+msgstr "Schiffskonfiguration"
 
 msgid "IDS_MODAL_WINDOW_TRIALBATTLE_RULES_HEADER"
 msgstr "Trainingsprüfungen"
@@ -45880,6 +46199,9 @@ msgstr "Ohne Bindung an den Kapitän"
 
 msgid "IDS_MUSIC_MOD_BASE_DESCRIPTION"
 msgstr "Beim Eintritt in ein Gefecht mit einem Kapitän, der über eine einzigartige Musikbegleitung verfügt, wird Musik aus der Kategorie „Standard“ gespielt."
+
+msgid "IDS_MUSIC_MOD_BLACK_FRIDAY"
+msgstr "Ernste Ermittlungen"
 
 msgid "IDS_MUSIC_MOD_DESCRIPTION"
 msgstr "Die Art der musikalischen Begleitung im Gefecht"
@@ -52459,6 +52781,9 @@ msgstr "FlyFire"
 msgid "IDS_PAES527_BLACKBLACK"
 msgstr "Spezialtarnung"
 
+msgid "IDS_PAES529_BLACK_BENHAM"
+msgstr "Spezialtarnung"
+
 msgid "IDS_PAES530_MAD_GEARING"
 msgstr "Meister der Wasserwelt"
 
@@ -54026,7 +54351,7 @@ msgid "IDS_PAPR998_CONCORD_BRIDGE"
 msgstr "Tiny Tim"
 
 msgid "IDS_PAPT001_TORPEDO_533MM_MK_15"
-msgstr "Mk15 mod. 0"
+msgstr "Mk15 mod. 0"
 
 msgid "IDS_PAPT002_HALFORD_MK15"
 msgstr "Mk29 Mod. 1"
@@ -54035,10 +54360,10 @@ msgid "IDS_PAPT005_BLISS_LEAVITT_MK6"
 msgstr "Bliss Leavitt Mk6"
 
 msgid "IDS_PAPT006_BLISS_LEAVITT_MK7_MOD_5A"
-msgstr "Bliss Leavitt Mk7 mod. 5A"
+msgstr "Bliss Leavitt Mk7 mod. 5A"
 
 msgid "IDS_PAPT007_BLISS_LEAVITT_MK7_MOD_2A"
-msgstr "Bliss Leavitt Mk7 mod. 2A"
+msgstr "Bliss Leavitt Mk7 mod. 2A"
 
 msgid "IDS_PAPT008_MK_17"
 msgstr "Mk17"
@@ -54074,31 +54399,31 @@ msgid "IDS_PAPT019_WHITEHEAD_MK5"
 msgstr "Whitehead Mk5"
 
 msgid "IDS_PAPT020_BLISS_LEAVITT_MK7_MOD_0"
-msgstr "Bliss Leavitt Mk7 mod. 0"
+msgstr "Bliss Leavitt Mk7 mod. 0"
 
 msgid "IDS_PAPT021_BLISS_LEAVITT_MARK_9_MOD_1B"
-msgstr "Bliss Leavitt Mk9 mod. 1b"
+msgstr "Bliss Leavitt Mk9 mod. 1b"
 
 msgid "IDS_PAPT022_BLISS_LEAVITT_MARK_9_MOD_1"
-msgstr "Bliss Leavitt Mk9 mod. 1"
+msgstr "Bliss Leavitt Mk9 mod. 1"
 
 msgid "IDS_PAPT023_MK_12"
 msgstr "Mk12"
 
 msgid "IDS_PAPT024_MK_14_MOD_3"
-msgstr "Mk14 mod. 3"
+msgstr "Mk14 mod. 3"
 
 msgid "IDS_PAPT025_MK_14_MOD_0"
-msgstr "Mk14 mod. 0"
+msgstr "Mk14 mod. 0"
 
 msgid "IDS_PAPT026_MK_16_MOD_0"
-msgstr "Mk16 mod. 0"
+msgstr "Mk16 mod. 0"
 
 msgid "IDS_PAPT027_MK_16_MOD_1"
 msgstr "Mk16 Mod. 1"
 
 msgid "IDS_PAPT028_TORPEDO_533MM_MK_15_SIMS"
-msgstr "Mk15 mod. 0"
+msgstr "Mk15 mod. 0"
 
 msgid "IDS_PAPT029_MK_15_MOD_ATLANTA"
 msgstr "Mk15 Mod. 3*"
@@ -54116,7 +54441,7 @@ msgid "IDS_PAPT033_MONAGHAN_MK15"
 msgstr "Mk15 Mod. 3*"
 
 msgid "IDS_PAPT034_SMITH"
-msgstr "Bliss Leavitt Mk7 mod. 0"
+msgstr "Bliss Leavitt Mk7 mod. 0"
 
 msgid "IDS_PAPT035_TST_GEARING_1"
 msgstr "Mk16 Mod. 1"
@@ -54185,7 +54510,7 @@ msgid "IDS_PAPT058_533MM_BLISS_L_MK3"
 msgstr "Bliss Leavitt Mk3"
 
 msgid "IDS_PAPT059_MK_17_J_HUMP"
-msgstr "Mk17 mod. 1"
+msgstr "Mk17 mod. 1"
 
 msgid "IDS_PAPT060_GATO_MZ"
 msgstr "Mark 29 Mag 2"
@@ -56331,10 +56656,10 @@ msgid "IDS_PARTNERS_LL_ARPEGGIO"
 msgstr "© Ark Performance /Shonengahosha, Arpeggio partners"
 
 msgid "IDS_PARTNERS_LL_AUTODESK"
-msgstr "This Software product includes Autodesk ® Scaleform ™ software, © 2013 Autodesk, Inc. All rights reserved."
+msgstr "This Software product includes Autodesk® Scaleform™ software, © 2013 Autodesk, Inc. All rights reserved."
 
 msgid "IDS_PARTNERS_LL_AZURLANE"
-msgstr "Azur Lane and its characters are trademarks of Yostar, Manjuu & Yongshi. ©2017 Manjuu Co.,Ltd. & Yongshi Co.,Ltd. All Rights Reserved. ©2017 Yostar, Inc. All Rights Reserved."
+msgstr "Azur Lane and its characters are trademarks of Yostar, Manjuu & Yongshi. © 2017 Manjuu Co.,Ltd. & Yongshi Co.,Ltd. All Rights Reserved. © 2017 Yostar, Inc. All Rights Reserved."
 
 msgid "IDS_PARTNERS_LL_GAMES_WORKSHOP"
 msgstr "Warhammer 40,000 © Copyright Games Workshop Limited 2021. GW, Games Workshop, Space Marine, 40K, Warhammer, Warhammer 40,000, 40,000, the ‘Aquila’ Double-headed Eagle logo, and all associated logos, illustrations, images, names, creatures, races, vehicles, locations, weapons, characters, and the distinctive likeness thereof, are either ® or TM, and/or © Games Workshop Limited, variably registered around the world, and used under license. All rights reserved to their respective owners."
@@ -56360,7 +56685,7 @@ msgid "IDS_PARTNERS_LL_QUIXEL"
 msgstr "Uses Megascans (R), Copyright © - 2021 Epic Games, Inc."
 
 msgid "IDS_PARTNERS_LL_SPEEDTREE"
-msgstr "Portions of this Software utilize SpeedTree ® technology (© 2013 Interactive Data Vizualization, Inc. All rights reserved)."
+msgstr "Portions of this Software utilize SpeedTree ® technology (© 2013 Interactive Data Vizualization, Inc. All rights reserved)."
 
 msgid "IDS_PARTNERS_LL_TRANSFORMERS"
 msgstr "TRANSFORMERS and its associated characters are trademarks of Hasbro and are used with permission. © 2021 Hasbro. All Rights Reserved."
@@ -56369,7 +56694,7 @@ msgid "IDS_PARTNERS_LL_TWITCH_PRIME"
 msgstr "Twitch Prime and the Twitch Prime logo are trademarks of Twitch Interactive, Inc or its affiliates."
 
 msgid "IDS_PARTNERS_LL_WWISE"
-msgstr "Powered by Wwise © 2006–2017 Audiokinetic Inc. All rights reserved."
+msgstr "Powered by Wwise © 2006-2017 Audiokinetic Inc. All rights reserved."
 
 msgid "IDS_PARTNERS_LOGIN_SCREEN_BUTTON"
 msgstr "Unsere Partner"
@@ -58699,19 +59024,34 @@ msgid "IDS_PASD521_YEAR"
 msgstr "1940"
 
 msgid "IDS_PASD529"
-msgstr "Black B"
+msgstr "Black Black"
 
 msgid "IDS_PASD529_DESCR"
 msgstr "<p>Die USS Black, ein Zerstörer der Fletcher-Klasse, wurde in Kearny (New Jersey) gebaut. Während des Zweiten Weltkriegs wurde sie für Patrouillenfahrten im Zentralpazifik, zur Unterstützung der Landungen auf Saipan und Guam, in der Schlacht im Golf von Leyte und bei den Angriffen auf Okinawa eingesetzt. Im Laufe des Krieges wurde sie mit sechs Battle Stars ausgezeichnet. Später kamen zwei weitere für den Koreakrieg hinzu, wo sie 1953 eingesetzt wurde.</p><p class=\"p_spacing\"> </p><p>Von 1955 bis 1969 führte die Black Patrouillen- und Geleitschutzaufgaben für Flugzeugträger durch, unter anderem während des Vietnamkriegs.</p>"
 
 msgid "IDS_PASD529_FULL"
-msgstr "Black B"
+msgstr "Black Black"
 
 msgid "IDS_PASD529_NUMBER"
 msgstr "175"
 
 msgid "IDS_PASD529_YEAR"
 msgstr "1943"
+
+msgid "IDS_PASD539"
+msgstr "Benham B"
+
+msgid "IDS_PASD539_DESCR"
+msgstr "<p>Die Zerstörer der Benham-Klasse stellten eine Weiterentwicklung der Schiffe der beiden Typen Gridley und Bagley dar. Sie waren ebenfalls mit vier Torpedowerfern an den Seiten bewaffnet, unterschieden sich jedoch von ihren Vorgängern durch eine leistungsstärkere Maschinenanlage.</p><p class=\"p_spacing\"> </p><p>Die USS Benham, das Typschiff der Klasse, wurde in Kearny (Bundesstaat New Jersey) gebaut. Der Zerstörer wurde während des japanischen Angriffs auf Pearl Harbor nicht beschädigt, da er zu dieser Zeit den Flugzeugträger Enterprise nach Midway eskortierte. In den Kriegsjahren nahm das Schiff am Doolittle Raid, an der Schlacht um Midway und an der Zweiten Schlacht um die Salomonen teil. Am 15. November 1942 erhielt die Benham in der Seeschlacht von Guadalcanal einen Torpedotreffer, wurde von der Besatzung aufgegeben und vom Zerstörer USS Gwin versenkt.</p>"
+
+msgid "IDS_PASD539_FULL"
+msgstr "Benham B"
+
+msgid "IDS_PASD539_NUMBER"
+msgstr "10"
+
+msgid "IDS_PASD539_YEAR"
+msgstr "1939"
 
 msgid "IDS_PASD597"
 msgstr "Sims B"
@@ -58823,6 +59163,21 @@ msgstr "105"
 
 msgid "IDS_PASD913_YEAR"
 msgstr "1945"
+
+msgid "IDS_PASD999"
+msgstr "Benham B"
+
+msgid "IDS_PASD999_DESCR"
+msgstr "Eine Kopie des Schiffs Benham für das Event „Ernste Ermittlungen“."
+
+msgid "IDS_PASD999_FULL"
+msgstr "Benham B"
+
+msgid "IDS_PASD999_NUMBER"
+msgstr "10"
+
+msgid "IDS_PASD999_YEAR"
+msgstr "1939"
 
 msgid "IDS_PASS106"
 msgstr "Cachalot (alt)"
@@ -59343,6 +59698,12 @@ msgstr "406 mm/45 Mk.6 in einem Turm"
 
 msgid "IDS_PAUA818_ART_NORTH_DAKOTA"
 msgstr "406 mm/56 Mk.4 in einem Turm"
+
+msgid "IDS_PAUA819_ART_BLACK_BENHAM"
+msgstr "127 mm/38 Mk.12 in einer Lafette Mk.30/Mk.30 Mod.0"
+
+msgid "IDS_PAUA820_ART_RARE_BEAST_DESTROYER"
+msgstr "127 mm/38 Mk.12 in einer Lafette Mk.30/Mk.30 Mod.0"
 
 msgid "IDS_PAUA821_B9_ART_STOCK"
 msgstr "406 mm/50 Mk.7 in einem Turm"
@@ -60232,6 +60593,12 @@ msgstr "Leistung: 130 000 PS"
 msgid "IDS_PAUE817_ENG_NORTH_DAKOTA"
 msgstr "Leistung: 212 000 PS"
 
+msgid "IDS_PAUE818_ENG_BLACK_BENHAM"
+msgstr "Leistung: 50 000 PS"
+
+msgid "IDS_PAUE819_ENG_RARE_BEAST_DESTROYER"
+msgstr "Leistung: 50 000 PS"
+
 msgid "IDS_PAUE821_ENGINE_120000"
 msgstr "Leistung: 120 000 PS"
 
@@ -60596,7 +60963,7 @@ msgid "IDS_PAUF912_FLIGHTCONTROL_2_A"
 msgstr "Mk10 Mod. 2"
 
 msgid "IDS_PAUF913_FLIGHTCONTROL_2_F"
-msgstr "Mk10 mod. 3"
+msgstr "Mk10 mod. 3"
 
 msgid "IDS_PAUF974_FC_1_MIDWAY"
 msgstr "Mk10 Mod. 1"
@@ -60605,7 +60972,7 @@ msgid "IDS_PAUF975_FC_2A_MIDWAY"
 msgstr "Mk10 Mod. 2"
 
 msgid "IDS_PAUF976_FC_2B_MIDWAY"
-msgstr "Mk10 mod. 3"
+msgstr "Mk10 mod. 3"
 
 msgid "IDS_PAUF991_FC1_MIDWAY"
 msgstr "Mk10 Mod. 1"
@@ -61135,7 +61502,7 @@ msgid "IDS_PAUH818_HALFORD"
 msgstr "Halford"
 
 msgid "IDS_PAUH819_HULL_BLACK_BLACK"
-msgstr "Black B"
+msgstr "Black Black"
 
 msgid "IDS_PAUH820_D9_HULL_STOCK"
 msgstr "Maffitt"
@@ -61154,6 +61521,12 @@ msgstr "Indiana"
 
 msgid "IDS_PAUH825_HULL_NORTH_DAKOTA"
 msgstr "North Dakota"
+
+msgid "IDS_PAUH826_HULL_BLACK_BENHAM"
+msgstr "Benham B."
+
+msgid "IDS_PAUH827_HULL_RARE_BEAST_DESTROYER"
+msgstr "Benham B."
 
 msgid "IDS_PAUH831_IOWA_1943"
 msgstr "Iowa (A)"
@@ -61622,7 +61995,7 @@ msgid "IDS_PAUS001_SUO"
 msgstr "Mk1 Mod. 1"
 
 msgid "IDS_PAUS002_SUO"
-msgstr "Mk1 mod. 2"
+msgstr "Mk1 mod. 2"
 
 msgid "IDS_PAUS011_SUO"
 msgstr "Mk1 Mod. 1"
@@ -62014,6 +62387,12 @@ msgstr "Mk9 Mod. 1"
 msgid "IDS_PAUS824_SUO_NORTH_DAKOTA"
 msgstr "Mk38"
 
+msgid "IDS_PAUS825_SUO_BLACK_BENHAM"
+msgstr "Mk9 Mod. 1"
+
+msgid "IDS_PAUS826_SUO_RARE_BEAST_DESTROYER"
+msgstr "Mk9"
+
 msgid "IDS_PAUS831_SUO_BLACK"
 msgstr "Mk9 Mod. 1"
 
@@ -62231,7 +62610,7 @@ msgid "IDS_PAUT521_533_4_APT017"
 msgstr "533 mm (4x Mk14)"
 
 msgid "IDS_PAUT531_533_4_PAPT001"
-msgstr "Mk15 mod. 0"
+msgstr "Mk15 mod. 0"
 
 msgid "IDS_PAUT541_533_3_PAPT017_MB"
 msgstr "Mk9 Mod. 1"
@@ -62243,7 +62622,7 @@ msgid "IDS_PAUT601_D7_TORP_STOCK"
 msgstr "Mk12"
 
 msgid "IDS_PAUT602_D7_TORP_TOP"
-msgstr "Mk15 mod. 0"
+msgstr "Mk15 mod. 0"
 
 msgid "IDS_PAUT603_TORP_BLACK_ATLANTA"
 msgstr "Mk15 Mod. 3*"
@@ -62264,25 +62643,25 @@ msgid "IDS_PAUT621_533_4_PAPT001"
 msgstr "Mark 11"
 
 msgid "IDS_PAUT631_533_PAPT015_SIMS"
-msgstr "Bliss Leavitt Mk7 mod. 2B"
+msgstr "Bliss Leavitt Mk7 mod. 2B"
 
 msgid "IDS_PAUT680_TORP_STOCK_BLACK_SIMS"
-msgstr "Mk15 mod. 0"
+msgstr "Mk15 mod. 0"
 
 msgid "IDS_PAUT681_TORP_TOP_BLACK_SIMS"
-msgstr "Bliss Leavitt Mk7 mod. 2B"
+msgstr "Bliss Leavitt Mk7 mod. 2B"
 
 msgid "IDS_PAUT700_S8_TORP_STOCK"
 msgstr "Mk28 Mod. 0 und Mk28 Mod. 0 MIE"
 
 msgid "IDS_PAUT701_D8_TORP_STOCK"
-msgstr "Mk15 mod. 0"
+msgstr "Mk15 mod. 0"
 
 msgid "IDS_PAUT702_D8_TORP_TOP"
 msgstr "Mk15 Mod. 3*"
 
 msgid "IDS_PAUT703_533_MARK_14_MOD_3"
-msgstr "Mk14 mod. 3"
+msgstr "Mk14 mod. 3"
 
 msgid "IDS_PAUT704_TORP_KIDD"
 msgstr "Mk15 Mod. 3*"
@@ -62343,6 +62722,12 @@ msgstr "533 mm (5x Mk29 Mod. 1)"
 
 msgid "IDS_PAUT808_D9_TORP_STOCK"
 msgstr "Mk15 Mod. 3*"
+
+msgid "IDS_PAUT809_TORP_BLACK_BENHAM"
+msgstr "533 mm Mk15"
+
+msgid "IDS_PAUT810_TORP_RARE_BEAST_DESTROYER"
+msgstr "533 mm Mk15"
 
 msgid "IDS_PAUT900_S10_TORP_STOCK"
 msgstr "Mk29 Mod. 0 und Mk28 MIE"
@@ -62606,28 +62991,28 @@ msgid "IDS_PBAD907_ASW_T10_CV"
 msgstr "Handley Page Halifax GR"
 
 msgid "IDS_PBAF001_H_NIMROD"
-msgstr "Nimrod Mk I"
+msgstr "Nimrod Mk I"
 
 msgid "IDS_PBAF002_G_SEAGLADIATOR"
-msgstr "Sea Gladiator Mk II"
+msgstr "Sea Gladiator Mk II"
 
 msgid "IDS_PBAF003_B_FIREBRAND_F"
 msgstr "Firebrand F.I"
 
 msgid "IDS_PBAF004_H_SEA_HURR_MKIB"
-msgstr "Sea Hurricane Mk IB"
+msgstr "Sea Hurricane Mk IB"
 
 msgid "IDS_PBAF005_S_SEAFIREII"
-msgstr "Seafire Mk II"
+msgstr "Seafire Mk II"
 
 msgid "IDS_PBAF006_F_FIREFLY"
-msgstr "Firefly Mk I"
+msgstr "Firefly Mk I"
 
 msgid "IDS_PBAF007_S_SEAFIRE_MKXV"
-msgstr "Seafire F.Mk XV"
+msgstr "Seafire F.Mk XV"
 
 msgid "IDS_PBAF008_F_FIREFLY_INDOMITABLE"
-msgstr "Firefly Mk I"
+msgstr "Firefly Mk I"
 
 msgid "IDS_PBAF016_FAIREY_F"
 msgstr "Fairey Flycatcher"
@@ -62913,6 +63298,9 @@ msgstr "Wolkenfreibeuter"
 
 msgid "IDS_PBES428_EDINBURGH_RANGER"
 msgstr "Adamas Viridis"
+
+msgid "IDS_PBES501_WATERLOO_WHITE"
+msgstr "Nebliges Albion"
 
 msgid "IDS_PBES509_JUTLAND_COLORFUL"
 msgstr "Rosa Strahl"
@@ -63998,7 +64386,7 @@ msgid "IDS_PBPB112_MALTA_STOCK"
 msgstr "500-lb-Splitterbombe"
 
 msgid "IDS_PBPB121_EAGLE_JET"
-msgstr "1000 lb G.P. Bomb"
+msgstr "1000 lb G.P. Bomb"
 
 msgid "IDS_PBPB206_FURIOUS_TOP"
 msgstr "250-lb-Splitterbombe"
@@ -64085,7 +64473,7 @@ msgid "IDS_PBPR112_MALTA_STOCK"
 msgstr "RP-3 60 lb No2 Mk.I"
 
 msgid "IDS_PBPR121_EAGLE_JET"
-msgstr "RP-3 60 lb No2 Mk.I"
+msgstr "RP-3 60 lb No2 Mk.I"
 
 msgid "IDS_PBPR206_FURIOUS_TOP"
 msgstr "RP-3 60 lb No1 Mk.I"
@@ -67586,7 +67974,7 @@ msgid "IDS_PBUS719_SUO_TIGER_TEST"
 msgstr "Mk VIII Mod. 1"
 
 msgid "IDS_PBUS720_SUO_ANSON"
-msgstr "Mk VIII"
+msgstr "Mk VIII"
 
 msgid "IDS_PBUS800_B9_SUO_STOCK"
 msgstr "Mk IX Mod. 1"
@@ -67655,7 +68043,7 @@ msgid "IDS_PBUS904_SUO_PLYMOUTH"
 msgstr "Mk X Mod. 1"
 
 msgid "IDS_PBUS905_SUO_THUNDERER"
-msgstr "Mk X"
+msgstr "Mk X"
 
 msgid "IDS_PBUS906_CA10_SUO_STOCK"
 msgstr "Mk X Mod. 1"
@@ -67709,7 +68097,7 @@ msgid "IDS_PBUT101_D2_TORP_STOCK"
 msgstr "533 mm Mk II"
 
 msgid "IDS_PBUT201_CAMPBELTOWN"
-msgstr "Bliss Leavitt Mk8 mod. 2"
+msgstr "Bliss Leavitt Mk8 mod. 2"
 
 msgid "IDS_PBUT201_D3_TORP_STOCK"
 msgstr "533 mm Mk II"
@@ -68448,6 +68836,9 @@ msgstr "Zorn des Donnerers"
 
 msgid "IDS_PCEC162_MAT_GONCHIE_LUK"
 msgstr "Unholde"
+
+msgid "IDS_PCEC163_LEGACY_CAMO"
+msgstr "Maske des Verbrechers"
 
 msgid "IDS_PCEC990_TRIALS_BUDENY"
 msgstr "Ziel."
@@ -72672,7 +73063,7 @@ msgid "IDS_PCEE692_USA_DD_EA_FLAG"
 msgstr "US-Zerstörer"
 
 msgid "IDS_PCEE692_USA_DD_EA_FLAG_DESCRIPTION"
-msgstr "Not for self but for country."
+msgstr "Non sibi sed patriae."
 
 msgid "IDS_PCEE692_USA_DD_EA_FLAG_EXTRA_DESCRIPTION"
 msgstr "Zur Feier der Einführung der neuen amerikanischen Zerstörer, die in Update 13.6 im Vorabzugang in See stechen."
@@ -72975,7 +73366,7 @@ msgid "IDS_PCEE740_FALKENHAYN_FLAG_DESCRIPTION"
 msgstr "Die Flagge, die im 19. und 20. Jahrhundert auf Schiffen und Fahrzeugen des preußischen Kriegsministeriums gehisst wurde. In den Jahren 1913–14 bekleidete Erich Georg Sebastian Anton von Falkenhayn (1861–1922) das Amt des preußischen Kriegsministers – ein herausragender General der Kaiserlich Deutschen Armee im Ersten Weltkrieg."
 
 msgid "IDS_PCEE741_FRANCISCO_MIRANDA_FLAG"
-msgstr "ARV Francisco de Miranda"
+msgstr "ARV Francisco de Miranda "
 
 msgid "IDS_PCEE741_FRANCISCO_MIRANDA_FLAG_DESCRIPTION"
 msgstr "Sebastián Francisco de Miranda y Rodríguez (1750–1816) – Revolutionär und einer der Anführer im Unabhängigkeitskampf der spanischen Kolonien in Südamerika. Im Jahr 1806 brach Miranda zu einer Expedition zur Befreiung Venezuelas an Bord des Korvetten Leander auf, auf dessen Mast seine eigene Marineflagge gehisst wurde."
@@ -73137,31 +73528,31 @@ msgid "IDS_PCEE765_OWARI_NO_ONI_FLAG_DESCRIPTION"
 msgstr "Dem „Black Friday“ gewidmet – dem Tag, an dem in vielen Ländern der Welt offiziell die Wintersonderangebote beginnen."
 
 msgid "IDS_PCEE766_BRISBANE_B_FLAG"
-msgstr "Brisbane B"
+msgstr "Brisbane B"
 
 msgid "IDS_PCEE766_BRISBANE_B_FLAG_DESCRIPTION"
 msgstr "Dem „Black Friday“ gewidmet – dem Tag, an dem in vielen Ländern der Welt offiziell die Wintersonderangebote beginnen."
 
 msgid "IDS_PCEE767_JAGER_B_FLAG"
-msgstr "Jäger B"
+msgstr "Jäger B"
 
 msgid "IDS_PCEE767_JAGER_B_FLAG_DESCRIPTION"
 msgstr "Dem „Black Friday“ gewidmet – dem Tag, an dem in vielen Ländern der Welt offiziell die Wintersonderangebote beginnen."
 
 msgid "IDS_PCEE768_GASCOGNE_B_FLAG"
-msgstr "Gascogne B"
+msgstr "Gascogne B"
 
 msgid "IDS_PCEE768_GASCOGNE_B_FLAG_DESCRIPTION"
 msgstr "Dem „Black Friday“ gewidmet – dem Tag, an dem in vielen Ländern der Welt offiziell die Wintersonderangebote beginnen."
 
 msgid "IDS_PCEE769_PRINZ_EUGEN_B_FLAG"
-msgstr "Prinz Eugen B"
+msgstr "Prinz Eugen B"
 
 msgid "IDS_PCEE769_PRINZ_EUGEN_B_FLAG_DESCRIPTION"
 msgstr "Dem „Black Friday“ gewidmet – dem Tag, an dem in vielen Ländern der Welt offiziell die Wintersonderangebote beginnen."
 
 msgid "IDS_PCEE770_HORNET_B_FLAG"
-msgstr "Hornet B"
+msgstr "Hornet B"
 
 msgid "IDS_PCEE770_HORNET_B_FLAG_DESCRIPTION"
 msgstr "Dem „Black Friday“ gewidmet – dem Tag, an dem in vielen Ländern der Welt offiziell die Wintersonderangebote beginnen."
@@ -73179,7 +73570,7 @@ msgid "IDS_PCEE772_SABIE_FLAG_DESCRIPTION"
 msgstr "Ein Kriegsschiff, das die Ideale von Nokmar verkörpert: unbeugsamen Willen, Disziplin und den Glauben an die unendliche Kraft des menschlichen Geistes. Befehligt wird es von Keira – der besten Studentin der Nordsee‑Akademie. Gleich ihrer Besitzerin greift Sabie schnell und präzise an wie ein scharfes Schwert und beseitigt jeden Gegner, der sich ihr in den Weg stellt."
 
 msgid "IDS_PCEE773_WILLIAM_R_RUSH_FLAG"
-msgstr "USS William R. Rush"
+msgstr "USS William R. Rush"
 
 msgid "IDS_PCEE773_WILLIAM_R_RUSH_FLAG_DESCRIPTION"
 msgstr "William R. Rush war ein US-amerikanischer Marineoffizier, der am Spanisch-Amerikanischen Krieg, der US-Intervention in Mexiko und am Ersten Weltkrieg teilnahm. Während der Besetzung des mexikanischen Veracruz im Jahr 1914 befehligte Rush eine Landungstruppe, wofür er die höchste militärische Auszeichnung der USA erhielt – die Medal of Honor. Am Ordensband sind 13 Sterne zu Ehren der ersten 13 US-Bundesstaaten abgebildet."
@@ -73589,6 +73980,42 @@ msgstr "Das Bild von Koschtschei dem Unsterblichen geht auf alte Vorstellungen v
 msgid "IDS_PCEE835_KOSCHEY_FLAG_EXTRA_DESCRIPTION"
 msgstr "Dies ist Bestandteil des Events „Verteidigung von Lukomorje“."
 
+msgid "IDS_PCEE836_HIZENBLACK_FLAG"
+msgstr "Hizen B"
+
+msgid "IDS_PCEE836_HIZENBLACK_FLAG_DESCRIPTION"
+msgstr "Der Black Friday ist der Tag, an dem in vielen Ländern der Welt offiziell die Winterschlussverkäufe beginnen."
+
+msgid "IDS_PCEE837_BENHAMBLACK_FLAG"
+msgstr "Benham B"
+
+msgid "IDS_PCEE837_BENHAMBLACK_FLAG_DESCRIPTION"
+msgstr "Der Black Friday ist der Tag, an dem in vielen Ländern der Welt offiziell die Winterschlussverkäufe beginnen."
+
+msgid "IDS_PCEE838_BORODINOBLACK_FLAG"
+msgstr "Borodino B"
+
+msgid "IDS_PCEE838_BORODINOBLACK_FLAG_DESCRIPTION"
+msgstr "Der Black Friday ist der Tag, an dem in vielen Ländern der Welt offiziell die Winterschlussverkäufe beginnen."
+
+msgid "IDS_PCEE839_SCHILLBLACK_FLAG"
+msgstr "Schill B"
+
+msgid "IDS_PCEE839_SCHILLBLACK_FLAG_DESCRIPTION"
+msgstr "Der Black Friday ist der Tag, an dem in vielen Ländern der Welt offiziell die Winterschlussverkäufe beginnen."
+
+msgid "IDS_PCEE840_RUGGIEROBLACK_FLAG"
+msgstr "Ruggiero di Lauria B"
+
+msgid "IDS_PCEE840_RUGGIEROBLACK_FLAG_DESCRIPTION"
+msgstr "Der Black Friday ist der Tag, an dem in vielen Ländern der Welt offiziell die Winterschlussverkäufe beginnen."
+
+msgid "IDS_PCEE841_DUKH_KRONSHLOTA_FLAG"
+msgstr "Geist von Kronschlot"
+
+msgid "IDS_PCEE841_DUKH_KRONSHLOTA_FLAG_DESCRIPTION"
+msgstr "Im Winter 1704 wurde während des Großen Nordischen Krieges südlich von Kronstadt ein Fort auf einem Pfahlrost errichtet. Die Befestigung, die der schwedischen Flotte den Weg versperrte, erhielt den Namen Kronschlot, was „Kronenschloss“ bedeutet."
+
 msgid "IDS_PCEE842_ISONZO_FLAG"
 msgstr "RN Isonzo"
 
@@ -73660,6 +74087,36 @@ msgstr "Songun"
 
 msgid "IDS_PCEE856_SONGUN_FLAG_DESCRIPTION"
 msgstr "Songun ist die Staatspolitik der DVRK, die sich in den 1990er Jahren herausbildete. Ihr Hauptprinzip – „Armee zuerst“ – verkündet die führende Rolle der Streitkräfte im staatlichen und gesellschaftlichen Leben des Landes."
+
+msgid "IDS_PCEE859_HARALD_HARDRADE_FLAG"
+msgstr "HNoMS Harald Hardråde"
+
+msgid "IDS_PCEE859_HARALD_HARDRADE_FLAG_DESCRIPTION"
+msgstr "Ein goldener Löwe auf rotem Tuch – das Banner der Könige von Norwegen. Es ist die älteste Flagge des Landes: Die früheste Darstellung stammt aus dem frühen 14. Jahrhundert. Harald III. Hardråde war einer der berühmtesten Könige Norwegens im Mittelalter."
+
+msgid "IDS_PCEE860_UDARNY_FLAG"
+msgstr "Udarny"
+
+msgid "IDS_PCEE860_UDARNY_FLAG_DESCRIPTION"
+msgstr "Die Stoßtrupps, auch „Todesbataillone“ genannt, waren Freiwilligen-Sturmtruppen der russischen Armee, die 1917 aufgestellt wurden und die gefährlichsten Kampfaufträge ausführen sollten. Auf den Fahnen einiger Einheiten war ein Totenkopf mit gekreuzten Knochen abgebildet."
+
+msgid "IDS_PCEE861_LA_ROCHELLE_FLAG"
+msgstr "La Rochelle"
+
+msgid "IDS_PCEE861_LA_ROCHELLE_FLAG_DESCRIPTION"
+msgstr "Im 17. Jahrhundert war die Hafenstadt La Rochelle die wichtigste Hochburg der französischen Protestanten – der Hugenotten. Die Belagerung von La Rochelle in den Jahren 1627–1628 durch königliche Truppen unter Kardinal Richelieu wurde zu einer der Schlüsselepisoden des Romans „Die drei Musketiere“ von Alexandre Dumas."
+
+msgid "IDS_PCEE862_BORODINO_04_FLAG"
+msgstr "Borodino '04"
+
+msgid "IDS_PCEE862_BORODINO_04_FLAG_DESCRIPTION"
+msgstr "Zu Beginn des 20. Jahrhunderts absolvierten die auf der Admiralitätswerft in Sankt Petersburg gebauten Schiffe ihre Probefahrten unter der Flagge des Unternehmens. Auf ihrem Tuch waren vier getrennte Anker und die Buchstaben „А. З.“ abgebildet – die Abkürzung für „Admiralitätswerk“ (russisch: Адмиралтейский завод)."
+
+msgid "IDS_PCEE863_MIKASA_04_FLAG"
+msgstr "Mikasa '04"
+
+msgid "IDS_PCEE863_MIKASA_04_FLAG_DESCRIPTION"
+msgstr "Die Admiralsflagge der Kaiserlich Japanischen Marine wurde von 1897 bis 1945 verwendet. Admiral Heihachiro Togo führte diese Flagge auf dem Linienschiff Mikasa – dem Flaggschiff der Vereinigten Flotte während des Russisch-Japanischen Krieges."
 
 msgid "IDS_PCEE998_SECRETSANTA_2"
 msgstr "Weihnachtsmann gesucht 2016"
@@ -74617,6 +75074,18 @@ msgstr "Ein Gefecht zwischen Spielern ohne Aufteilung in Teams. Jeder kämpft f�
 msgid "IDS_PCVE035_SUBHEADER"
 msgstr "Kämpfen Sie allein gegen andere Spieler"
 
+msgid "IDS_PCVE036"
+msgstr "Ernste Ermittlungen"
+
+msgid "IDS_PCVE036_DESCRIPTION"
+msgstr "Ein asymmetrisches Gefecht zwischen Spielern und Verbrechern in der düsteren Atmosphäre von Spade City."
+
+msgid "IDS_PCVE036_SHIP_ROLE"
+msgstr "Rolle: %(roleValue)s"
+
+msgid "IDS_PCVE036_SUBHEADER"
+msgstr "Bekämpfen Sie das Verbrechen in Spade City"
+
 msgid "IDS_PCVO001_OP_01_01_37_RIDGE_DESCRIPTION"
 msgstr "Eine verbündete Marinedivision wurde angegriffen. Einige Schiffe wurden zerstört. Die gekaperten Transportschiffe werden jetzt zur gegnerischen Basis begleitet. Fangen Sie den gegnerischen Konvoi ab und holen Sie die verbündeten Schiffe zurück."
 
@@ -75432,6 +75901,12 @@ msgstr "Schiffsjubiläum"
 msgid "IDS_PCZA041_BD25_PUZZLE_QUOTES"
 msgstr "„Schiffsjubiläum“"
 
+msgid "IDS_PCZA042_RARE_BEAST_BF26"
+msgstr "Ernste Ermittlungen"
+
+msgid "IDS_PCZA042_RARE_BEAST_BF26_QUOTES"
+msgstr "„Ernste Ermittlungen“"
+
 msgid "IDS_PCZC011_BISMARCK_BISMARCK"
 msgstr "Bismarck"
 
@@ -76097,11 +76572,167 @@ msgstr "Mosaikstück"
 msgid "IDS_PCZC1036_BD25_PUZZLE_60"
 msgstr "Mosaikstück"
 
+msgid "IDS_PCZC1037_RARE_BEAST_BF26_1"
+msgstr "DOSSIER Nr. 1: Ermelinda Jung"
+
+msgid "IDS_PCZC1037_RARE_BEAST_BF26_1_CUSTOM_HEADER"
+msgstr "DOSSIER Nr. 1"
+
+msgid "IDS_PCZC1037_RARE_BEAST_BF26_1_CUSTOM_SUBHEADER"
+msgstr "Mitglied der Bande „Schwarze Segel“"
+
+msgid "IDS_PCZC1037_RARE_BEAST_BF26_1_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Maske</p><p>Ermelinda Jung ist die Tochter des genialen Ingenieurs Max von Krieger und hütet ein Geheimnis, das mächtig genug ist, die einflussreiche geheime Militärallianz zu vernichten.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Wahre Identität</p><p>Die Identität des Verbrechers wurde nicht festgestellt.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Besondere Merkmale</p><p>Ein finsterer Blick und ein verschlagenes Lächeln. Ihr ganzes Auftreten verrät, dass sie mehr weiß, als sie sagt.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Beweise</p><p>Keine. Was verdächtig ist.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Rolle in der Bande</p><p>Mitglied.</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1038_RARE_BEAST_BF26_2"
+msgstr "DOSSIER Nr. 2: Gelehrter Kater"
+
+msgid "IDS_PCZC1038_RARE_BEAST_BF26_2_CUSTOM_HEADER"
+msgstr "DOSSIER Nr. 2"
+
+msgid "IDS_PCZC1038_RARE_BEAST_BF26_2_CUSTOM_SUBHEADER"
+msgstr "Mitglied der Bande „Schwarze Segel“"
+
+msgid "IDS_PCZC1038_RARE_BEAST_BF26_2_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Maske</p><p>Der Gelehrte Kater ist das weiseste Tier des ganzen Lukomorje.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Wahre Identität</p><p>Verborgen hinter einem intellektuellen Äußeren.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Besondere Merkmale</p><p>Ein kluger Blick. Ein ernstes Gesicht. Könnte irgendein Minister sein.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Beweise</p><p>Stimmt kein Lied an, wenn er nach rechts geht. Wenn er nach links geht, sagt er ebenfalls nichts.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Rolle in der Bande</p><p>Mitglied.</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1039_RARE_BEAST_BF26_3"
+msgstr "DOSSIER Nr. 3: Matilda Kelly"
+
+msgid "IDS_PCZC1039_RARE_BEAST_BF26_3_CUSTOM_HEADER"
+msgstr "DOSSIER Nr. 3"
+
+msgid "IDS_PCZC1039_RARE_BEAST_BF26_3_CUSTOM_SUBHEADER"
+msgstr "Mitglied der Bande „Schwarze Segel“"
+
+msgid "IDS_PCZC1039_RARE_BEAST_BF26_3_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Maske</p><p>Matilda Kelly ist eine furchtlose Piratenkönigin.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Wahre Identität</p><p>Nicht festgestellt. Offenbar liegt Identitätsdiebstahl vor.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Besondere Merkmale</p><p>Ein Hut mit Feder, ein Revolver und völlige Missachtung fremden Eigentums.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Beweise</p><p>Mag keinen Rum. Völlig gleichgültig gegenüber Truhen jeder Art.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Rolle in der Bande</p><p>Mitglied.</p><p class=\"p_spacing\"></p>"
+
 msgid "IDS_PCZC103_MK_MORESOVIETDESTR"
 msgstr "Wir brauchen mehr DDs"
 
 msgid "IDS_PCZC103_MK_MORESOVIETDESTR_DESCRIPTION"
 msgstr "<p>Mit Update 0.6.2 wurde die Aufspaltung der sowjetischen Zerstörer in zwei Zweige eingeführt und sie war ein voller Erfolg. Der Hauptzweig mit der Chabarowsk an der Spitze glich noch stärker einer Kavallerie. Ständige Bewegung und Beschuss, blitzschnelle Angriffe und andere brenzlige Momente waren hier reichlich vorhanden.</p><p class=\"p_spacing\"> </p><p>Der alternative Zweig mit der Grosowoi an der Spitze erwies sich als vielseitiger: Er scheut sich nicht vor Torpedos und eignet sich gut für die Unterstützung.</p>"
+
+msgid "IDS_PCZC1040_RARE_BEAST_BF26_4"
+msgstr "DOSSIER Nr. 4: Dobrozhir Drobodanovich"
+
+msgid "IDS_PCZC1040_RARE_BEAST_BF26_4_CUSTOM_HEADER"
+msgstr "DOSSIER Nr. 4"
+
+msgid "IDS_PCZC1040_RARE_BEAST_BF26_4_CUSTOM_SUBHEADER"
+msgstr "Boss der Bande „Schwarze Segel“"
+
+msgid "IDS_PCZC1040_RARE_BEAST_BF26_4_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Maske</p><p>Dobrozhir Drobodanovich ist ein wackerer Bogatyr, der die Echsenmenschen besiegte.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Wahre Identität</p><p>Verborgen unter der Maske eines ruhmreichen Recken.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Besondere Merkmale</p><p>Wackere Kühnheit und bogatyrhafte Kraft.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Beweise</p><p>Mag keinen slawischen Phonk.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Rolle in der Bande</p><p>Boss.</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1041_RARE_BEAST_BF26_5"
+msgstr "DOSSIER Nr. 5: ZM-10A"
+
+msgid "IDS_PCZC1041_RARE_BEAST_BF26_5_CUSTOM_HEADER"
+msgstr "DOSSIER Nr. 5"
+
+msgid "IDS_PCZC1041_RARE_BEAST_BF26_5_CUSTOM_SUBHEADER"
+msgstr "Boss der Bande „Schwarze Segel“"
+
+msgid "IDS_PCZC1041_RARE_BEAST_BF26_5_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Maske</p><p>ZM-10A ist ein Android-Kommandant, der eine Expedition zu einem unbekannten Exoplaneten anführte.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Wahre Identität</p><p>Die Ermittlung vermutet, dass sich hinter der Maske des Roboters ein Wesen biologischen Ursprungs verbirgt.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Besondere Merkmale</p><p>Befiehlt viel zu viel. Erzeugt eine angespannte Atmosphäre in der Mannschaft.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Beweise</p><p>Behauptet, mit einem Akku zu laufen, nimmt aber verdächtig oft eine Pause.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Rolle in der Bande</p><p>Boss.</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1042_RARE_BEAST_BF26_6"
+msgstr "DOSSIER Nr. 6: Krähenschwarm"
+
+msgid "IDS_PCZC1042_RARE_BEAST_BF26_6_CUSTOM_HEADER"
+msgstr "DOSSIER Nr. 6"
+
+msgid "IDS_PCZC1042_RARE_BEAST_BF26_6_CUSTOM_SUBHEADER"
+msgstr "Anführer der Bande „Schwarze Segel“"
+
+msgid "IDS_PCZC1042_RARE_BEAST_BF26_6_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Maske</p><p>Der Krähenschwarm ist eine Gruppe von Detektiven aus Spade City.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Wahre Identität</p><p>Nicht festgestellt. Aus zuverlässigen Quellen ist bekannt, dass dieses Trio die Spitze der ganzen Bande bildet.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Besondere Merkmale</p><p>Genies der Unterwelt. Besonders gefährliche Verbrecher.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Beweise</p><p>Hinterlassen keine Spuren. Nicht einmal Federn. Glänzende Gegenstände ignorieren sie mit verdächtiger Beharrlichkeit.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Rolle in der Bande</p><p>Anführer.</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1043_RARE_BEAST_BF26_7"
+msgstr "DOSSIER Nr. 7: Anton Grant"
+
+msgid "IDS_PCZC1043_RARE_BEAST_BF26_7_CUSTOM_HEADER"
+msgstr "DOSSIER Nr. 7"
+
+msgid "IDS_PCZC1043_RARE_BEAST_BF26_7_CUSTOM_SUBHEADER"
+msgstr "Mitglied der Bande „Nachtraben“"
+
+msgid "IDS_PCZC1043_RARE_BEAST_BF26_7_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Maske</p><p>Anton Grant ist Konteradmiral bei der Stiftung für maritimes Erbe.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Wahre Identität</p><p>Nicht festgestellt. Die Ermittlungen laufen.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Besondere Merkmale</p><p>Ein strenger Blick und eine feste Hand. Gerüchten zufolge steht er moderner Technik misstrauisch gegenüber.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Beweise</p><p>Wurde auf frischer Tat bei der Nutzung neuronaler Netze ertappt. Er suchte nach einem Rezept für Apfel-Charlotte.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Rolle in der Bande</p><p>Mitglied.</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1044_RARE_BEAST_BF26_8"
+msgstr "DOSSIER Nr. 8: Sun Shangxiang"
+
+msgid "IDS_PCZC1044_RARE_BEAST_BF26_8_CUSTOM_HEADER"
+msgstr "DOSSIER Nr. 8"
+
+msgid "IDS_PCZC1044_RARE_BEAST_BF26_8_CUSTOM_SUBHEADER"
+msgstr "Mitglied der Bande „Nachtraben“"
+
+msgid "IDS_PCZC1044_RARE_BEAST_BF26_8_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Maske</p><p>Sun Shangxiang ist eine chinesische Kriegerprinzessin aus der Zeit der Drei Reiche.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Wahre Identität</p><p>Die Identität des Verbrechers wird ermittelt.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Besondere Merkmale</p><p>Trägt überall ein Schwert mit sich. Gewinnt aus irgendeinem Grund immer bei Brettspielen.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Beweise</p><p>Verheddert sich oft in ihren Geschichten: Sie kann das Reich Wu nicht vom Reich Shu unterscheiden. Auf die Frage nach Wei antwortet sie lieber nicht.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Rolle in der Bande</p><p>Mitglied.</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1045_RARE_BEAST_BF26_9"
+msgstr "DOSSIER Nr. 9: Unsinkable Sam"
+
+msgid "IDS_PCZC1045_RARE_BEAST_BF26_9_CUSTOM_HEADER"
+msgstr "DOSSIER Nr. 9"
+
+msgid "IDS_PCZC1045_RARE_BEAST_BF26_9_CUSTOM_SUBHEADER"
+msgstr "Mitglied der Bande „Nachtraben“"
+
+msgid "IDS_PCZC1045_RARE_BEAST_BF26_9_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Maske</p><p>Unsinkable Sam ist der berühmte Schiffskater, der den Untergang von drei Kriegsschiffen überlebte.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Wahre Identität</p><p>Derzeit ist die Identität des Verbrechers nicht festgestellt.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Besondere Merkmale</p><p>Schwarz-weißes Fell, Schnurrhaare, Pfoten und ein Schwanz.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Beweise</p><p>Weint nicht beim Ansehen von „Titanic“.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Rolle in der Bande</p><p>Mitglied.</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1046_RARE_BEAST_BF26_10"
+msgstr "DOSSIER Nr. 10: Lesta"
+
+msgid "IDS_PCZC1046_RARE_BEAST_BF26_10_CUSTOM_HEADER"
+msgstr "DOSSIER Nr. 10"
+
+msgid "IDS_PCZC1046_RARE_BEAST_BF26_10_CUSTOM_SUBHEADER"
+msgstr "Boss der Bande „Nachtraben“"
+
+msgid "IDS_PCZC1046_RARE_BEAST_BF26_10_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Maske</p><p>Die Meerjungfrau Lesta ist das charmante Maskottchen von „Mir Korabley“.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Wahre Identität</p><p>Nicht festgestellt. Ihre Herkunft aus dem Meer wirft immer mehr Fragen auf.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Besondere Merkmale</p><p>Fühlt sich im Wasser wie ein Fisch... im Wasser.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Beweise</p><p>Beantwortet alle Fragen mit Liedern. Trifft dabei keinen einzigen Ton.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Rolle in der Bande</p><p>Boss.</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1047_RARE_BEAST_BF26_11"
+msgstr "DOSSIER Nr. 11: Kurator"
+
+msgid "IDS_PCZC1047_RARE_BEAST_BF26_11_CUSTOM_HEADER"
+msgstr "DOSSIER Nr. 11"
+
+msgid "IDS_PCZC1047_RARE_BEAST_BF26_11_CUSTOM_SUBHEADER"
+msgstr "Boss der Bande „Nachtraben“"
+
+msgid "IDS_PCZC1047_RARE_BEAST_BF26_11_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Maske</p><p>Der Kurator ist eine künstliche Intelligenz, die die Erde vor einer Invasion von Außerirdischen schützt.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Wahre Identität</p><p>Nicht festgestellt.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Besondere Merkmale</p><p>Sieht aus wie ein defekter Bordcomputer oder ein Saugroboter.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Beweise</p><p>Klinkt sich regelmäßig ins Funknetz ein und hört ununterbrochen Chanson.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Rolle in der Bande</p><p>Boss.</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1048_RARE_BEAST_BF26_12"
+msgstr "DOSSIER Nr. 12: Serjoscha"
+
+msgid "IDS_PCZC1048_RARE_BEAST_BF26_12_CUSTOM_HEADER"
+msgstr "DOSSIER Nr. 12"
+
+msgid "IDS_PCZC1048_RARE_BEAST_BF26_12_CUSTOM_SUBHEADER"
+msgstr "Anführer der Bande „Nachtraben“"
+
+msgid "IDS_PCZC1048_RARE_BEAST_BF26_12_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Maske</p><p>Serjoscha ist ein gutmütiger Zugbegleiter.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Wahre Identität</p><p>Wird ermittelt. Derzeit steckt die Ermittlung in einer Sackgasse – auf einem Abstellgleis.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Besondere Merkmale</p><p>Beeinflusst per Hypnose das Bewusstsein der Fahrgäste und bringt sie dazu, die Seitenplätze ganz am Ende des Liegewagens zu kaufen.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Beweise</p><p>Wurde beim Kauf von Flugtickets beobachtet.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Rolle in der Bande</p><p>Anführer.</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1049_RARE_BEAST_BF26_13"
+msgstr "DOSSIER Nr. 13: Michail Orlow"
+
+msgid "IDS_PCZC1049_RARE_BEAST_BF26_13_CUSTOM_HEADER"
+msgstr "DOSSIER Nr. 13"
+
+msgid "IDS_PCZC1049_RARE_BEAST_BF26_13_CUSTOM_SUBHEADER"
+msgstr "Mitglied der Bande „Weiße Haie“"
+
+msgid "IDS_PCZC1049_RARE_BEAST_BF26_13_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Maske</p><p>Michail Orlow ist ein Inspektor des Ministeriums für Fortschritt.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Wahre Identität</p><p>Das Verhör läuft. Derzeit ist die Identität des Verbrechers nicht festgestellt.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Besondere Merkmale</p><p>Sieht aus wie ein intergalaktischer Reisender und Abenteurer. Unterstützt die Entwicklung moderner Computertechnik mit allen Mitteln.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Beweise</p><p>Schaltet Geräte aus, indem er den Stecker aus der Dose zieht. Wurde auf frischer Tat ertappt.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Rolle in der Bande</p><p>Mitglied.</p><p class=\"p_spacing\"></p>"
 
 msgid "IDS_PCZC104_MK_FRENCHCRUISER"
 msgstr "Was noch? Motorbooster für Schlachtschiffe?"
@@ -76109,11 +76740,143 @@ msgstr "Was noch? Motorbooster für Schlachtschiffe?"
 msgid "IDS_PCZC104_MK_FRENCHCRUISER_DESCRIPTION"
 msgstr "<p>Der französische Kreuzerzweig, der mit Update 0.6.4 veröffentlicht wurde, war recht ausgewogen und ohne offensichtliche Extreme. Dafür inspirierte seine Einführung die Spieler, sich ein paar Begriffe aus dem Wörterbuch der französischen Kochkunst anzueignen.</p><p class=\"p_spacing\"> </p><p>Das Verbrauchsmaterial „Motorboost\" ergänzte die Leistungsdaten der Schiffe ganz gut, und Henri IV auf Stufe X mit ihren 240-mm-Kaliber besetzte schnell die Nische des besten Kreuzers für das Verursachen von Schaden.</p>"
 
+msgid "IDS_PCZC1050_RARE_BEAST_BF26_14"
+msgstr "DOSSIER Nr. 14: Alexander Puschkin"
+
+msgid "IDS_PCZC1050_RARE_BEAST_BF26_14_CUSTOM_HEADER"
+msgstr "DOSSIER Nr. 14"
+
+msgid "IDS_PCZC1050_RARE_BEAST_BF26_14_CUSTOM_SUBHEADER"
+msgstr "Mitglied der Bande „Weiße Haie“"
+
+msgid "IDS_PCZC1050_RARE_BEAST_BF26_14_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Maske</p><p>Alexander Sergejewitsch Puschkin ist unser Alles und die Sonne der russischen Poesie.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Wahre Identität</p><p>Die Identität der Person wird ermittelt.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Besondere Merkmale</p><p>Locken, Koteletten, Zylinder. Fordert oft Fremde zum Duell, erscheint aber nie zum vereinbarten Zeitpunkt.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Beweise</p><p>Kann sich nicht mehr als eine Zeile aus „Eugen Onegin“ merken. Wird sichtlich nervös, wenn er einen Vierzeiler schreiben soll.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Rolle in der Bande</p><p>Mitglied.</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1051_RARE_BEAST_BF26_15"
+msgstr "DOSSIER Nr. 15: Freiheitsstatue"
+
+msgid "IDS_PCZC1051_RARE_BEAST_BF26_15_CUSTOM_HEADER"
+msgstr "DOSSIER Nr. 15"
+
+msgid "IDS_PCZC1051_RARE_BEAST_BF26_15_CUSTOM_SUBHEADER"
+msgstr "Mitglied der Bande „Weiße Haie“"
+
+msgid "IDS_PCZC1051_RARE_BEAST_BF26_15_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Maske</p><p>Die Freiheitsstatue ist ein Symbol für Freiheit und Unabhängigkeit.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Wahre Identität</p><p>Nicht festgestellt. Die Verdächtige weigert sich, sich von der Stelle zu bewegen.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Besondere Merkmale</p><p>Hält eine Fackel und trägt immer eine Krone. Hängt sehr an ihrer Arbeit und verlässt ihren Posten selbst bei schlechtem Wetter nicht.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Beweise</p><p>Kommt auf Fotos immer perfekt zur Geltung. Ist verdächtig abhängig von der Aufmerksamkeit anderer.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Rolle in der Bande</p><p>Mitglied.</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1052_RARE_BEAST_BF26_16"
+msgstr "DOSSIER Nr. 16: Astra"
+
+msgid "IDS_PCZC1052_RARE_BEAST_BF26_16_CUSTOM_HEADER"
+msgstr "DOSSIER Nr. 16"
+
+msgid "IDS_PCZC1052_RARE_BEAST_BF26_16_CUSTOM_SUBHEADER"
+msgstr "Boss der Bande „Weiße Haie“"
+
+msgid "IDS_PCZC1052_RARE_BEAST_BF26_16_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Maske</p><p>Astra ist eine Weltraumhündin, die die ersten Eroberer des Weltraums auf ihrem Weg zu den Sternen begleitete.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Wahre Identität</p><p>Nicht festgestellt. Alle Versuche, Belastungsmaterial zu finden, sind gescheitert.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Besondere Merkmale</p><p>Ein braves Mädchen. Zu brav, um wahr zu sein.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Beweise</p><p>Bellt nicht. Beißt nicht. Gleichgültig gegenüber Passanten. Keinerlei Interesse an Katzen.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Rolle in der Bande</p><p>Boss.</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1053_RARE_BEAST_BF26_17"
+msgstr "DOSSIER Nr. 17: Andromeda"
+
+msgid "IDS_PCZC1053_RARE_BEAST_BF26_17_CUSTOM_HEADER"
+msgstr "DOSSIER Nr. 17"
+
+msgid "IDS_PCZC1053_RARE_BEAST_BF26_17_CUSTOM_SUBHEADER"
+msgstr "Boss der Bande „Weiße Haie“"
+
+msgid "IDS_PCZC1053_RARE_BEAST_BF26_17_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Maske</p><p>Andromeda ist die humanoide Verkörperung eines Himmelskörpers, geschaffen, um von Sternenschiffen aus mit der Menschheit zu kommunizieren.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Wahre Identität</p><p>Nicht identifiziert.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Besondere Merkmale</p><p>Zeugen beschreiben ihr Aussehen unterschiedlich. Niemand kann sich an die Farbe ihrer Augen erinnern. Rosa? Rot? Violett?</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Beweise</p><p>Alle Zeugen sind sicher, Andromeda persönlich getroffen zu haben. Doch niemand erinnert sich an Einzelheiten des Gesprächs.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Rolle in der Bande</p><p>Boss.</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1054_RARE_BEAST_BF26_18"
+msgstr "DOSSIER Nr. 18: Koschtschei der Unsterbliche"
+
+msgid "IDS_PCZC1054_RARE_BEAST_BF26_18_CUSTOM_HEADER"
+msgstr "DOSSIER Nr. 18"
+
+msgid "IDS_PCZC1054_RARE_BEAST_BF26_18_CUSTOM_SUBHEADER"
+msgstr "Anführer der Bande „Weiße Haie“"
+
+msgid "IDS_PCZC1054_RARE_BEAST_BF26_18_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Maske</p><p>Koschtschei der Unsterbliche ist der Hauptbösewicht der russischen Märchen.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Wahre Identität</p><p>Nicht festgestellt. Die These von der Unsterblichkeit des Verdächtigen wirft Fragen auf.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Besondere Merkmale</p><p>Sieht kränklich aus. Legt niemals Krone und Umhang ab. Siecht dahin.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Beweise</p><p>Beschäftigt sich mit Kreuzstichstickerei. Hat keine Angst vor Hasen und Enten.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Rolle in der Bande</p><p>Anführer.</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1055_RARE_BEAST_BF26_19"
+msgstr "DOSSIER Nr. 19: James Conrad"
+
+msgid "IDS_PCZC1055_RARE_BEAST_BF26_19_CUSTOM_HEADER"
+msgstr "DOSSIER Nr. 19"
+
+msgid "IDS_PCZC1055_RARE_BEAST_BF26_19_CUSTOM_SUBHEADER"
+msgstr "Mitglied der Bande „Schatten des Hafens“"
+
+msgid "IDS_PCZC1055_RARE_BEAST_BF26_19_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Maske</p><p>James Conrad ist Commander der US-Marine und erfahrener Agent mit dem Rufzeichen „Stahlhund“.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Wahre Identität</p><p>Nicht festgestellt. Auf alle Fragen der Ermittlung antwortet der Verdächtige: „Streng geheim“.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Besondere Merkmale</p><p>Ein stählerner Blick, stählerne Nerven und eine stählerne Überzeugung, im Recht zu sein.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Beweise</p><p>Bewahrt in seiner Kabine ein Foto einer Katze auf. Weigerte sich, die Herkunft des Bildes zu erklären.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Rolle in der Bande</p><p>Mitglied.</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1056_RARE_BEAST_BF26_20"
+msgstr "DOSSIER Nr. 20: Alexander Uwarow"
+
+msgid "IDS_PCZC1056_RARE_BEAST_BF26_20_CUSTOM_HEADER"
+msgstr "DOSSIER Nr. 20"
+
+msgid "IDS_PCZC1056_RARE_BEAST_BF26_20_CUSTOM_SUBHEADER"
+msgstr "Mitglied der Bande „Schatten des Hafens“"
+
+msgid "IDS_PCZC1056_RARE_BEAST_BF26_20_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Maske</p><p>Alexander Uwarow ist ein sowjetischer Aufklärungsoffizier, der die deutschen Schiffe verfolgt, die nach der Niederlage im Zweiten Weltkrieg in die Antarktis flohen.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Wahre Identität</p><p>Nicht festgestellt. Die Ermittlung prüft die These eines Doppelspiels.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Besondere Merkmale</p><p>Kann sich stundenlang in der Kälte aufhalten. Bewahrt in jeder unklaren Situation eine unerschütterliche Miene.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Beweise</p><p>Verhält sich vor der Kamera verdächtig sicher. Manchmal macht er nach einem Satz eine seltsame Pause, als wartete er auf etwas.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Rolle in der Bande</p><p>Mitglied.</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1057_RARE_BEAST_BF26_21"
+msgstr "DOSSIER Nr. 21: Johannes Meck-Leyne"
+
+msgid "IDS_PCZC1057_RARE_BEAST_BF26_21_CUSTOM_HEADER"
+msgstr "DOSSIER Nr. 21"
+
+msgid "IDS_PCZC1057_RARE_BEAST_BF26_21_CUSTOM_SUBHEADER"
+msgstr "Mitglied der Bande „Schatten des Hafens“"
+
+msgid "IDS_PCZC1057_RARE_BEAST_BF26_21_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Maske</p><p>Johannes Meck-Leyne ist ein deutscher Maschinenbauingenieur.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Wahre Identität</p><p>Die Identität des Verbrechers wird ermittelt. Einigen Zeugenaussagen zufolge erinnert der Täter an einen gewissen Polizisten aus New York.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Besondere Merkmale</p><p>Trägt ein Schulterholster für eine Pistole. Selbst wenn er unbewaffnet ist. Hat eine ungesunde Vorliebe für Wolkenkratzer.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Beweise</p><p>Behauptet, Deutscher zu sein, spricht aber kein Deutsch. Wiederholt ständig ohne Grund: Yippee-ki-yay.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Rolle in der Bande</p><p>Mitglied.</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1058_RARE_BEAST_BF26_22"
+msgstr "DOSSIER Nr. 22: Eva Valentine"
+
+msgid "IDS_PCZC1058_RARE_BEAST_BF26_22_CUSTOM_HEADER"
+msgstr "DOSSIER Nr. 22"
+
+msgid "IDS_PCZC1058_RARE_BEAST_BF26_22_CUSTOM_SUBHEADER"
+msgstr "Boss der Bande „Schatten des Hafens“"
+
+msgid "IDS_PCZC1058_RARE_BEAST_BF26_22_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Maske</p><p>Eva Valentine ist eine lebhafte Anime-Kommandantin.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Wahre Identität</p><p>Wird ermittelt.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Besondere Merkmale</p><p>Meergrüne Haare und ein gütiger Blick.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Beweise</p><p>Macht ständig lange Pausen. Vor jedem Satz seufzt sie sehnsüchtig und blickt in die Ferne.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Rolle in der Bande</p><p>Boss.</p><p class=\"p_spacing\"></p>"
+
+msgid "IDS_PCZC1059_RARE_BEAST_BF26_23"
+msgstr "DOSSIER Nr. 23: Triangulum"
+
+msgid "IDS_PCZC1059_RARE_BEAST_BF26_23_CUSTOM_HEADER"
+msgstr "DOSSIER Nr. 23"
+
+msgid "IDS_PCZC1059_RARE_BEAST_BF26_23_CUSTOM_SUBHEADER"
+msgstr "Boss der Bande „Schatten des Hafens“"
+
+msgid "IDS_PCZC1059_RARE_BEAST_BF26_23_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Maske</p><p>Triangulum ist die humanoide Verkörperung eines Himmelskörpers, geschaffen, um von Sternenschiffen aus mit der Menschheit zu kommunizieren.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Wahre Identität</p><p>Nicht identifiziert.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Besondere Merkmale</p><p>Spricht mit einem starken Akzent, der sich nicht zuordnen lässt.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Beweise</p><p>Kennt die menschliche Kultur viel zu gut für ein Wesen, das nie unter Menschen gelebt hat. Liebt Schokoladenkekse.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Rolle in der Bande</p><p>Boss.</p><p class=\"p_spacing\"></p>"
+
 msgid "IDS_PCZC105_MK_BISMARCK"
 msgstr "Die mächtige Bismarck"
 
 msgid "IDS_PCZC105_MK_BISMARCK_DESCRIPTION"
 msgstr "<p>Der Feldzug „Die Jagd auf die Bismarck“ fand mit wahrem Pomp statt. Über 300 000 Teilnehmer, über 141 000 vervollständigte Sammlungen, über 7 000 000 erhaltene Container. Und über 60 000 Stufe-VIII-Schlachtschiffe Bismarck, die unter Spielern aller Erfahrungsstufen verteilt wurden.</p><p class=\"p_spacing\"> </p><p>Ein großer Pluspunkt dieser Veranstaltung war auch, dass dem Spielclient ein erzählerisches Element in Form einer historischen Information zu den Aufträgen des Feldzugs hinzugefügt wurde.</p>"
+
+msgid "IDS_PCZC1060_RARE_BEAST_BF26_24"
+msgstr "DOSSIER Nr. 24: Hua Hu"
+
+msgid "IDS_PCZC1060_RARE_BEAST_BF26_24_CUSTOM_HEADER"
+msgstr "DOSSIER Nr. 24"
+
+msgid "IDS_PCZC1060_RARE_BEAST_BF26_24_CUSTOM_SUBHEADER"
+msgstr "Anführer der Bande „Schatten des Hafens“"
+
+msgid "IDS_PCZC1060_RARE_BEAST_BF26_24_DESCRIPTION"
+msgstr "<p class=\"p_bold\">Maske</p><p>Hua Hu ist ein tapferer Kriegerkater aus fernen östlichen Landen.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Wahre Identität</p><p>Die Identität des Verbrechers wird ermittelt.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Besondere Merkmale</p><p>Ist in ausgezeichneter körperlicher Verfassung. Landet immer auf allen vier Pfoten.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Beweise</p><p>Gleichgültig gegenüber Kartons. Wurde in Gesellschaft von Mäusen gesehen.</p><p class=\"p_spacing\"></p><p class=\"p_bold\">Rolle in der Bande</p><p>Anführer.</p><p class=\"p_spacing\"></p>"
 
 msgid "IDS_PCZC106_MK_BOTREVENGE"
 msgstr "Die Rache der Bots"
@@ -77619,7 +78382,7 @@ msgstr ""
 "Im Jahr des Todes dieses Kaisers wurde in St. Petersburg ein nach ihm benanntes Segelschlachtschiff kielgelegt. Nach der Indienstnahme 1861 wurde eine Dampfmaschine eingebaut. Mehr als drei Jahrzehnte später, im Jahr 1893, besuchte das modernste Schlachtschiff der russischen Marine – die Imperator Nikolai I – New York City, um den 400. Jahrestag der Entdeckung Amerikas zu feiern. Während des Ersten Weltkriegs gab es in einer Kampfeinheit der Schwarzmeerflott einen Wasserflugzeugträger gleichen Namens, der von einem Fracht- und Passagierschiff umgebaut worden war. Der Bau einer weiteren Imperator Nikolai I in der Stadt Nikolajew sollte das gewaltigste Dreadnought-Schlachtschiff auf dem Schwarzen Meer hervorbringen. Die Revolution von 1917 machte diesem „Imperator“ jedoch ein Ende – und auch dem russischen Reich selbst."
 
 msgid "IDS_PCZC271_NY2019_ABRUZZIEMBLEM"
-msgstr "Luigi di Savoia Duca degli Abruzzi"
+msgstr "Luigi di Savoia Duca degli Abruzzi"
 
 msgid "IDS_PCZC271_NY2019_ABRUZZIEMBLEM_DESCRIPTION"
 msgstr ""
@@ -77765,7 +78528,7 @@ msgid "IDS_PCZC290_BRITISHCVARC_WESTLAND_WYVERN_DESCRIPTION"
 msgstr "<p>Die Geschichte der Westland Wyvern, dem ersten Turboprop-Kampfflugzeug, begann 1944. Auf dem Höhepunkt des Zweiten Weltkriegs fehlte der britischen Marine noch immer ein modernes, trägergestütztes Mehrzweckflugzeug mit großem Aktionsradius. Das Unternehmen Westland begann ein entsprechendes Projekt aufzunehmen und konnte 1946 den ersten Prototyp präsentieren. Die eigenartige buckelförmige Silhouette des Flugzeugs gab dem Piloten ausreichend Sicht für den Start- und Landevorgang. Ein weiteres Designmerkmal des vielversprechenden Torpedojagdbombers, der „Wyvern“ getauft wurde, waren seine zwei gegenläufigen Vierblattpropeller.</p><p class=\"p_spacing\"> </p><p>Gewöhnliche Kolbenmotoren konnten die Geschwindigkeitsanforderungen für ein gut bewaffnetes Langstreckenflugzeug mit beachtlicher Zuladung nicht erfüllen, also entschieden sich die Konstrukteure bei Westland für ein Turboproptriebwerk. Da sich aber Entwicklung und Fertigung über mehrere Jahre hinzogen, trafen die ersten Westland Wyvern erst 1953 bei den Staffeln der Naval Air Force ein.</p>"
 
 msgid "IDS_PCZC291_BRITISHCVARC_FAIREYBARRACUDA_II"
-msgstr "Fairey Barracuda II"
+msgstr "Fairey Barracuda II"
 
 msgid "IDS_PCZC291_BRITISHCVARC_FAIREYBARRACUDA_II_DESCRIPTION"
 msgstr "<p>Die Idee zur Entwicklung eines trägergestützten Ganzmetall-Eindeckers, der sowohl als Torpedo- als auch als Sturzbomber fungieren kann, wurde erstmals von dem Unternehmen Fairey in den frühen 1930er Jahren vorgebracht. Allerdings hatte die schier endlose Reihe an widersprüchlichen Forderungen nach Konstruktionsänderungen aus der britischen Luftfahrtbehörde zur Folge, dass sich die Arbeiten um fast ein Jahrzehnt verzögerten. Und so waren ihre Leistungsmerkmale, als die Produktion der sogenannten „Barracuda“ 1942 endlich anlief, alles andere als beeindruckend. Die Barracuda II, die ab Anfang 1943 in den Dienst der Naval Air Force gestellt wurde, war mit ihrem 1600-PS-Motor etwas besser aufgestellt.</p><p class=\"p_spacing\"> </p><p>Die nicht sehr schnelle und nicht besonders manövrierbare Barracuda gab keinen guten Torpedobomber ab. Aber einige ihrer Konstruktionsvorteile machten sie zu einem durchaus passablen Sturzbomber. Der aufsehenerregendste Moment in ihrer Dienstzeit ereignete sich während der Operation Tungsten, bei der sich das deutsche Schlachtschiff Tirpitz in den norwegischen Fjorden versteckte. Am 04. April 1944 flogen 42 Barracudas in zwei Wellen Angriffe auf das Schlachtschiff, erzielten 14 Bombentreffer und verloren dabei nur drei Maschinen. Dadurch wurde das Schlachtschiff für mehrere Monate außer Gefecht gesetzt. Als die Air Force im Rahmen eines Leih-Pacht-Abkommens amerikanische Grumman Avengers erhielt, die die Barracudas in allen Aspekten übertrafen, wurden die britischen Flugzeuge fast nur noch zur Aufklärung, dem Verminen von feindlichen Häfen und Fahrrinnen, für Anti-U-Boot-Patrouillen und für Transportflüge eingesetzt.</p>"
@@ -78398,7 +79161,7 @@ msgid "IDS_PCZC395_ITCA_MUZIO_ATTENDOLO_DESCRIPTION"
 msgstr "<p>Der zweite Kreuzer der Raimondo Montecuccoli-Klasse war Muzio Attendolo, 1931 auf Stapel gelegt und 1934 in der Stadt Triest vom Stapel gelassen. Das Schiff wurde nach einem Söldner-Condottiere benannt, der zur Jahrhundertwende des 14. und 15. Jahrhunderts lebte und mit seiner Truppe den Herrschern von Milan, Florenz, Ferrara und Neapel diente. Berühmt für seine erstaunliche Kraft erhielt Muzio Attendolo am Anfang seiner Karriere den Spitznamen „Stark“ (italienisch: „Sforza“). Dieser Spitzname wurde auch der Name der berühmten Dynastie, die er gründete und die Milan in der Hochrenaissance beherrschte.</p><p class=\"p_spacing\"> </p><p>Das Gedenkabzeichen der Schiffsbesatzung zeigt die Schiffssilhouette und das Motto: „Hartnäckig und unbesiegbar“ (Latein: „Constans [et] indomitus“). Auf der anderen Seite war ein Profil von Muzio Attendolo mit einem Fresko von Bernardino Luini, einem italienischen Künstler des 16. Jahrhunderts sowie sein Spitzname „Sforza“.</p>"
 
 msgid "IDS_PCZC396_ITCA_DUCA_DAOSTA"
-msgstr "Duca d'Aosta"
+msgstr "Duca d’Aosta"
 
 msgid "IDS_PCZC396_ITCA_DUCA_DAOSTA_DESCRIPTION"
 msgstr "<p>Nicht alle leichten Kreuzer der königlich italienischen Marine wurden nach Militärkommandanten, Condottieri, benannt, die im Mittelalter Söldner anführten. Beispielsweise wurde das Typschiff der vierten Reihe der Condottieri-Klasse, das 1934 vom Stapel lief, nach dem Cousin des Königs und Marschall Italiens benannt, dem Herzog von Aosta, Emanuele Filiberto (1869–1931).</p><p class=\"p_spacing\"> </p><p>Im Ersten Weltkrieg befahl der Herzog von Aosta die Dritte Armee, die im Norden Venedigs kämpfte. Emanuele Filiberto war einer der Helden der siegreichen Schlacht von Vittorio Veneto und erlitt keine einzige Niederlage, weshalb er den Spitznamen „Unbesiegbarer Herzog“ erhielt (italienisch: „Duca Invitto“). Das Motto des nach ihm benannten Kreuzers war das lateinische Sprichwort „Sieg gibt uns Leben“. Das Gedenkabzeichen der Besatzung zeigte ein Bildnis des Kreuzes, das wiederum an die verliehen wurde, die in der Armee des Herzogs dienten.</p>"
@@ -81559,7 +82322,7 @@ msgid "IDS_PETER_THE_GREAT"
 msgstr "Pjotr Weliki"
 
 msgid "IDS_PFAB501_BEARN_STOCK"
-msgstr "Levasseur PL.108 "
+msgstr "Levasseur PL.108"
 
 msgid "IDS_PFAD501_BEARN_STOCK"
 msgstr "Vought V-156F"
@@ -82577,6 +83340,12 @@ msgstr "340 mm HE OEA Mle 1932"
 msgid "IDS_PFPA123_340MM_AP_ARTOIS"
 msgstr "340 mm AP OPf Mle 1924"
 
+msgid "IDS_PFPA124_330MM_AP_LA_ROCHELLE"
+msgstr "330 mm AP OPfK Mle 1935"
+
+msgid "IDS_PFPA125_330MM_HE_LA_ROCHELLE"
+msgstr "330 mm HE OEA Mle 1935"
+
 msgid "IDS_PFPA301_305MM_45_1910_AP_SAND"
 msgstr "305 mm AP OPf Mle 1910 mod.1"
 
@@ -82608,7 +83377,7 @@ msgid "IDS_PFPD106_DEPTH_CV_6"
 msgstr "100-Pfund-Bombe Mk VIII"
 
 msgid "IDS_PFPR001_BEARN_STOCK"
-msgstr "RP3 25 lb"
+msgstr "RP3 25lb"
 
 msgid "IDS_PFPS001_BEARN_STOCK"
 msgstr "500-kg G.P. Mle 1930"
@@ -82965,13 +83734,13 @@ msgid "IDS_PFSB518_YEAR"
 msgstr "1949"
 
 msgid "IDS_PFSB519"
-msgstr "Jean Bart '43"
+msgstr "Jean Bart '43"
 
 msgid "IDS_PFSB519_DESCR"
 msgstr "<p>Im Jahr 1943 führte das „Freie Frankreich“ Verhandlungen mit den USA über die Fertigstellung des Schlachtschiffs Jean Bart, das Ende 1942 von den Alliierten in Casablanca erbeutet worden war. Es wurden zwei Varianten entwickelt, den Einbau von 340-mm-Geschützen des Schlachtschiffs Lorraine auf dem Schiff vorsahen.</p><p class=\"p_spacing\"> </p><p>Eine der Varianten bedeutete die faktische Umwandlung des Schlachtschiffs in ein Flugabwehrschiff. Dazu sollte anstelle des zweiten Hauptbatterieturms eine Anzahl amerikanischer 127-mm-Zwillings-Mehrzwecklafetten, zwanzig 40-mm-Vierlingslafetten Bofors und weitere Geschütze an Bord untergebracht werden.</p>"
 
 msgid "IDS_PFSB519_FULL"
-msgstr "Jean Bart '43"
+msgstr "Jean Bart '43"
 
 msgid "IDS_PFSB519_NUMBER"
 msgstr "2"
@@ -83308,6 +84077,21 @@ msgstr "0"
 
 msgid "IDS_PFSC210_YEAR"
 msgstr "1944"
+
+msgid "IDS_PFSC211"
+msgstr "La Rochelle"
+
+msgid "IDS_PFSC211_DESCR"
+msgstr "<p>Ende der 1920er – Anfang der 1930er Jahre arbeiteten französische Ingenieure an einem Projekt für einen großen Kreuzer. Die als Nr. 6 bezeichnete Variante, Crouiseur CC1 de 23690 tW, sah eine Bewaffnung aus 330-mm-Geschützen in drei Türmen im Bug des Schiffs vor, wobei der zweite Turm erhöht angeordnet war. Im Heck und entlang der Seiten befanden sich Gruppen von Türmen für das Universalkaliber.</p><p class=\"p_spacing\"> </p><p>Die weitere hypothetische Entwicklung dieses Projekts sieht die Installation einer stärkeren Flugabwehrbewaffnung vor. Das Panzerungsschema ähnelt dem der Schlachtkreuzer der Dunkerque-Klasse und der Schlachtschiffe der Richelieu-Klasse.</p>"
+
+msgid "IDS_PFSC211_FULL"
+msgstr "La Rochelle"
+
+msgid "IDS_PFSC211_NUMBER"
+msgstr "0"
+
+msgid "IDS_PFSC211_YEAR"
+msgstr "1940"
 
 msgid "IDS_PFSC506"
 msgstr "De Grasse"
@@ -84119,6 +84903,9 @@ msgstr "120 mm/50 Modell 1950 in einem Turm"
 msgid "IDS_PFUA917_ART_CRUISER_TEST"
 msgstr "330 mm/50 Mle 1931 in einem Turm"
 
+msgid "IDS_PFUA918_ART_LA_ROCHELLE"
+msgstr "330 mm/50 Mle 1931 in einer Lafette St.Chamond Mle 1932"
+
 msgid "IDS_PFUA930_C11_ART_STOCK"
 msgstr "240 mm/50 Mle 1930 in einem Turm"
 
@@ -84380,6 +85167,9 @@ msgstr "Leistung: 58 000 PS"
 msgid "IDS_PFUE916_ENG_CRUISER_TEST"
 msgstr "Leistung: 240 000 PS"
 
+msgid "IDS_PFUE918_ENG_LA_ROCHELLE"
+msgstr "Leistung: 240 000 PS"
+
 msgid "IDS_PFUE930_C11_ENG_STOCK"
 msgstr "Leistung: 220 000 PS"
 
@@ -84390,7 +85180,7 @@ msgid "IDS_PFUE991_C10_ENG_STOCK"
 msgstr "Leistung: 220 000 PS"
 
 msgid "IDS_PFUF501_FC1_BEARN"
-msgstr "Contrôle de vol Mle 6"
+msgstr "Contrôle de vol Mle 6"
 
 msgid "IDS_PFUH001_C1_HULL_A"
 msgstr "Bougainville (A)"
@@ -84695,6 +85485,9 @@ msgstr "Voltigeur"
 msgid "IDS_PFUH916_HULL_CRUISER_TEST"
 msgstr "Marseille (EM)"
 
+msgid "IDS_PFUH918_LA_ROCHELLE"
+msgstr "La Rochelle"
+
 msgid "IDS_PFUH930_C11_HULL_STOCK"
 msgstr "Condé"
 
@@ -84997,6 +85790,9 @@ msgstr "FLA Mk 10"
 
 msgid "IDS_PFUS915_SUO_CRUISER_TEST"
 msgstr "PCA n° 10"
+
+msgid "IDS_PFUS918_SUO_LA_ROCHELLE"
+msgstr "PCA n° 11"
 
 msgid "IDS_PFUS930_C11_SUO_STOCK"
 msgstr "PCA n°11"
@@ -85583,6 +86379,9 @@ msgstr "Kriegsbemalung"
 msgid "IDS_PGES340_ODIN_CEREMONIAL"
 msgstr "Speziell zeremoniell"
 
+msgid "IDS_PGES341_SCHWABEN_WHITE"
+msgstr "Weißer Graf"
+
 msgid "IDS_PGES348_BLACK_TIRPITZ"
 msgstr "Spezialtarnung"
 
@@ -85662,6 +86461,9 @@ msgid "IDS_PGES448_SABIE_TM5"
 msgstr "Stolz von Nokmar"
 
 msgid "IDS_PGES458_BLACK_PRINZ_EUGEN"
+msgstr "Spezialtarnung"
+
+msgid "IDS_PGES468_BLACK_SCHILL"
 msgstr "Spezialtarnung"
 
 msgid "IDS_PGES508_Z_23_BIRTHDAY"
@@ -87153,7 +87955,7 @@ msgid "IDS_PGPT064_Z32"
 msgstr "G7 T1 Ausf. B"
 
 msgid "IDS_PGPT065_Z38"
-msgstr "G7 T1 Ausf. D"
+msgstr "G7 T1 Ausf. D"
 
 msgid "IDS_PGPT066_533MM_T11"
 msgstr "G7 Steinwal"
@@ -87594,7 +88396,7 @@ msgid "IDS_PGSB109_YEAR"
 msgstr "1939"
 
 msgid "IDS_PGSB110"
-msgstr "G. Kurfürst"
+msgstr "G. Kurfürst"
 
 msgid "IDS_PGSB110_DESCR"
 msgstr "<p>Nach der Untersuchung des Verlusts des Schlachtschiffs Bismarck und der Beschädigung des Schlachtschiffs Scharnhorst im Juli 1941 führte die Führung der deutschen Marine eine Überprüfung der im Bau befindlichen Schiffe H und J durch. Eine der Anforderungen war die Verstärkung der horizontalen Panzerung, wobei der Tiefgang von 11,5 Metern erhalten bleiben sollte, damit ein solches Schiff in den seichten Gewässern der Nordsee operieren konnte.</p><p class=\"p_spacing\"> </p><p>Im Laufe der Entwicklung erhielt der Entwurf einen Dreifachboden, und die Anzahl der wasserdichten Abteilungen wurde erhöht, um den Schutz gegen Unterwasserexplosionen zu verbessern. Darüber hinaus war geplant, das Kaliber der Hauptartillerie zu erhöhen, um den neuen Schlachtschiffen einen erheblichen Vorteil gegenüber den britischen und amerikanischen Schlachtschiffen zu verschaffen.</p><p class=\"p_spacing\"> </p><p>Die in den Entwurf eingebrachten Änderungen erwiesen sich als erheblich, und der Bau der beiden bereits auf Kiel gelegten Schiffe wurde eingestellt. Es war vorgesehen, dass die Schiffe nach dem neuen Entwurf im Jahr 1942 auf Kiel gelegt werden sollten. Bald darauf wurde der Bau für die deutsche Marine jedoch auf U-Boote umgestellt, und es wurden keine neuen Schlachtschiffe mehr auf Kiel gelegt.</p>"
@@ -88568,6 +89370,21 @@ msgstr "1"
 msgid "IDS_PGSC539_YEAR"
 msgstr "1943"
 
+msgid "IDS_PGSC548"
+msgstr "Schill B"
+
+msgid "IDS_PGSC548_DESCR"
+msgstr "<p>Ende der 1930er Jahre entwickelte die Führung der deutschen Marine einen Plan für eine Seeblockade Großbritanniens durch Handelsstörerverbände. Die Hauptangriffskraft in diesem Plan sollten zwölf Schiffe der P-Klasse sein, die auf der Weiterentwicklung des Panzerschiffsprojekts der Deutschland-Klasse basierten.</p><p class=\"p_spacing\"> </p><p>Im Jahr 1939 wurden Verträge mit Werften über den Bau dieser Schiffe abgeschlossen, der Auftrag wurde jedoch später zugunsten der Schlachtkreuzer der O-Klasse storniert. In der ursprünglichen Dokumentation wird der Schiffstyp als Handelszerstörer – „Raider“ – angegeben.</p>"
+
+msgid "IDS_PGSC548_FULL"
+msgstr "Schill B"
+
+msgid "IDS_PGSC548_NUMBER"
+msgstr "1"
+
+msgid "IDS_PGSC548_YEAR"
+msgstr "1939"
+
 msgid "IDS_PGSC549"
 msgstr "Nibelung"
 
@@ -88672,6 +89489,21 @@ msgstr "0"
 
 msgid "IDS_PGSC910_YEAR"
 msgstr "1940"
+
+msgid "IDS_PGSC998"
+msgstr "Schill B"
+
+msgid "IDS_PGSC998_DESCR"
+msgstr "Eine Kopie des Schiffs Schill für das Event „Ernste Ermittlungen“."
+
+msgid "IDS_PGSC998_FULL"
+msgstr "Schill B"
+
+msgid "IDS_PGSC998_NUMBER"
+msgstr "1"
+
+msgid "IDS_PGSC998_YEAR"
+msgstr "1939"
 
 msgid "IDS_PGSD102"
 msgstr "V-25"
@@ -89410,6 +90242,12 @@ msgstr "150 mm/60 SK C/25 in einer Lafette Drh Tr C/25"
 msgid "IDS_PGUA726_ART_BLACK_EUGEN"
 msgstr "203 mm/60 SK C/34 in einer Lafette LC/34"
 
+msgid "IDS_PGUA727_ART_BLACK_SCHILL"
+msgstr "283 mm/54,5 SK C/34 in einer Lafette Drh LC/34"
+
+msgid "IDS_PGUA728_ART_RARE_BEAST_CRUISER"
+msgstr "283 mm/54,5 SK C/34 in einer Lafette Drh LC/34"
+
 msgid "IDS_PGUA800_ART_COLORFUL_ROON"
 msgstr "203 mm/60 SK C/34 in einem Turm"
 
@@ -89911,6 +90749,12 @@ msgstr "Leistung: 132 000 PS"
 msgid "IDS_PGUE731_ENG_BLACK_EUGEN"
 msgstr "Leistung: 110 000 PS"
 
+msgid "IDS_PGUE732_ENG_BLACK_SCHILL"
+msgstr "Leistung: 140 000 PS"
+
+msgid "IDS_PGUE733_ENG_RARE_BEAST_CRUISER"
+msgstr "Leistung: 140 000 PS"
+
 msgid "IDS_PGUE800_ENG_COLORFUL_ROON"
 msgstr "Leistung: 155 000 PS"
 
@@ -90068,46 +90912,46 @@ msgid "IDS_PGUE975_ENG_HIND"
 msgstr "Leistung: 155 000 PS"
 
 msgid "IDS_PGUF301_FC1_CV4_STOCK"
-msgstr "FID Typ 4 Mod. 1"
+msgstr "FID Typ 4 Mod. 1"
 
 msgid "IDS_PGUF501_FC1_CV6_STOCK"
-msgstr "FID Typ 6 Mod. 1"
+msgstr "FID Typ 6 Mod. 1"
 
 msgid "IDS_PGUF502_FC1_LOEWENHARDT"
-msgstr "FID Typ 6 Mod. 1"
+msgstr "FID Typ 6 Mod. 1"
 
 msgid "IDS_PGUF701_FC1_GRAF_Z"
-msgstr "FID Typ 8 Mod. 1"
+msgstr "FID Typ 8 Mod. 1"
 
 msgid "IDS_PGUF702_FC2_GRAF_Z"
-msgstr "FID Typ 8 Mod. 3"
+msgstr "FID Typ 8 Mod. 3"
 
 msgid "IDS_PGUF703_FC1_BLACK_GRAF_Z"
-msgstr "FID Typ 8 Mod. 1"
+msgstr "FID Typ 8 Mod. 1"
 
 msgid "IDS_PGUF704_FC1_CV8_STOCK"
-msgstr "FID Typ 8 Mod. 1"
+msgstr "FID Typ 8 Mod. 1"
 
 msgid "IDS_PGUF712_FC1_GRAF_Z_I"
-msgstr "FID Typ 8 Mod. 2"
+msgstr "FID Typ 8 Mod. 2"
 
 msgid "IDS_PGUF791_FC1_GRAF_Z"
-msgstr "FID Typ 8 Mod. 1"
+msgstr "FID Typ 8 Mod. 1"
 
 msgid "IDS_PGUF801_FC_LOTHRINGEN"
-msgstr "FID Type 9 Mod. 1"
+msgstr "FID Typ 9 Mod. 1"
 
 msgid "IDS_PGUF900_CV10_FC_STOCK"
-msgstr "FID Typ 10 Mod. 1"
+msgstr "FID Typ 10 Mod. 1"
 
 msgid "IDS_PGUF901_FC1_CV10_STOCK"
-msgstr "FID Typ 10 Mod. 1"
+msgstr "FID Typ 10 Mod. 1"
 
 msgid "IDS_PGUF950_FC1_CV10_STOCK"
-msgstr "FID Typ 10 Mod. 1"
+msgstr "FID Typ 10 Mod. 1"
 
 msgid "IDS_PGUF951_FC1_CV10_STOCK"
-msgstr "FID Typ 10 Mod. 1"
+msgstr "FID Typ 10 Mod. 1"
 
 msgid "IDS_PGUH001_HERMELIN_A"
 msgstr "Hermelin (A)"
@@ -90441,6 +91285,12 @@ msgstr "Sabie"
 msgid "IDS_PGUH739_HULL_BLACK_EUGEN"
 msgstr "Prinz Eugen B"
 
+msgid "IDS_PGUH740_HULL_BLACK_SCHILL"
+msgstr "Schill B."
+
+msgid "IDS_PGUH741_HULL_RARE_BEAST_CRUISER"
+msgstr "Schill B"
+
 msgid "IDS_PGUH800_HULL_COLORFUL_ROON"
 msgstr "Roon CLR"
 
@@ -90601,7 +91451,7 @@ msgid "IDS_PGUH951_CV10_HULL_STOCK"
 msgstr "Max Immelmann"
 
 msgid "IDS_PGUH974_GROSS"
-msgstr "G. Kurfürst"
+msgstr "G. Kurfürst"
 
 msgid "IDS_PGUH975_HIND"
 msgstr "Hindenburg"
@@ -90670,34 +91520,34 @@ msgid "IDS_PGUL952_CV10_SB_TOP"
 msgstr "Ta 152C-1/R14"
 
 msgid "IDS_PGUQ500_S6_SONAR_STOCK"
-msgstr "Typ 6 Mod. A"
+msgstr "Typ 6 Mod. A"
 
 msgid "IDS_PGUQ501_S6_SONAR_STOCK"
-msgstr "Typ 6 Mod. A"
+msgstr "Typ 6 Mod. A"
 
 msgid "IDS_PGUQ502_S6_SONAR_TOP"
-msgstr "Typ 6 Mod. B"
+msgstr "Typ 6 Mod. B"
 
 msgid "IDS_PGUQ700_S8_SONAR_STOCK"
-msgstr "Typ 8 Mod. A"
+msgstr "Typ 8 Mod. A"
 
 msgid "IDS_PGUQ701_S8_SONAR_STOCK"
-msgstr "Typ 8 Mod. A"
+msgstr "Typ 8 Mod. A"
 
 msgid "IDS_PGUQ702_S8_SONAR_TOP"
-msgstr "Typ 8 Mod. B"
+msgstr "Typ 8 Mod. B"
 
 msgid "IDS_PGUQ900_S10_SONAR_STOCK"
-msgstr "Typ 10 Mod. A"
+msgstr "Typ 10 Mod. A"
 
 msgid "IDS_PGUQ901_S10_SONAR_STOCK"
-msgstr "Typ 10 Mod. A"
+msgstr "Typ 10 Mod. A"
 
 msgid "IDS_PGUQ902_S10_SONAR_TOP"
-msgstr "Typ 10 Mod. B"
+msgstr "Typ 10 Mod. B"
 
 msgid "IDS_PGUQ903_SONAR_U4501"
-msgstr "Typ 10 Mod. A"
+msgstr "Typ 10 Mod. A"
 
 msgid "IDS_PGUQ904_S11_SONAR_STOCK"
 msgstr "Typ 11 Mod. A"
@@ -90778,13 +91628,13 @@ msgid "IDS_PGUS312_SUO"
 msgstr "FKS Typ 4 Mod. 2"
 
 msgid "IDS_PGUS401_SUO"
-msgstr "FKS Typ 5 Mod. 1"
+msgstr "FKS Typ 5 Mod. 1"
 
 msgid "IDS_PGUS402_SUO"
 msgstr "FKS Typ 5 Mod. 2"
 
 msgid "IDS_PGUS403_D5_SUO_STOCK"
-msgstr "FKS Typ 5 Mod. 1"
+msgstr "FKS Typ 5 Mod. 1"
 
 msgid "IDS_PGUS404_D5_SUO_TOP"
 msgstr "FKS Typ 5 Mod. 2"
@@ -90796,7 +91646,7 @@ msgid "IDS_PGUS406_BB5_SUO_TOP"
 msgstr "FKS Typ 5 Mod. 2"
 
 msgid "IDS_PGUS411_SUO"
-msgstr "FKS Typ 5 Mod. 1"
+msgstr "FKS Typ 5 Mod. 1"
 
 msgid "IDS_PGUS412_SUO"
 msgstr "FKS Typ 5 Mod. 2"
@@ -90868,7 +91718,7 @@ msgid "IDS_PGUS609_D7_2_SUO_TOP"
 msgstr "FKS Typ 7 Mod. 2"
 
 msgid "IDS_PGUS610_SUO_WEIMAR"
-msgstr "FKS Typ 7 Mod. 2"
+msgstr "FKS Typ 7 Mod. 2"
 
 msgid "IDS_PGUS611_SUO"
 msgstr "FKS Typ 7 Mod. 1"
@@ -90922,10 +91772,10 @@ msgid "IDS_PGUS708_SUO_ODIN"
 msgstr "FKS Typ 8 Mod. 1"
 
 msgid "IDS_PGUS709_SUO_ANHALT"
-msgstr "FKS Typ 8 Mod. 1"
+msgstr "FKS Typ 8 Mod. 1"
 
 msgid "IDS_PGUS710_SUO_SCHILL"
-msgstr "FKS Typ 8 Mod. 1"
+msgstr "FKS Typ 8"
 
 msgid "IDS_PGUS711_SUO_TIRPITZ"
 msgstr "FKS Typ 8 Mod. 1"
@@ -90934,10 +91784,10 @@ msgid "IDS_PGUS712_SUO_BLACK_TIRPITZ"
 msgstr "FKS Typ 8 Mod. 1"
 
 msgid "IDS_PGUS713_SUO_Z35"
-msgstr "FKS Typ 8 Mod. 1"
+msgstr "FKS Typ 8 Mod. 1"
 
 msgid "IDS_PGUS714_DD8_SUO_STOCK"
-msgstr "FKS Typ 8 Mod. 1"
+msgstr "FKS Typ 8 Mod. 1"
 
 msgid "IDS_PGUS715_DD8_SUO_TOP"
 msgstr "FKS Typ 8 Mod. 2"
@@ -90981,6 +91831,12 @@ msgstr "FKS Typ 8"
 msgid "IDS_PGUS728_SUO_BLACK_EUGEN"
 msgstr "FKS Typ 8"
 
+msgid "IDS_PGUS729_SUO_BLACK_SCHILL"
+msgstr "FKS Typ 8"
+
+msgid "IDS_PGUS730_SUO_RARE_BEAST_CRUISER"
+msgstr "FKS Typ 8"
+
 msgid "IDS_PGUS731_SUO_SCHARNHORST"
 msgstr "FKS Typ 7 Mod. 1"
 
@@ -90991,55 +91847,55 @@ msgid "IDS_PGUS800_SUO_COLORFUL_ROON"
 msgstr "FKS Typ 9 Mod. 2"
 
 msgid "IDS_PGUS801_SUO"
-msgstr "FKS Typ 9 Mod. 1"
+msgstr "FKS Typ 9 Mod. 1"
 
 msgid "IDS_PGUS802_SUO"
 msgstr "FKS Typ 9 Mod. 2"
 
 msgid "IDS_PGUS803_D9_SUO_STOCK"
-msgstr "FKS Typ 9 Mod. 1"
+msgstr "FKS Typ 9 Mod. 1"
 
 msgid "IDS_PGUS804_D9_SUO_TOP"
 msgstr "FKS Typ 9 Mod. 2"
 
 msgid "IDS_PGUS805_SUO_SIEGFRIED"
-msgstr "FKS Typ 9 Mod. 1"
+msgstr "FKS Typ 9 Mod. 1"
 
 msgid "IDS_PGUS806_SUO_AEGIR"
-msgstr "FKS Typ 9 Mod. 1"
+msgstr "FKS Typ 9 Mod. 1"
 
 msgid "IDS_PGUS807_SUO_POMMERN"
-msgstr "FKS Typ 9 Mod. 1"
+msgstr "FKS Typ 9 Mod. 1"
 
 msgid "IDS_PGUS808_SUO_Z44"
-msgstr "FKS Typ 9 Mod. 1"
+msgstr "FKS Typ 9 Mod. 1"
 
 msgid "IDS_PGUS809_SUO_ZF6"
-msgstr "FKS Typ 9 Mod. 1"
+msgstr "FKS Typ 9 Mod. 1"
 
 msgid "IDS_PGUS810_SUO_A_SHRODER"
-msgstr "FKS Typ 9 Mod. 1"
+msgstr "FKS Typ 9 Mod. 1"
 
 msgid "IDS_PGUS811_SUO"
-msgstr "FKS Typ 9 Mod. 1"
+msgstr "FKS Typ 9 Mod. 1"
 
 msgid "IDS_PGUS812_SUO"
 msgstr "FKS Typ 9 Mod. 2"
 
 msgid "IDS_PGUS813_DD9_SUO_STOCK"
-msgstr "FKS Typ 9 Mod. 1"
+msgstr "FKS Typ 9 Mod. 1"
 
 msgid "IDS_PGUS814_DD9_SUO_TOP"
 msgstr "FKS Typ 9 Mod. 2"
 
 msgid "IDS_PGUS815_BB9_SUO_STOCK"
-msgstr "FKS Typ 9 Mod. 1"
+msgstr "FKS Typ 9 Mod. 1"
 
 msgid "IDS_PGUS816_BB9_SUO_TOP"
 msgstr "FKS Typ 9 Mod. 2"
 
 msgid "IDS_PGUS817_SUO_BLACK_POMMERN"
-msgstr "FKS Typ 9 Mod. 1"
+msgstr "FKS Typ 9 Mod. 1"
 
 msgid "IDS_PGUS818_SUO_LOTHRINGEN"
 msgstr "FKS Typ 10 Mod. 1"
@@ -91069,7 +91925,7 @@ msgid "IDS_PGUS903_D10_2_SUO_STOCK"
 msgstr "FKS Typ 10 Mod. 1"
 
 msgid "IDS_PGUS904_SUO_HANNOVER"
-msgstr "FKS Typ 11 Mod. 1"
+msgstr "FKS Typ 11 Mod. 1"
 
 msgid "IDS_PGUS905_BB10_SUO_STOCK"
 msgstr "FKS Typ 10"
@@ -91081,7 +91937,7 @@ msgid "IDS_PGUS907_SUO_MECKLENBURG"
 msgstr "FKS Typ 10 Mod. 1"
 
 msgid "IDS_PGUS908_C11_SUO_STOCK"
-msgstr "FKS Typ 11 Mod. 1"
+msgstr "FKS Typ 11 Mod. 1"
 
 msgid "IDS_PGUS909_D10_SUO_STOCK"
 msgstr "FKS Typ 10 Mod. 1"
@@ -91117,7 +91973,7 @@ msgid "IDS_PGUS919_SUO_SCHWABEN"
 msgstr "FKS Typ 11"
 
 msgid "IDS_PGUS930_SUO_HANNOVER"
-msgstr "FKS Typ 11 Mod. 1"
+msgstr "FKS Typ 11 Mod. 1"
 
 msgid "IDS_PGUS974_SUO_GROSS"
 msgstr "FKS Typ 10 Mod. 1"
@@ -91219,7 +92075,7 @@ msgid "IDS_PGUT607_TORP_MUNCHEN"
 msgstr "G7a T1"
 
 msgid "IDS_PGUT608_D7_2_TORP_STOCK"
-msgstr "G7 T1 Ausf. A"
+msgstr "G7 T1 Ausf. A"
 
 msgid "IDS_PGUT609_TORP_WEIMAR"
 msgstr "G7a T1"
@@ -91279,7 +92135,7 @@ msgid "IDS_PGUT712_TORP_Z35"
 msgstr "G7a T1"
 
 msgid "IDS_PGUT713_DD8_TORP_STOCK"
-msgstr "G7 T1 Ausf. B"
+msgstr "G7 T1 Ausf. B"
 
 msgid "IDS_PGUT714_BB8_TORP_STOCK"
 msgstr "G7 T1 Ausf. B"
@@ -91323,6 +92179,12 @@ msgstr "G7a T1"
 msgid "IDS_PGUT728_TORP_BLACK_EUGEN"
 msgstr "G7a T1"
 
+msgid "IDS_PGUT729_TORP_BLACK_SCHILL"
+msgstr "G7a T1"
+
+msgid "IDS_PGUT730_TORP_RARE_BEAST_CRUISER"
+msgstr "G7a T1"
+
 msgid "IDS_PGUT800_TORP_COLORFUL_ROON"
 msgstr "G7a T1"
 
@@ -91348,7 +92210,7 @@ msgid "IDS_PGUT807_TORP_Z44"
 msgstr "G7a T1 Ausf. C"
 
 msgid "IDS_PGUT808_DD9_TORP_STOCK"
-msgstr "G7 T1 Ausf. B"
+msgstr "G7 T1 Ausf. B"
 
 msgid "IDS_PGUT809_TORP_ZF6"
 msgstr "G7a T1 Ausf. B"
@@ -91381,7 +92243,7 @@ msgid "IDS_PGUT903_D10_TORP_TOP"
 msgstr "G7 Steinwal"
 
 msgid "IDS_PGUT904_D10_2_TORP_TOP"
-msgstr "G7 T1 Ausf. C"
+msgstr "G7 T1 Ausf. C"
 
 msgid "IDS_PGUT905_BB10_TORP_STOCK"
 msgstr "G7a T1"
@@ -91390,13 +92252,13 @@ msgid "IDS_PGUT906_TORP_MECKLENBURG"
 msgstr "G7a T1"
 
 msgid "IDS_PGUT907_C11_TORP_STOCK"
-msgstr "G7 T1 Ausf. C"
+msgstr "G7 T1 Ausf. C"
 
 msgid "IDS_PGUT908_S10_TORP_TOP"
 msgstr "G7e T4 und G7e T4 MZ"
 
 msgid "IDS_PGUT909_D10_TORP_TOP"
-msgstr "G7 T1 Ausf. C"
+msgstr "G7 T1 Ausf. C"
 
 msgid "IDS_PGUT910_TORP_Z42"
 msgstr "G7a T1"
@@ -92307,7 +93169,7 @@ msgid "IDS_PHUS904_SUO_CALLENBURGH"
 msgstr "SUO Mk 10 Mod. 1"
 
 msgid "IDS_PHUS905_SUO_UTRECHT"
-msgstr "Vuurleiding Mk 9 Mod.1"
+msgstr "Vuurleiding Mk 9 Mod. 1"
 
 msgid "IDS_PHUT501_TORP_KORTENAER"
 msgstr "533 mm Mk VII"
@@ -92455,6 +93317,9 @@ msgstr "Legion"
 
 msgid "IDS_PIES319_POLO_ROMAN"
 msgstr "Legion"
+
+msgid "IDS_PIES320_BLACK_RUGGIERO_DI_LAURIA"
+msgstr "Spezialtarnung"
 
 msgid "IDS_PIES329_TRANCLUCATOR_PEPELATS"
 msgstr "Pljukanski"
@@ -93212,6 +94077,12 @@ msgstr "305 mm proiettili AP 1909 Mod.1"
 msgid "IDS_PIPA302_305MM_46_1909_CS_SAND"
 msgstr "305 mm proiettili CS 1909 mod. 1"
 
+msgid "IDS_PIPA991_460MM_CS_RARE_BEAST_BATTLESHIP"
+msgstr "460 mm CS Mk III"
+
+msgid "IDS_PIPA992_460MM_AP_RARE_BEAST_BATTLESHIP"
+msgstr "460 mm AP Mk III"
+
 msgid "IDS_PIPB001_AQUILA_STOCK"
 msgstr "SC-500"
 
@@ -93225,13 +94096,13 @@ msgid "IDS_PIPD100_DEPTH_G_50KG"
 msgstr "SC-50 G"
 
 msgid "IDS_PIPD101_DEPTH_160KG"
-msgstr "CS 160 kg"
+msgstr "CS 160 kg"
 
 msgid "IDS_PIPD102_DEPTH_200KG"
-msgstr "CS 200 kg"
+msgstr "CS 200 kg"
 
 msgid "IDS_PIPD103_DEPTH_150KG"
-msgstr "CS 150 kg"
+msgstr "CS 150 kg"
 
 msgid "IDS_PIPD104_DEPTH_45KG"
 msgstr "SC-45 G"
@@ -93240,7 +94111,7 @@ msgid "IDS_PIPD105_DEPTH_T5"
 msgstr "CS 50 kg"
 
 msgid "IDS_PIPD106_DEPTH_T8"
-msgstr "CS 160 kg"
+msgstr "CS 160 kg"
 
 msgid "IDS_PIPD107_DEPTH_T10"
 msgstr "CS 300 kg"
@@ -93581,6 +94452,21 @@ msgstr "1"
 msgid "IDS_PISB519_YEAR"
 msgstr "1942"
 
+msgid "IDS_PISB520"
+msgstr "R. Lauria B"
+
+msgid "IDS_PISB520_DESCR"
+msgstr "Im Jahr 1921 stellte Ingenieur F. Cassone die Idee eines Schlachtkreuzers mit acht 457-mm-Geschützen und einer Geschwindigkeit von 35–40 Knoten vor. Dieses Schiff war das größte, das jemals für die italienische Marine entworfen wurde. Um die Gesamtlänge zu verringern, wurde vorgeschlagen, die Kessel über den Maschinen in einer zweistufigen Antriebsanlage anzuordnen. Einzigartig war auch der Torpedoschutz – die Detonation sollte in eine Expansionskammer geleitet werden, von wo aus die Gase durch spezielle Kanäle abgeführt werden sollten. Die Konstruktion war ihrer Zeit voraus, und das Projekt wurde nicht verwirklicht."
+
+msgid "IDS_PISB520_FULL"
+msgstr "Ruggiero di Lauria B"
+
+msgid "IDS_PISB520_NUMBER"
+msgstr "1"
+
+msgid "IDS_PISB520_YEAR"
+msgstr "1921"
+
 msgid "IDS_PISB529"
 msgstr "Tranclucator"
 
@@ -93661,13 +94547,13 @@ msgid "IDS_PISB805_YEAR"
 msgstr "2019"
 
 msgid "IDS_PISB990"
-msgstr "C. Colombo (EM)"
+msgstr "R. Lauria B"
 
 msgid "IDS_PISB990_DESCR"
-msgstr "Kopie eines Schiffs zum Testen einer Elite-Modernisierung."
+msgstr "Eine Kopie des Schiffs R. Lauria für das Event „Ernste Ermittlungen“."
 
 msgid "IDS_PISB990_FULL"
-msgstr "Cristoforo Colombo (EM)"
+msgstr "R. Lauria B"
 
 msgid "IDS_PISB990_NUMBER"
 msgstr "1"
@@ -94461,6 +95347,9 @@ msgstr "254 mm/60 in einem Turm"
 msgid "IDS_PIUA905_DD10_ART_STOCK"
 msgstr "135 mm/45 Modell 1938 in einer Lafette Modell 1938"
 
+msgid "IDS_PIUA906_ART_RARE_BEAST_BATTLESHIP"
+msgstr "457 mm/45 Mk.II in einem Turm"
+
 msgid "IDS_PIUA906_BB10_ART_STOCK"
 msgstr "381 mm/50 Modell 1934 in einem Turm"
 
@@ -94490,6 +95379,9 @@ msgstr "127 mm/38 Mk.12 in einer Lafette Mk.38"
 
 msgid "IDS_PIUA915_ART_ISONZO"
 msgstr "356 mm/45 Vickers Mk.A in einem Zwillingsturm"
+
+msgid "IDS_PIUA916_ART_BLACK_RUGGIERO_DI_LAURIA"
+msgstr "457 mm/45 Mk.II in einem Turm"
 
 msgid "IDS_PIUB700_TB_AQUILA"
 msgstr "Reggiane Re.2001"
@@ -94665,6 +95557,9 @@ msgstr "Leistung: 110 000 PS"
 msgid "IDS_PIUE906_BB10_ENG_STOCK"
 msgstr "Leistung: 160 000 PS"
 
+msgid "IDS_PIUE906_ENG_RARE_BEAST_BATTLESHIP"
+msgstr "Leistung: 235 000 PS"
+
 msgid "IDS_PIUE907_ENG_LAURIA"
 msgstr "Leistung: 235 000 PS"
 
@@ -94691,6 +95586,9 @@ msgstr "Leistung: 70 000 PS"
 
 msgid "IDS_PIUE915_ENG_ISONZO"
 msgstr "Leistung: 212 800 PS"
+
+msgid "IDS_PIUE916_ENG_BLACK_RUGGIERO_DI_LAURIA"
+msgstr "Leistung: 235 000 PS"
 
 msgid "IDS_PIUF700_FC_AQUILA"
 msgstr "Mk8 Mod. 1"
@@ -94929,6 +95827,9 @@ msgstr "Attilio Regolo"
 msgid "IDS_PIUH906_BB10_HULL_STOCK"
 msgstr "Cristoforo Colombo (Z)"
 
+msgid "IDS_PIUH906_HULL_RARE_BEAST_BATTLESHIP"
+msgstr "Ruggiero di Lauria B."
+
 msgid "IDS_PIUH907_HULL_LAURIA"
 msgstr "Ruggiero di Lauria"
 
@@ -94955,6 +95856,9 @@ msgstr "Amerigo Vespucci"
 
 msgid "IDS_PIUH915_ISONZO"
 msgstr "Isonzo"
+
+msgid "IDS_PIUH916_HULL_BLACK_RUGGIERO_DI_LAURIA"
+msgstr "Ruggiero di Lauria B."
 
 msgid "IDS_PIUI700_F_AQUILA"
 msgstr "Reggiane Re.2001"
@@ -95190,6 +96094,9 @@ msgstr "SDT 10"
 msgid "IDS_PIUS906_BB10_SUO_STOCK"
 msgstr "SDT 10 Mod.1"
 
+msgid "IDS_PIUS906_SUO_RARE_BEAST_BATTLESHIP"
+msgstr "SDT 10 Mod.1"
+
 msgid "IDS_PIUS907_SUO_LAURIA"
 msgstr "SDT 10"
 
@@ -95210,6 +96117,9 @@ msgstr "SDT 10"
 
 msgid "IDS_PIUS913_SUO_A_VESPUCCI"
 msgstr "SDT 11"
+
+msgid "IDS_PIUS914_SUO_BLACK_RUGGIERO_DI_LAURIA"
+msgstr "SDT 10"
 
 msgid "IDS_PIUS915_SUO_ISONZO"
 msgstr "SDT 9"
@@ -95903,6 +96813,9 @@ msgstr "Masleniza"
 
 msgid "IDS_PJES347_HARUNA"
 msgstr "ARPEGGIO"
+
+msgid "IDS_PJES349_BLACK_HIZEN_CEREMONIAL"
+msgstr "Zeremoniale Spezialtarnung"
 
 msgid "IDS_PJES350_SHIKISHIMA_RANKED"
 msgstr "Samurai"
@@ -98122,13 +99035,13 @@ msgid "IDS_PJSA110_YEAR"
 msgstr "1942"
 
 msgid "IDS_PJSA111"
-msgstr "Sekiryū"
+msgstr "Sekiryu"
 
 msgid "IDS_PJSA111_DESCR"
 msgstr "<p>Dies ist eine hypothetische Entwicklung der Flugzeugträger der Baureihen Taihō und Taihō Kai.</p><p class=\"p_spacing\"> </p><p>Der Entwurf sieht größere Hangars und ein verstärktes Antriebssystem mit Dieselmarschmotoren vor. Die Artillerie besteht aus universellen 100-mm-Geschützen, wie sie auf den Zerstörern der Akizuki-Klasse verwendet wurden.</p>"
 
 msgid "IDS_PJSA111_FULL"
-msgstr "Sekiryū"
+msgstr "Sekiryu"
 
 msgid "IDS_PJSA111_NUMBER"
 msgstr "0"
@@ -98751,6 +99664,21 @@ msgstr "1"
 msgid "IDS_PJSB569_YEAR"
 msgstr "1921"
 
+msgid "IDS_PJSB579"
+msgstr "Hizen B"
+
+msgid "IDS_PJSB579_DESCR"
+msgstr "<p>Im Jahr 1934 begannen in Japan die Arbeiten am Entwurf des Schlachtschiffs A-140. Bis 1936 waren 24 Varianten des Vorentwurfsprojekts fertiggestellt, die sich in Verdrängung, Höchstgeschwindigkeit und Hauptbewaffnung unterschieden.</p><p class=\"p_spacing\"> </p><p>Eine der Varianten sah vier Türme mit je drei 410-mm-Geschützen in klassisch-linear gestaffelter Anordnung vor. Die Mittelartillerie bestand aus 155-mm-Geschützen in Drillingstürmen. Der Antrieb war kombiniert – diesel- und dampfturbinengetrieben. Das Projekt wurde nicht realisiert; seine weitere Ausarbeitung führte jedoch zur Entstehung der Schlachtschiffe der Yamato-Klasse.</p>"
+
+msgid "IDS_PJSB579_FULL"
+msgstr "Hizen B"
+
+msgid "IDS_PJSB579_NUMBER"
+msgstr "1"
+
+msgid "IDS_PJSB579_YEAR"
+msgstr "1935"
+
 msgid "IDS_PJSB599"
 msgstr "Owari-no-Oni"
 
@@ -98988,6 +99916,21 @@ msgstr "4"
 
 msgid "IDS_PJSB918_YEAR"
 msgstr "1941"
+
+msgid "IDS_PJSB989"
+msgstr "Hizen B"
+
+msgid "IDS_PJSB989_DESCR"
+msgstr "Eine Kopie des Schiffs Hizen für das Event „Ernste Ermittlungen“."
+
+msgid "IDS_PJSB989_FULL"
+msgstr "Hizen B"
+
+msgid "IDS_PJSB989_NUMBER"
+msgstr "1"
+
+msgid "IDS_PJSB989_YEAR"
+msgstr "1935"
 
 msgid "IDS_PJSB999"
 msgstr "Satsuma (alt)"
@@ -100967,6 +101910,12 @@ msgstr "203 mm/50 Typ 3 Nr. 2 in einem Turm Modell E"
 msgid "IDS_PJUA814_ART_HAKUSAN"
 msgstr "457 mm/50 Typ 5 in einem Zwillingsturm"
 
+msgid "IDS_PJUA815_ART_BLACK_HIZEN"
+msgstr "410 mm/50 Typ 10 Modell A in einem Drillingsturm"
+
+msgid "IDS_PJUA816_ART_RARE_BEAST_BATTLESHIP"
+msgstr "410 mm/50 Typ 10 Modell A in einem Drillingsturm"
+
 msgid "IDS_PJUA821_C9_ART_STOCK"
 msgstr "203 mm/50 Typ 3 Nr. 2 in einem Turm Modell E"
 
@@ -101791,6 +102740,12 @@ msgstr "Leistung: 134 240 PS"
 
 msgid "IDS_PJUE814_ENG_HAKUSAN"
 msgstr "Leistung: 150 000 PS"
+
+msgid "IDS_PJUE815_ENG_BLACK_HIZEN"
+msgstr "Leistung: 145 000 PS"
+
+msgid "IDS_PJUE816_ENG_RARE_BEAST_BATTLESHIP"
+msgstr "Leistung: 145 000 PS"
 
 msgid "IDS_PJUE821_B9_ENG_TOP"
 msgstr "Leistung: 135 000 PS"
@@ -102667,6 +103622,12 @@ msgstr "Chōkai"
 msgid "IDS_PJUH818_HULL_HAKUSAN"
 msgstr "Hakusan"
 
+msgid "IDS_PJUH819_HULL_BLACK_HIZEN"
+msgstr "Hizen B."
+
+msgid "IDS_PJUH820_HULL_RARE_BEAST_BATTLESHIP"
+msgstr "Hizen B."
+
 msgid "IDS_PJUH821_TAIHO_1944"
 msgstr "Taihō (A)"
 
@@ -102695,7 +103656,7 @@ msgid "IDS_PJUH844_D9_HULL_TOP_3"
 msgstr "Kitakaze (B)"
 
 msgid "IDS_PJUH900_CV11_HULL_STOCK"
-msgstr "Sekiryū"
+msgstr "Sekiryu"
 
 msgid "IDS_PJUH902_D10_HULL_STOCK"
 msgstr "Harugumo"
@@ -103416,7 +104377,7 @@ msgid "IDS_PJUS808_D8_SUO_TOP"
 msgstr "Type8 mod. 2"
 
 msgid "IDS_PJUS809_SUO_HIZEN"
-msgstr "Typ 8 Mod. 1"
+msgstr "Typ 8"
 
 msgid "IDS_PJUS810_SUO_AZUR_AZUMA"
 msgstr "Typ 10 Mod. 1"
@@ -103465,6 +104426,12 @@ msgstr "Typ 9"
 
 msgid "IDS_PJUS826_SUO_HAKUSAN"
 msgstr "Typ 9"
+
+msgid "IDS_PJUS827_SUO_BLACK_HIZEN"
+msgstr "Typ 9"
+
+msgid "IDS_PJUS828_SUO_RARE_BEAST_BATTLESHIP"
+msgstr "Typ 8"
 
 msgid "IDS_PJUS831_SUO"
 msgstr "Typ 9 Mod. 1"
@@ -103551,7 +104518,7 @@ msgid "IDS_PJUS933_SUO_SATSUMA"
 msgstr "Typ 11 Mod. 1"
 
 msgid "IDS_PJUS971_SUO_AZUMAYA"
-msgstr "Type 9"
+msgstr "Type9"
 
 msgid "IDS_PJUS974_SUO_ZAO"
 msgstr "Typ 10 Mod. 1"
@@ -105469,6 +106436,9 @@ msgstr "Kitesch"
 msgid "IDS_PRES348_FRUNZE_VICTORYDAY"
 msgstr "Sieg der Tapferkeit"
 
+msgid "IDS_PRES358_BLACK_BORODINO"
+msgstr "Spezialtarnung"
+
 msgid "IDS_PRES401_GREM_MEMORIAL"
 msgstr "Memorial"
 
@@ -105525,6 +106495,9 @@ msgstr "Stiller Strudel"
 
 msgid "IDS_PRES428_STALCRAFT_LATANU"
 msgstr "Vermächtnis"
+
+msgid "IDS_PRES429_DUKH_KRONSHLOTA"
+msgstr "Baltischer Nebel"
 
 msgid "IDS_PRES430_STALINGRAD_RANKED"
 msgstr "Siegreich"
@@ -107537,6 +108510,12 @@ msgstr "254 mm HE Modell 1938"
 msgid "IDS_PRPA284_130MM_HE_OF_46_B2U_SG_MOONSUND"
 msgstr "OF-46"
 
+msgid "IDS_PRPA285_130MM_AP_UDARNY"
+msgstr "SAP-46"
+
+msgid "IDS_PRPA286_130MM_HE_UDARNY"
+msgstr "HE-46"
+
 msgid "IDS_PRPA301_305_AP_1911_SAND"
 msgstr "305 mm AP Modell 1911 Mod. 1"
 
@@ -107989,6 +108968,9 @@ msgstr "550 mm 23DT"
 
 msgid "IDS_PRPT097_MOONSUND"
 msgstr "53-51"
+
+msgid "IDS_PRPT098_UDARNY"
+msgstr "53-50 Mod. 1"
 
 msgid "IDS_PRPT916_DESTROYER_CHALLENGE"
 msgstr "533 mm Mk VII"
@@ -108661,6 +109643,21 @@ msgstr "1"
 msgid "IDS_PRSB550_YEAR"
 msgstr "1938"
 
+msgid "IDS_PRSB558"
+msgstr "Borodino B"
+
+msgid "IDS_PRSB558_DESCR"
+msgstr "<p>Im Rahmen der Arbeiten zum Entwurf des schweren Kreuzers des Projekts 82 begann das ZNII-45 im Auftrag des Ministeriums für Schiffbauindustrie der UdSSR mit der Ausarbeitung von Vorentwürfen für ein sogenanntes kleines Schlachtschiff. Eine Besonderheit der Panzerung eines solchen Schlachtschiffs wäre eine verstärkte Bugpanzerung gewesen, die Schutz vor feindlichem Feuer auf spitzen Kurswinkeln geboten hätte.</p><p class=\"p_spacing\"> </p><p>Insgesamt wurden in den Jahren 1951–52 neun Vorentwürfe eines solchen Schiffs ausgearbeitet. Eine der vom ZNII-45 zur weiteren Ausarbeitung empfohlenen Varianten trug eine Bewaffnung aus zwei Drillingstürmen mit 406-mm-Geschützen. Ende 1952 und Anfang 1953 wurde das Materialpaket zum kleinen Schlachtschiff von der Hauptverwaltung des Schiffbaus geprüft. Jedoch wurde der Bau schwerer Artillerieschiffe bald als nicht mehr zeitgemäß erachtet, und das Projekt wurde nicht verwirklicht.</p>"
+
+msgid "IDS_PRSB558_FULL"
+msgstr "Borodino B"
+
+msgid "IDS_PRSB558_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSB558_YEAR"
+msgstr "1952"
+
 msgid "IDS_PRSB607"
 msgstr "Skadis Speer"
 
@@ -108737,6 +109734,21 @@ msgstr "1"
 
 msgid "IDS_PRSB990_YEAR"
 msgstr "1936"
+
+msgid "IDS_PRSB998"
+msgstr "Borodino B"
+
+msgid "IDS_PRSB998_DESCR"
+msgstr "Eine Kopie des Schiffs Borodino für das Event „Ernste Ermittlungen“."
+
+msgid "IDS_PRSB998_FULL"
+msgstr "Borodino B"
+
+msgid "IDS_PRSB998_NUMBER"
+msgstr "1"
+
+msgid "IDS_PRSB998_YEAR"
+msgstr "1952"
 
 msgid "IDS_PRSB999"
 msgstr "Krasnoje Snamja (R)"
@@ -109520,6 +110532,21 @@ msgstr "1"
 msgid "IDS_PRSC578_YEAR"
 msgstr "1939"
 
+msgid "IDS_PRSC579"
+msgstr "Geist von Kronschlot"
+
+msgid "IDS_PRSC579_DESCR"
+msgstr "<p>Der weiße Geist des Finnischen Meerbusens, geboren aus Nebel und dem alten Stein des Forts. Seine Silhouette erscheint am Horizont, als erinnere das Meer selbst an seinen Wächter.</p><p class=\"p_spacing\"> </p><p>Man sagt, in seiner Nähe erlöschen die Lichter und die Orientierung geht verloren, und beim Gegner entsteht ein seltsames Gefühl: als würde man ihn beobachten. Nach seiner Durchfahrt bleiben nur salzige Luft, ein Zittern in der Brust und eine Stille, in der man die Hoffnung verschwinden hört.</p>"
+
+msgid "IDS_PRSC579_FULL"
+msgstr "Geist von Kronschlot"
+
+msgid "IDS_PRSC579_NUMBER"
+msgstr "2"
+
+msgid "IDS_PRSC579_YEAR"
+msgstr "1939"
+
 msgid "IDS_PRSC606"
 msgstr "Makarow"
 
@@ -110271,6 +111298,21 @@ msgstr "1"
 msgid "IDS_PRSD509_YEAR"
 msgstr "1962"
 
+msgid "IDS_PRSD510"
+msgstr "Udarny"
+
+msgid "IDS_PRSD510_DESCR"
+msgstr "<p>In den 1930er Jahren wurde in der UdSSR ein Flottenentwicklungsprogramm verabschiedet, das den Bau großer Zerstörer für Einsätze auf dem offenen Ozean vorsah. Die bereits in Entwicklung befindlichen Projekte eigneten sich nicht für diese Rolle, daher beschloss man, auf ausländische Erfahrungen zurückzugreifen.</p><p class=\"p_spacing\"> </p><p>1939 traf eine Delegation sowjetischer Ingenieure in den USA ein, wo die Firma Gibbs & Cox ein auf dem Typ Mahan basierendes Zerstörerprojekt vorschlug. Die US-Regierung erlaubte jedoch nicht, bestimmte moderne Technologien wie Universalgeschütze mit der UdSSR zu teilen, und die Delegation reiste ab, ohne das Projekt erhalten zu haben.</p><p class=\"p_spacing\"> </p><p>Das in den USA Gesehene führte zur Ausarbeitung einer operativ-taktischen Aufgabe für ein Zerstörerprojekt mit dem Index 35. Die Entwicklung betrieben das ZKB-32 und das Konstruktionsbüro des nach Schdanow benannten Werks Nr. 190; nach Prüfung beider Projekte wurde die Variante des ZKB-32 als die beste anerkannt. 1941 sollten nach diesem Projekt zwei Schiffe im Werk Nr. 190 auf Kiel gelegt werden, doch mit dem Beginn des Großen Vaterländischen Krieges wurden alle Arbeiten an Zerstörern eingestellt.</p>"
+
+msgid "IDS_PRSD510_FULL"
+msgstr "Udarny"
+
+msgid "IDS_PRSD510_NUMBER"
+msgstr "0"
+
+msgid "IDS_PRSD510_YEAR"
+msgstr "1940"
+
 msgid "IDS_PRSD516"
 msgstr "Schaumjan"
 
@@ -110814,6 +111856,12 @@ msgstr "130 mm/50 Modell 1936 in einer Lafette B-2LM"
 msgid "IDS_PRUA726_ART_BATTLESHIP_DEATHMATCH"
 msgstr "406 mm/45 Modell 1915 in einem Turm"
 
+msgid "IDS_PRUA727_ART_BLACK_BORODINO"
+msgstr "406 mm/50 B-37 in einer Lafette MK-1"
+
+msgid "IDS_PRUA728_ART_RARE_BEAST_BATTLESHIP"
+msgstr "406 mm/50 B-37 in einer Lafette MK-1"
+
 msgid "IDS_PRUA801_D9_ART_STOCK"
 msgstr "130 mm/55 in einer Lafette B-2-U"
 
@@ -110903,6 +111951,9 @@ msgstr "406 mm/50 B-37 in einer Lafette MK-1"
 
 msgid "IDS_PRUA831_ART_DESTROYER_LUKODRAGER"
 msgstr "130 mm/58 Modell 1957 in einer Lafette SM-2-1"
+
+msgid "IDS_PRUA832_ART_DUKH_KRONSHLOTA"
+msgstr "305 mm/54 B-50 in einer Lafette MK-15"
 
 msgid "IDS_PRUA900_CRUISER_DEATHMATCH"
 msgstr "180 mm/57 Modell 1932 in einer Lafette MK-3-180"
@@ -111020,6 +112071,9 @@ msgstr "254 mm/55 B-48 in einer Lafette MK-13"
 
 msgid "IDS_PRUA980_ART_KREMLIN"
 msgstr "457 mm/48 B-45 in einer Lafette SM-8"
+
+msgid "IDS_PRUA981_ART_UDARNY"
+msgstr "130 mm/55 in einer Lafette B-2-U"
 
 msgid "IDS_PRUA990_TEST"
 msgstr "Pewpew"
@@ -111354,6 +112408,12 @@ msgstr "Leistung: 81 000 PS"
 msgid "IDS_PRUE730_ENG_BATTLESHIP_DEATHMATCH"
 msgstr "Leistung: 201 000 PS"
 
+msgid "IDS_PRUE731_ENG_BLACK_BORODINO"
+msgstr "Leistung: 210 000 PS"
+
+msgid "IDS_PRUE732_ENG_RARE_BEAST_BATTLESHIP"
+msgstr "Leistung: 210 000 PS"
+
 msgid "IDS_PRUE801_D9_ENG_STOCK"
 msgstr "Leistung: 84 500 PS"
 
@@ -111434,6 +112494,9 @@ msgstr "Leistung: 165 000 PS"
 
 msgid "IDS_PRUE827_ENG_DESTROYER_LUKODRAGER"
 msgstr "Leistung: 72 000 PS"
+
+msgid "IDS_PRUE828_ENG_DUKH_KRONSHLOTA"
+msgstr "Leistung: 231 000 PS"
 
 msgid "IDS_PRUE830_BB8_ENG_BORODINO"
 msgstr "Leistung: 210 000 PS"
@@ -111563,6 +112626,9 @@ msgstr "Leistung: 210 000 PS"
 
 msgid "IDS_PRUE980_ENG_KREMLIN"
 msgstr "Leistung: 280 000 PS"
+
+msgid "IDS_PRUE981_ENG_UDARNY"
+msgstr "Leistung: 84 500 PS"
 
 msgid "IDS_PRUE990_ENG_TEST"
 msgstr "Nocknockneo"
@@ -111993,6 +113059,12 @@ msgstr "Kijew (PW)"
 msgid "IDS_PRUH738_HULL_BATTLESHIP_DEATHMATCH"
 msgstr "Wladiwostok (PW)"
 
+msgid "IDS_PRUH739_HULL_BLACK_BORODINO"
+msgstr "Borodino B."
+
+msgid "IDS_PRUH740_HULL_RARE_BEAST_BATTLESHIP"
+msgstr "Borodino B."
+
 msgid "IDS_PRUH801_KIEV_A"
 msgstr "Kiew (A)"
 
@@ -112100,6 +113172,9 @@ msgstr "Riga CLR"
 
 msgid "IDS_PRUH836_HULL_DESTROYER_LUKODRAGER"
 msgstr "Veles"
+
+msgid "IDS_PRUH837_HULL_DUKH_KRONSHLOTA"
+msgstr "Geist von Kronschlot"
 
 msgid "IDS_PRUH900_CRUISER_DEATHMATCH"
 msgstr "Tallin (PW)"
@@ -112226,6 +113301,9 @@ msgstr "Moonsund"
 
 msgid "IDS_PRUH980_HULL_KREMLIN"
 msgstr "Nesokruschimy"
+
+msgid "IDS_PRUH981_HULL_UDARNY"
+msgstr "Udarny"
 
 msgid "IDS_PRUH990_TEST"
 msgstr "Testschiff"
@@ -112650,6 +113728,12 @@ msgstr "FLA VIII"
 msgid "IDS_PRUS729_SUO_BATTLESHIP_DEATHMATCH"
 msgstr "FLA VIII"
 
+msgid "IDS_PRUS730_SUO_BLACK_BORODINO"
+msgstr "FLA VIII"
+
+msgid "IDS_PRUS731_SUO_RARE_BEAST_BATTLESHIP"
+msgstr "FLA VIII"
+
 msgid "IDS_PRUS801_SUO"
 msgstr "FLA IX Mod. 1"
 
@@ -112705,7 +113789,7 @@ msgid "IDS_PRUS818_D9_SUO_TOP_4"
 msgstr "FLA IX Mod. 2"
 
 msgid "IDS_PRUS819_SUO_KRON"
-msgstr "FLA IX Mod. 1"
+msgstr "FLA IX"
 
 msgid "IDS_PRUS820_SUO_NEUSTR"
 msgstr "FLA IX Mod. 1"
@@ -112753,6 +113837,9 @@ msgid "IDS_PRUS834_SUO_COLORFUL_RIGA"
 msgstr "FLA IX"
 
 msgid "IDS_PRUS835_SUO_DESTROYER_LUKODRAGER"
+msgstr "FLA IX"
+
+msgid "IDS_PRUS836_SUO_DUKH_KRONSHLOTA"
 msgstr "FLA IX"
 
 msgid "IDS_PRUS900_CRUISER_DEATHMATCH"
@@ -112862,6 +113949,9 @@ msgstr "FLA X Mod. 1"
 
 msgid "IDS_PRUS980_SUO_KREMLIN"
 msgstr "FLA XI"
+
+msgid "IDS_PRUS981_SUO_UDARNY"
+msgstr "FLA X Mod. 1"
 
 msgid "IDS_PRUS990_SUO_TEST"
 msgstr "Iamassist"
@@ -113222,6 +114312,9 @@ msgstr "53-50"
 
 msgid "IDS_PRUT978_TORP_MOONSUND"
 msgstr "53-51"
+
+msgid "IDS_PRUT981_TORP_UDARNY"
+msgstr "53-39 Mod. 4"
 
 msgid "IDS_PRUT990_TEST"
 msgstr "Plopplop"
@@ -114013,10 +115106,10 @@ msgid "IDS_PSUS402_C5_SUO_TOP"
 msgstr "SCI Mk V Mod. 2"
 
 msgid "IDS_PSUS501_SUO_CANARIAS"
-msgstr "SCI Mk VI Mod. 1"
+msgstr "SCI Mk VI Mod. 1"
 
 msgid "IDS_PSUS502_C6_SUO_STOCK"
-msgstr "SCI Mk VI Mod. 1"
+msgstr "SCI Mk VI Mod. 1"
 
 msgid "IDS_PSUS503_C6_SUO_TOP"
 msgstr "SCI Mk VI Mod. 2"
@@ -115488,13 +116581,13 @@ msgid "IDS_PVSC104_YEAR"
 msgstr "1918"
 
 msgid "IDS_PVSC105"
-msgstr "La Argentina"
+msgstr "La Argentina"
 
 msgid "IDS_PVSC105_DESCR"
 msgstr "Der Kreuzer La Argentina wurde nach dem Programm von 1926 in Großbritannien gebaut. Die Grundlage für den Entwurf waren die britischen leichten Kreuzer der Arethusa-Klasse. Es gab jedoch eine Reihe von Änderungen, wie etwa eine verbesserte Bewaffnung, um dem Schiff Ausbildungsfunktionen übertragen zu können. Die La Argentina wurde 1939 Teil der argentinischen Marine."
 
 msgid "IDS_PVSC105_FULL"
-msgstr "La Argentina"
+msgstr "La Argentina"
 
 msgid "IDS_PVSC105_NUMBER"
 msgstr "1"
@@ -115563,13 +116656,13 @@ msgid "IDS_PVSC109_YEAR"
 msgstr "1948"
 
 msgid "IDS_PVSC110"
-msgstr "San Martín"
+msgstr "San Martín"
 
 msgid "IDS_PVSC110_DESCR"
 msgstr "Nach dem Zweiten Weltkrieg plante die argentinische Führung, den Bau neuer Kreuzer in Großbritannien oder den USA in Auftrag zu geben. Die wichtigste Anforderung bestand in der Mehrzwecktauglichkeit der Hauptgeschütze. Die geeignetsten Schiffe für diese Anforderung waren zu dieser Zeit die Kreuzer der Worcester-Klasse – von ihnen hätten sich Konstrukteure leiten lassen, wenn die Schiffe jemals in Auftrag gegeben worden wären. Eines dieser Schiffe hätte die San Martín sein können."
 
 msgid "IDS_PVSC110_FULL"
-msgstr "San Martín"
+msgstr "San Martín"
 
 msgid "IDS_PVSC110_NUMBER"
 msgstr "1"
@@ -115788,13 +116881,13 @@ msgid "IDS_PVSD110_YEAR"
 msgstr "1953"
 
 msgid "IDS_PVSD111"
-msgstr "20 de Julio"
+msgstr "20 de Julio"
 
 msgid "IDS_PVSD111_DESCR"
 msgstr "<p>Nach dem Ende des Zweiten Weltkriegs begannen die südamerikanischen Länder, ihre Seestreitkräfte aktiv zu modernisieren. Um veraltete Schiffe zu ersetzen, wurden neue bestellt, hauptsächlich in den USA und Großbritannien. Kolumbien wandte sich jedoch an Schweden, wo gerade die modernen Zerstörer der Halland-Klasse gebaut worden waren.</p><p class=\"p_spacing\"> </p><p>Die kolumbianische Version des Zerstörers erhielt einen dritten Hauptgeschützturm anstelle der vorderen 57-mm-Lafette. Für die Flugabwehr musste ein U-Jagd-Wasserbombenwerfer geopfert werden, dafür erwies sich die installierte niederländische Funkelektronik als fortschrittlicher als die auf den schwedischen Schiffen.</p><p class=\"p_spacing\"> </p><p>Der Zerstörer 20 de Julio wurde auf der Werft Kockums in Malmö gebaut. Während seiner 26-jährigen Dienstzeit nahm das Schiff an mehreren Übungen teil, darunter auch mit der US Navy.</p>"
 
 msgid "IDS_PVSD111_FULL"
-msgstr "20 de Julio"
+msgstr "20 de Julio"
 
 msgid "IDS_PVSD111_NUMBER"
 msgstr "2"
@@ -116354,6 +117447,9 @@ msgstr "Goldenes Zeitalter"
 msgid "IDS_PWES529_BLACK_JAGER"
 msgstr "Spezialtarnung"
 
+msgid "IDS_PWES530_VARMLAND_GOLD"
+msgstr "Gold der drei Kronen"
+
 msgid "IDS_PWGA001_40MM_BOFORS_MK1"
 msgstr "40 mm/56 Bofors wz.1936"
 
@@ -116593,6 +117689,9 @@ msgstr "152 mm/53 Modell 1942 in einem Turm"
 
 msgid "IDS_PWGM133_152MM53_BOFORS_M1948"
 msgstr "152 mm/53 Modell 1942 in einem Turm"
+
+msgid "IDS_PWGM134_254MM_50_BOFORS_TRIPLE"
+msgstr "254 mm/50 Bofors in einem Turm"
 
 msgid "IDS_PWGS007_150_50_K10_SKODA"
 msgstr "150 mm/50 Škoda K10 in einer Kasemattenlafette"
@@ -116888,6 +117987,9 @@ msgstr "254 mm HE 1929"
 msgid "IDS_PWPA068_254MM_45_AP_T8_9"
 msgstr "254 mm AP 1929"
 
+msgid "IDS_PWPA069_254MM_50_AP_HARDRADE"
+msgstr "254-mm-Panzergranate 1939"
+
 msgid "IDS_PWPA8001_120_HE_1916"
 msgstr "Model 1916"
 
@@ -116992,6 +118094,9 @@ msgstr "533 mm Mk IX"
 
 msgid "IDS_PWPT034_533MM_T10"
 msgstr "533 mm Mk X"
+
+msgid "IDS_PWPT035_533MM_HARDRADE"
+msgstr "533 mm Mk X"
 
 msgid "IDS_PWPT8001_550_MARK_100_1915"
 msgstr "PL-100 Mod.1915"
@@ -117193,6 +118298,21 @@ msgstr "2"
 
 msgid "IDS_PWSC510_YEAR"
 msgstr "1953"
+
+msgid "IDS_PWSC520"
+msgstr "H. Hardråde"
+
+msgid "IDS_PWSC520_DESCR"
+msgstr "<p>In der ersten Hälfte der 1930er Jahre suchte Schweden nach der künftigen Gestalt seiner Seestreitkräfte. Eine eigens eingesetzte Kommission kam zu dem Schluss, dass das Rückgrat der Flotte aus gepanzerten Schiffen mit einer Verdrängung von mindestens 14 000 t bestehen sollte. Die Kosten solcher Schiffe waren jedoch zu hoch für den schwedischen Haushalt.</p><p class=\"p_spacing\"> </p><p>Weitere Untersuchungen führten zu Entwürfen für ein Schiff mit 210-mm- oder 280-mm-Geschützen, doch die schwedische Marine verfügte nicht über solche Bewaffnung. Stattdessen hätten auf den Schiffen 254-mm-Geschütze mit einer Rohrlänge von 45 Kalibern montiert werden können, die von Bofors für finnische Küstenpanzerschiffe entwickelt und gefertigt worden waren. Eine Weiterentwicklung dieser Bewaffnung hätte zu einer Verlängerung des Rohrs auf 50 Kaliber geführt.</p>"
+
+msgid "IDS_PWSC520_FULL"
+msgstr "Harald Hardråde"
+
+msgid "IDS_PWSC520_NUMBER"
+msgstr "0"
+
+msgid "IDS_PWSC520_YEAR"
+msgstr "1941"
 
 msgid "IDS_PWSC910"
 msgstr "HND Tordenskjold"
@@ -117599,6 +118719,21 @@ msgstr "2"
 msgid "IDS_PWSD610_YEAR"
 msgstr "1956"
 
+msgid "IDS_PWSD620"
+msgstr "Värmland"
+
+msgid "IDS_PWSD620_DESCR"
+msgstr "Der Norden liebt keinen Überfluss. Doch jede Regel hat ihre Ausnahmen. Geboren dort, wo das Sonnenlicht auf die Wasserfläche trifft, glänzt die Värmland golden auf den kalten Wellen der Ostsee und verwandelt zurückhaltende schwedische Stärke in einen wahren Schatz."
+
+msgid "IDS_PWSD620_FULL"
+msgstr "Värmland"
+
+msgid "IDS_PWSD620_NUMBER"
+msgstr "2"
+
+msgid "IDS_PWSD620_YEAR"
+msgstr "1956"
+
 msgid "IDS_PWSD710"
 msgstr "Ragnar"
 
@@ -117791,6 +118926,12 @@ msgstr "254 mm/45 Bofors in einem Turm"
 msgid "IDS_PWUA910_C10_ART_STOCK"
 msgstr "254 mm/45 Bofors in einem Turm"
 
+msgid "IDS_PWUA911_ART_VARMLAND"
+msgstr "120 mm/50 Modell 1950 in einem Turm"
+
+msgid "IDS_PWUA912_ART_HARDRADE"
+msgstr "254 mm/45 Bofors in einem Turm"
+
 msgid "IDS_PWUA941_DD11_ART_STOCK"
 msgstr "120 mm/50 Modell 1950 in einem Turm"
 
@@ -117922,6 +119063,12 @@ msgstr "Leistung: 101 500 PS"
 
 msgid "IDS_PWUE910_C10_ENG_STOCK"
 msgstr "Leistung: 101 500 PS"
+
+msgid "IDS_PWUE911_ENG_VARMLAND"
+msgstr "Leistung: 58 000 PS"
+
+msgid "IDS_PWUE912_ENG_HARDRADE"
+msgstr "Leistung: 100 000 PS"
 
 msgid "IDS_PWUE941_DD11_ENG_STOCK"
 msgstr "Leistung: 63 400 PS"
@@ -118094,6 +119241,12 @@ msgstr "Troll"
 msgid "IDS_PWUH910_C10_HULL_STOCK"
 msgstr "Konung"
 
+msgid "IDS_PWUH911_HULL_VARMLAND"
+msgstr "Värmland"
+
+msgid "IDS_PWUH912_HULL_HARDRADE"
+msgstr "Harald Hardråde"
+
 msgid "IDS_PWUH941_DD11_HULL_STOCK"
 msgstr "Dalarna"
 
@@ -118119,7 +119272,7 @@ msgid "IDS_PWUS303_DD4_SUO_TOP"
 msgstr "SUO Mk 4 Mod. 2"
 
 msgid "IDS_PWUS305_SUO_VIRIBUS"
-msgstr "FKS Typ 5 Mod. 1"
+msgstr "FKS Typ 5 Mod. 1"
 
 msgid "IDS_PWUS401_DD5_SUO_STOCK"
 msgstr "SUO Mk 5 Mod. 1"
@@ -118239,7 +119392,7 @@ msgid "IDS_PWUS903_DD10_SUO_TOP"
 msgstr "SUO Mk 10 Mod. 1"
 
 msgid "IDS_PWUS904_DD10_SMALAND"
-msgstr "SUO Mk 10 Mod. 1"
+msgstr "FLA Mk 10"
 
 msgid "IDS_PWUS905_DD10_SUO_TST_LAPPLAND"
 msgstr "SUO Mk 10 Mod. 1"
@@ -118261,6 +119414,12 @@ msgstr "SUO Mk 11"
 
 msgid "IDS_PWUS911_C10_SUO_STOCK"
 msgstr "SUO Mk 10"
+
+msgid "IDS_PWUS912_SUO_VARMLAND"
+msgstr "FLA Mk 10"
+
+msgid "IDS_PWUS913_SUO_HARDRADE"
+msgstr "FLA Mk 10"
 
 msgid "IDS_PWUS941_DD11_SUO_STOCK"
 msgstr "SUO Mk 11 Mod. 1"
@@ -118393,6 +119552,12 @@ msgstr "533 mm"
 
 msgid "IDS_PWUT908_C10_TORP_STOCK"
 msgstr "Torped M1947"
+
+msgid "IDS_PWUT909_TORP_VARMLAND"
+msgstr "Torped M1943 Mod 1"
+
+msgid "IDS_PWUT910_TORP_HARDRADE"
+msgstr "Torped M1943"
 
 msgid "IDS_PWUT941_DD11_TORP_STOCK"
 msgstr "Torped M1947 Mod 1"
@@ -121055,7 +122220,7 @@ msgid "IDS_PXSD522"
 msgstr "Sazanami"
 
 msgid "IDS_PXSD522_DESCR"
-msgstr "<p>The Ikazuchi-class torpedo boats were built between 1897 and 1899 by the British firm Yarrow. The ships participated in the suppression of the Boxer Rebellion in China and then fought in the Russo-Japanese War.</p><p class=\"p_spacing\"> </p><p>Sazanami was laid down in June 1897, launched and commissioned in August 1899, and arrived in Japan in 1900. It participated in the Russo-Japanese War, engaging in battle with the Russian torpedo boat Steregushchy and capturing the severely wounded Admiral Z. Rozhestvensky, who was aboard the destroyer Bedovy during the Battle of Tsushima.</p>"
+msgstr "TEMPORARY TEXT"
 
 msgid "IDS_PXSD522_FULL"
 msgstr "Sazanami"
@@ -125495,7 +126660,7 @@ msgid "IDS_PZUS506_C6_SUO_TOP"
 msgstr "Mk VI Mod. 2"
 
 msgid "IDS_PZUS507_B6_SUO_STOCK"
-msgstr "Mk VI"
+msgstr "Mk VI"
 
 msgid "IDS_PZUS601_D7_SUO_STOCK"
 msgstr "Mk VII Mod. 1"
@@ -125510,7 +126675,7 @@ msgid "IDS_PZUS604_C7_SUO_TOP"
 msgstr "Mk VII mod. 2"
 
 msgid "IDS_PZUS605_B7_SUO_STOCK"
-msgstr "Mk VII"
+msgstr "Mk VII"
 
 msgid "IDS_PZUS701_SUO_LO_YANG"
 msgstr "Mk8 Mod. 1"
@@ -125549,13 +126714,13 @@ msgid "IDS_PZUS712_B8_SUO_STOCK"
 msgstr "FLA VIII Mod. 1"
 
 msgid "IDS_PZUS713_SUO_DOU_JIAN"
-msgstr "Mk VIII"
+msgstr "Mk VIII"
 
 msgid "IDS_PZUS714_SUO_TANIFA"
 msgstr "FLA VIII Mod. 1"
 
 msgid "IDS_PZUS800_SUO_MENGCHONG"
-msgstr "FKS Typ 9 Mod. 1"
+msgstr "FKS Typ 9 Mod. 1"
 
 msgid "IDS_PZUS801_D9_SUO_STOCK"
 msgstr "Mk9 Mod. 1"
@@ -126350,7 +127515,7 @@ msgid "IDS_RANKED_QUALIFICATION_TOOLTIP_TITLE"
 msgstr "Qualifikation"
 
 msgid "IDS_RANKED_REWARDS_COUNT"
-msgstr "+ %(_value)s"
+msgstr "+ %(_value)s"
 
 msgid "IDS_RANKED_REWARDS_TITLE"
 msgstr "Belohnungen"
@@ -126657,6 +127822,147 @@ msgstr "Gesicherter Stern"
 
 msgid "IDS_RANK_X"
 msgstr "Rang %(rank)s"
+
+msgid "IDS_RARE_01"
+msgstr "James Conrad"
+
+msgid "IDS_RARE_02"
+msgstr "Ermelinda Jung"
+
+msgid "IDS_RARE_03"
+msgstr "Sun Shangxiang"
+
+msgid "IDS_RARE_04"
+msgstr "Anton Grant"
+
+msgid "IDS_RARE_05"
+msgstr "Johannes Meck-Leyne"
+
+msgid "IDS_RARE_06"
+msgstr "Michail Orlow"
+
+msgid "IDS_RARE_07"
+msgstr "Unsinkable Sam"
+
+msgid "IDS_RARE_08"
+msgstr "Alexander Uwarow"
+
+msgid "IDS_RARE_09"
+msgstr "Alexander Puschkin"
+
+msgid "IDS_RARE_10"
+msgstr "Freiheitsstatue"
+
+msgid "IDS_RARE_11"
+msgstr "Matilda Kelly"
+
+msgid "IDS_RARE_12"
+msgstr "Gelehrter Kater"
+
+msgid "IDS_RARE_13"
+msgstr "Andromeda"
+
+msgid "IDS_RARE_14"
+msgstr "ZM-10A"
+
+msgid "IDS_RARE_15"
+msgstr "Triangulum"
+
+msgid "IDS_RARE_16"
+msgstr "Lesta"
+
+msgid "IDS_RARE_17"
+msgstr "Eva Valentine"
+
+msgid "IDS_RARE_18"
+msgstr "Dobrozhir Drobodanovich"
+
+msgid "IDS_RARE_19"
+msgstr "Kurator"
+
+msgid "IDS_RARE_20"
+msgstr "Astra"
+
+msgid "IDS_RARE_21"
+msgstr "Serjoscha"
+
+msgid "IDS_RARE_22"
+msgstr "Hua Hu"
+
+msgid "IDS_RARE_23"
+msgstr "Koschtschei der Unsterbliche"
+
+msgid "IDS_RARE_24"
+msgstr "Krähenschwarm"
+
+msgid "IDS_RARE_BEAST_BATTLE_STATS_DEFEAT_MAIN_TASK_COMPLETE"
+msgstr "Das Syndikat hat seinen Einfluss bewahrt"
+
+msgid "IDS_RARE_BEAST_BATTLE_STATS_VICTORY_MAIN_TASK_COMPLETE"
+msgstr "Alle Verbrecher wurden eliminiert"
+
+msgid "IDS_RARE_BEAST_DESCRIPTION"
+msgstr "Eliminieren Sie vier Verbrecherbanden und säubern Sie den Hafen von Spade City."
+
+msgid "IDS_RARE_BEAST_MAIN_BATTLE_TASK"
+msgstr "Zerstören Sie alle Verbrecher"
+
+msgid "IDS_RARE_BEAST_NE1"
+msgstr "Ernste Ermittlungen"
+
+msgid "IDS_RARE_BEAST_NE2"
+msgstr "Ernste Ermittlungen"
+
+msgid "IDS_RARE_BEAST_NE3"
+msgstr "Ernste Ermittlungen"
+
+msgid "IDS_RARE_BEAST_POINTS_FOR_RESURRECTION_DESCRIPTION"
+msgstr "Wenn Sie zerstört wurden, können Sie ins Gefecht zurückkehren, indem Sie für Respawn-Punkte ein anderes Schiff wählen. Nicht genutzte Punkte verfallen am Ende des Gefechts."
+
+msgid "IDS_RARE_BEAST_POINTS_FOR_RESURRECTION_RULE_0"
+msgstr "200 Einheiten Schaden verursachen"
+
+msgid "IDS_RARE_BEAST_POINTS_FOR_RESURRECTION_RULE_1"
+msgstr "Nebel setzen, Feuer auf sich ziehen, Gegner aufklären"
+
+msgid "IDS_RARE_BEAST_POINTS_FOR_RESURRECTION_RULE_2"
+msgstr "Treffer an der Zitadelle, Torpedotreffer"
+
+msgid "IDS_RARE_BEAST_POINTS_FOR_RESURRECTION_RULE_3"
+msgstr "Unterstützung bei der Zerstörung"
+
+msgid "IDS_RARE_BEAST_POINTS_FOR_RESURRECTION_RULE_4"
+msgstr "Gegner zerstören"
+
+msgid "IDS_RARE_BEAST_POINTS_FOR_RESURRECTION_SCORE"
+msgstr "Verdiente Punkte"
+
+msgid "IDS_RARE_BEAST_POINTS_FOR_RESURRECTION_TITLE"
+msgstr "Respawn-Punkte"
+
+msgid "IDS_RARE_BEAST_RULES_BULLET_1"
+msgstr "Regen kann alles fortspülen, außer Sünden, und unter dem Schutz der Nacht füllt sich der Hafen von Spade City mit den Schiffen des Verbrechersyndikats. Wehren Sie den Angriff ab und eliminieren Sie die gefährlichsten Mitglieder der Banden, bevor sie entkommen können. Denken Sie daran: In dieser Stadt darf man niemandem trauen. Nicht einmal dem eigenen Schatten..."
+
+msgid "IDS_RARE_BEAST_RULES_HEADER"
+msgstr "Einsatzbesprechung"
+
+msgid "IDS_RARE_BEAST_TITLE"
+msgstr "Ernste Ermittlungen"
+
+msgid "IDS_RARE_BEAST_WAVE_1"
+msgstr "Erster Angriff"
+
+msgid "IDS_RARE_BEAST_WAVE_2"
+msgstr "Zweiter Angriff"
+
+msgid "IDS_RARE_BEAST_WAVE_3"
+msgstr "Dritter Angriff"
+
+msgid "IDS_RARE_BEAST_WAVE_4"
+msgstr "Letzter Angriff"
+
+msgid "IDS_RARE_BEAST_WAVE_TASK"
+msgstr "Zerstören Sie alle Mitglieder der Verbrecherbande"
 
 msgid "IDS_RARE_CREW_BOOK_CREW_SKILL_SELECT_INSTRUCTION"
 msgstr "Fertigkeit auswählen"
@@ -127170,6 +128476,9 @@ msgstr "Nachricht gelöscht."
 
 msgid "IDS_REMOVE_ALL_BOTS"
 msgstr "Alle Bots entfernen"
+
+msgid "IDS_REMOVE_ALL_COMPARISON_LIST"
+msgstr "Leeren"
 
 msgid "IDS_REMOVE_FROM_CONTACTS"
 msgstr "Von Kontakten entfernen"
@@ -127712,7 +129021,7 @@ msgid "IDS_RESULT_SCREEN_MODAL_WINDOW_ABUSE_REASONS_LIST_HEADER"
 msgstr "Während des Gefechts haben Sie folgende Verstöße begangen:"
 
 msgid "IDS_RESURRECTION_POINTS_HINT"
-msgstr "Respawn-Punkte, erhalten für das Gefecht."
+msgstr "Können ausgegeben werden, um mit einem anderen Schiff ins Gefecht zurückzukehren. Verdienen Sie Punkte, indem Sie Verbündete schützen und Gegner angreifen."
 
 msgid "IDS_RESURRECTION_POINTS_HINT_HEADER"
 msgstr "Respawn-Punkte"
@@ -127961,7 +129270,7 @@ msgid "IDS_REWARD_EVENTUM_2_TITLE"
 msgstr "Reisemarken"
 
 msgid "IDS_REWARD_EVENTUM_3_TITLE"
-msgstr "Amerikanische Marken"
+msgstr "Cybermarken"
 
 msgid "IDS_REWARD_EVENTUM_4_TITLE"
 msgstr "Altrussische Marken"
@@ -127973,7 +129282,7 @@ msgid "IDS_REWARD_EVENTUM_6_TITLE"
 msgstr "Koschtschei-Goldstücke"
 
 msgid "IDS_REWARD_EVENTUM_7_TITLE"
-msgstr "Deutsche Marken"
+msgstr "Black-Friday-Marken"
 
 msgid "IDS_REWARD_EVENTUM_8_TITLE"
 msgstr "Purpurrote Edelsteine"
@@ -130991,10 +132300,10 @@ msgid "IDS_REWARD_LOOTBOX_PCL131_LOGH_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
 msgstr "Tarnung"
 
 msgid "IDS_REWARD_LOOTBOX_PCL131_LOGH_PREM_TITLE"
-msgstr "LOGH: DNT"
+msgstr "LOGH: DNT"
 
 msgid "IDS_REWARD_LOOTBOX_PCL131_LOGH_PREM_TITLE_QUOTES"
-msgstr "LOGH: DNT"
+msgstr "LOGH: DNT"
 
 msgid "IDS_REWARD_LOOTBOX_PCL132_TF108_PREM_SLOT_0_COMMON_GROUP_TITLE_FULL"
 msgstr " "
@@ -131135,7 +132444,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL137_WARHAMMER40K_PREM_SLOT_0_VALUABLE_GROUP_2_TITLE
 msgstr "Kapitän"
 
 msgid "IDS_REWARD_LOOTBOX_PCL137_WARHAMMER40K_PREM_TITLE"
-msgstr "Warhammer 40,000"
+msgstr "Warhammer 40,000"
 
 msgid "IDS_REWARD_LOOTBOX_PCL137_WARHAMMER40K_PREM_TITLE_QUOTES"
 msgstr "Warhammer 40,000"
@@ -132149,7 +133458,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL190_EVENTPREM2_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "Schiff"
 
 msgid "IDS_REWARD_LOOTBOX_PCL190_EVENTPREM2_TITLE"
-msgstr "Karl XIV Johan"
+msgstr "Karl XIV Johan"
 
 msgid "IDS_REWARD_LOOTBOX_PCL190_EVENTPREM2_TITLE_QUOTES"
 msgstr "Karl XIV Johan"
@@ -132614,7 +133923,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL210_BLACK_FRIDAY_PREM_SLOT_0_COMMON_GROUP_TITLE_FUL
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL210_BLACK_FRIDAY_PREM_SLOT_0_TITLE_FULL"
-msgstr "Ship"
+msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL210_BLACK_FRIDAY_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
 msgstr "Blendendes Schiff der Stufe X"
@@ -132965,7 +134274,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL225_MITA_MISIDE_SLOT_2_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL225_MITA_MISIDE_TITLE"
-msgstr "MiSide Premium"
+msgstr "MiSide"
 
 msgid "IDS_REWARD_LOOTBOX_PCL225_MITA_MISIDE_TITLE_QUOTES"
 msgstr "MiSide"
@@ -133221,6 +134530,12 @@ msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL235_CYBERSLAV_SLOT_1_TITLE_FULL"
 msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL235_CYBERSLAV_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Besonderer Kapitän"
+
+msgid "IDS_REWARD_LOOTBOX_PCL235_CYBERSLAV_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Kapitän"
 
 msgid "IDS_REWARD_LOOTBOX_PCL235_CYBERSLAV_SLOT_2_COMMON_GROUP_TITLE_FULL"
 msgstr " "
@@ -133569,6 +134884,66 @@ msgstr "Amerikanische Marine"
 
 msgid "IDS_REWARD_LOOTBOX_PCL248_US_SHIP_SUPER_PREM_TITLE_QUOTES"
 msgstr "„Amerikanische Marine“"
+
+msgid "IDS_REWARD_LOOTBOX_PCL249_BLACK_FRIDAY_2026_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL249_BLACK_FRIDAY_2026_SLOT_0_TITLE_FULL"
+msgstr "Schwarzes Schiff"
+
+msgid "IDS_REWARD_LOOTBOX_PCL249_BLACK_FRIDAY_2026_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Schiff der Stufe VIII–X"
+
+msgid "IDS_REWARD_LOOTBOX_PCL249_BLACK_FRIDAY_2026_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Stufe VIII–X"
+
+msgid "IDS_REWARD_LOOTBOX_PCL249_BLACK_FRIDAY_2026_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "Schiff der Stufe VI–VIII"
+
+msgid "IDS_REWARD_LOOTBOX_PCL249_BLACK_FRIDAY_2026_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "Stufe VI–VIII"
+
+msgid "IDS_REWARD_LOOTBOX_PCL249_BLACK_FRIDAY_2026_TITLE"
+msgstr "Schwarzer Motor"
+
+msgid "IDS_REWARD_LOOTBOX_PCL249_BLACK_FRIDAY_2026_TITLE_QUOTES"
+msgstr "„Schwarzer Motor“"
+
+msgid "IDS_REWARD_LOOTBOX_PCL250_BLACK_FRIDAY_2026_PREM_SLOT_0_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL250_BLACK_FRIDAY_2026_PREM_SLOT_0_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL250_BLACK_FRIDAY_2026_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Blendendes Stufe-IX-Schiff"
+
+msgid "IDS_REWARD_LOOTBOX_PCL250_BLACK_FRIDAY_2026_PREM_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Stufe IX"
+
+msgid "IDS_REWARD_LOOTBOX_PCL250_BLACK_FRIDAY_2026_PREM_SLOT_1_COMMON_GROUP_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL250_BLACK_FRIDAY_2026_PREM_SLOT_1_TITLE_FULL"
+msgstr "Schwarzes Schiff"
+
+msgid "IDS_REWARD_LOOTBOX_PCL250_BLACK_FRIDAY_2026_PREM_SLOT_1_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr "Schiff der Stufe VIII–X"
+
+msgid "IDS_REWARD_LOOTBOX_PCL250_BLACK_FRIDAY_2026_PREM_SLOT_1_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr "Stufe VIII–X"
+
+msgid "IDS_REWARD_LOOTBOX_PCL250_BLACK_FRIDAY_2026_PREM_SLOT_1_VALUABLE_GROUP_2_TITLE_FULL"
+msgstr "Schiff der Stufe VI–VIII"
+
+msgid "IDS_REWARD_LOOTBOX_PCL250_BLACK_FRIDAY_2026_PREM_SLOT_1_VALUABLE_GROUP_2_TITLE_SHORT"
+msgstr "Stufe VI–VIII"
+
+msgid "IDS_REWARD_LOOTBOX_PCL250_BLACK_FRIDAY_2026_PREM_TITLE"
+msgstr "Weißer Motor"
+
+msgid "IDS_REWARD_LOOTBOX_PCL250_BLACK_FRIDAY_2026_PREM_TITLE_QUOTES"
+msgstr "„Weißer Motor“"
 
 msgid "IDS_REWARD_MAP_UNLOCK_DESCRIPTION"
 msgstr "Zugang zur Karte „Letzter Hafen“ in Gefechten."
@@ -135598,6 +136973,15 @@ msgstr "Begegnungsgefecht, Turnier"
 msgid "IDS_SCENARIO_RANK_STANDART"
 msgstr "Standardgefecht, Turnier"
 
+msgid "IDS_SCENARIO_RARE_BEAST_NE1"
+msgstr "Ernste Ermittlungen"
+
+msgid "IDS_SCENARIO_RARE_BEAST_NE2"
+msgstr "Ernste Ermittlungen"
+
+msgid "IDS_SCENARIO_RARE_BEAST_NE3"
+msgstr "Ernste Ermittlungen"
+
 msgid "IDS_SCENARIO_SINGLE_BASE"
 msgstr "Begegnungsgefecht"
 
@@ -136022,6 +137406,9 @@ msgstr "Leuchtende Sterne"
 
 msgid "IDS_SECOND_PCZA027_TFTM_108_NAME"
 msgstr "Decepticon-Kapitäne"
+
+msgid "IDS_SECOND_PCZA042_RARE_BEAST_BF26_NAME"
+msgstr "Nachtraben"
 
 msgid "IDS_SECOND_SCARLET_BIRTHDAY_2_NAME"
 msgstr "Boten des Fortschritts"
@@ -138346,6 +139733,12 @@ msgstr "Manövrierbarkeit"
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM302_SUBEVENT26_GTBUFFS"
 msgstr "Drehgeschwindigkeit der Torpedowerfer"
 
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM316_RAREBEAST_RESP_BUFF"
+msgstr "Zusätzliche Verstärkung"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM326_RAREBEAST_8LVL_BUFF"
+msgstr "Eigenschaftsverstärkung"
+
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM403_2026WT_VODYANOI_SPEEDDEBUFF"
 msgstr "Bittere Kälte"
 
@@ -138774,6 +140167,12 @@ msgstr "Verstärkung der Torpedobewaffnung"
 
 msgid "IDS_SHIP_MODIFIER_PXOM302_SUBEVENT26_GTBUFFS_APPLIED"
 msgstr "Drehgeschwindigkeit der Torpedowerfer"
+
+msgid "IDS_SHIP_MODIFIER_PXOM316_RAREBEAST_RESP_BUFF_APPLIED"
+msgstr "Zusätzliche Verstärkung"
+
+msgid "IDS_SHIP_MODIFIER_PXOM326_RAREBEAST_8LVL_BUFF_APPLIED"
+msgstr "Eigenschaftsverstärkung"
 
 msgid "IDS_SHIP_MODIFIER_PXY534_PXOM233_SLOWDOWN_WT_APPLIED"
 msgstr "Verlangsamende Granaten angewendet"
@@ -139318,6 +140717,9 @@ msgstr "Drehgeschwindigkeit der Haupttürme"
 msgid "IDS_SHIP_PARAM_ARTILLERY_SHOOT_DIST"
 msgstr "Feuerreichweite AP/HE"
 
+msgid "IDS_SHIP_PARAM_ARTILLERY_SIGMA"
+msgstr "Streuung"
+
 msgid "IDS_SHIP_PARAM_ARTILLERY_TIME_RELOAD"
 msgstr "Ladezeit der Hauptbatterie"
 
@@ -139825,6 +141227,9 @@ msgstr "Alle Schiffssysteme arbeiten normal"
 msgid "IDS_SHIP_PARAM_NUM_PLANES_IN_SQUADRON"
 msgstr "Flugzeuge je Staffel"
 
+msgid "IDS_SHIP_PARAM_OVERMATCH_ARMOR"
+msgstr "Durchschlägt Panzerung ohne Möglichkeit eines Abprallers"
+
 msgid "IDS_SHIP_PARAM_PINGER"
 msgstr "Sonar"
 
@@ -139872,6 +141277,15 @@ msgstr "Torpedoschutz-Schadensverringerung"
 
 msgid "IDS_SHIP_PARAM_PTZFLOODPROB"
 msgstr "Torpedoschutz. Geringeres Wassereinbruchsrisiko"
+
+msgid "IDS_SHIP_PARAM_REGENERATED_HP_PART_CITADEL"
+msgstr "Trefferpunkte, die bei Schaden an der Zitadelle wiederhergestellt werden können"
+
+msgid "IDS_SHIP_PARAM_REGENERATED_HP_PART_GENERAL"
+msgstr "Trefferpunkte, die bei Schaden an einem Schiffsteil wiederhergestellt werden können"
+
+msgid "IDS_SHIP_PARAM_RICOCHET_ANGLES"
+msgstr "Wahrscheinlichkeit eines Abprallers / Garantierter Abpraller"
 
 msgid "IDS_SHIP_PARAM_ROTATION_SPEED"
 msgstr "Drehgeschwindigkeit"
@@ -140248,6 +141662,16 @@ msgstr "Torpedowerfer: Buggruppe"
 msgid "IDS_SHIP_PARAM_TORPEDO_GUNS_GROUP_SIDE"
 msgstr "Torpedowerfer: Seitengruppe"
 
+msgid "IDS_SHIP_PARAM_TORPEDO_GUNS_GROUP_SIDE_LEFT"
+msgstr ""
+"Torpedowerfer:\n"
+"linke Seitengruppe"
+
+msgid "IDS_SHIP_PARAM_TORPEDO_GUNS_GROUP_SIDE_RIGHT"
+msgstr ""
+"Torpedowerfer:\n"
+"rechte Seitengruppe"
+
 msgid "IDS_SHIP_PARAM_TORPEDO_GUNS_GROUP_STERN"
 msgstr "Torpedowerfer: Heckgruppe"
 
@@ -140277,6 +141701,9 @@ msgstr "Torpedos"
 
 msgid "IDS_SHIP_PARAM_TORPEDY_DEAD"
 msgstr "Torpedowerfer zerstört"
+
+msgid "IDS_SHIP_PARAM_TORPEDY_GROUP"
+msgstr "Torpedogruppen"
 
 msgid "IDS_SHIP_PARAM_TURNINGRADIUS"
 msgstr "Wendekreisradius"
@@ -140363,7 +141790,7 @@ msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_FROM_DEPTH_INVULNERABLE"
 msgstr "Auf Maximaltiefe"
 
 msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_FROM_DEPTH_PERISCOPE"
-msgstr "Auf Periskoptiefe"
+msgstr "Erkennbarkeit auf Periskoptiefe"
 
 msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_FROM_DEPTH_WORKING"
 msgstr "Aus Einsatztiefe"
@@ -141825,6 +143252,9 @@ msgstr "Springbomber"
 msgid "IDS_SKIPBOMBER_AIRSUP"
 msgstr "Luftschläge: Springbomber"
 
+msgid "IDS_SKIPBOMBER_ALT"
+msgstr "Taktische Springbomber"
+
 msgid "IDS_SKIPBOMBS"
 msgstr "Springbomben"
 
@@ -142043,6 +143473,9 @@ msgstr "Verdiente Belohnungen"
 
 msgid "IDS_SNOWFLAKES_UNINSTALL_ALL"
 msgstr "Alle abwählen"
+
+msgid "IDS_SNOWMAIDEN"
+msgstr "Snegurotschka"
 
 msgid "IDS_SOLD_FOR"
 msgstr "Verkauft für:"
@@ -142329,10 +143762,13 @@ msgid "IDS_SOUND_MOD_COSMOAPRIL_2026_CONSTANTINE_SHARP"
 msgstr "Konstantin Scharp"
 
 msgid "IDS_SOUND_MOD_COSMOAPRIL_2026_JASON_TUMANOFF"
-msgstr "Yazon Tumanoff"
+msgstr "Jason Tumanoff"
 
 msgid "IDS_SOUND_MOD_COSMOAPRIL_2026_SPACE_CURATOR"
 msgstr "Kurator"
+
+msgid "IDS_SOUND_MOD_CROWS"
+msgstr "Krähenschwarm"
 
 msgid "IDS_SOUND_MOD_DASHA_SINGLE"
 msgstr "Dascha Perova"
@@ -143202,6 +144638,12 @@ msgstr "Insel Bujan"
 msgid "IDS_SPACES/E17_2026_LUKOMORYE_DESCR"
 msgstr "Insel Bujan"
 
+msgid "IDS_SPACES/E18_RAREBEAST_2026"
+msgstr "Illegale Gewässer"
+
+msgid "IDS_SPACES/E18_RAREBEAST_2026_DESCR"
+msgstr "Illegale Gewässer"
+
 msgid "IDS_SPACES/I01_TUTORIAL"
 msgstr "Richtlinie"
 
@@ -143357,6 +144799,45 @@ msgstr "Vernichten Sie Gegner, um ein verbündetes Super-Schlachtschiff herbeizu
 
 msgid "IDS_SPACE_EVENT_DESCRIPTION"
 msgstr "Zerstören Sie die gegnerische Basis, indem Sie den Super-Schlachtschiff Beowulf herbeirufen."
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_DESCRIPTION"
+msgstr "Falls Sie zerstört wurden, können Sie ins Gefecht zurückkehren, indem Sie einen Respawn-Punkt und ein Schiff wählen. Dabei sind einige Schiffe nur mit Respawn-Punkten verfügbar, die Sie im Gefecht verdient haben. Nicht genutzte Punkte verfallen am Ende des Gefechts."
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_RULE_0"
+msgstr "Durchschuss durch Hauptbatteriegranate"
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_RULE_1"
+msgstr "Treffer durch Sekundärbatteriegranate"
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_RULE_2"
+msgstr "Beschädigung des Energieschilds"
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_RULE_3"
+msgstr "Treffer durch zielsuchende Rakete"
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_RULE_4"
+msgstr "Durchschlag durch Hauptbatteriegeschoss"
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_RULE_5"
+msgstr "5000 Einheiten Schaden verursachen"
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_RULE_6"
+msgstr "Nebel setzen, Feuer auf sich ziehen, Gegner aufklären, Raketen abschießen"
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_RULE_7"
+msgstr "Treffer mit einer gelenkten Rakete"
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_RULE_8"
+msgstr "Treffer an der Zitadelle"
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_RULE_9"
+msgstr "Gegner zerstören"
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_SCORE"
+msgstr "Verdiente Punkte"
+
+msgid "IDS_SPACE_EVENT_POINTS_FOR_RESURRECTION_TITLE"
+msgstr "Respawn-Punkte"
 
 msgid "IDS_SPACE_EVENT_RULES_BULLET_1"
 msgstr "In ferner Zukunft wurde auf der Erdoberfläche ein Riss zwischen den Welten entdeckt, der die gesamte Zivilisation gefährdete. Um die Anomalie zu erforschen und zu zerstören, wurden Spezialeinheiten aus den besten Kapitänen des Planeten gebildet."
@@ -143792,6 +145273,15 @@ msgstr "spielen Sie 1 Gefecht"
 
 msgid "IDS_SSE_CONDITIONS_DEFAULT_HEADER"
 msgstr "begeben Sie sich in ein Gefecht"
+
+msgid "IDS_SSE_CONDITIONS_DESTROY_OR_ASSIST_SHIPS"
+msgstr "zerstören Sie %(count)s %(shipClass)s %(nation)s%(level)s oder tragen Sie zu ihrer Zerstörung bei"
+
+msgid "IDS_SSE_CONDITIONS_DESTROY_OR_ASSIST_SPECIFIC_SHIPS"
+msgstr "zerstören Sie %(count)s %(shipClass)s %(shipIds)s oder tragen Sie zu ihrer Zerstörung bei"
+
+msgid "IDS_SSE_CONDITIONS_DESTROY_OR_ASSIST_SPECIFIC_SHIPS_SHORT"
+msgstr "zerstören Sie %(shipIds)s oder tragen Sie zu ihrer Zerstörung bei"
 
 msgid "IDS_SSE_CONDITIONS_DESTROY_SHIPS"
 msgstr "zerstören Sie %(count)s %(shipClass)s %(nation)s%(level)s"
@@ -145423,6 +146913,27 @@ msgstr "Neue Zugangsstufe freigeschaltet"
 msgid "IDS_SYS_MSG_ADMIN_TEXT_MESSAGE"
 msgstr "Administratornachricht"
 
+msgid "IDS_SYS_MSG_ALBUM_EVENT_ALBUM_REWARDED"
+msgstr "Fall geschlossen"
+
+msgid "IDS_SYS_MSG_ALBUM_EVENT_BATTLE_REWARDS"
+msgstr "Belohnungen erhalten"
+
+msgid "IDS_SYS_MSG_ALBUM_EVENT_BOUGHT_CARD"
+msgstr "Verbrecher gefangen"
+
+msgid "IDS_SYS_MSG_ALBUM_EVENT_DUPLICATES_TITLE"
+msgstr "Beweise"
+
+msgid "IDS_SYS_MSG_ALBUM_EVENT_RECEIVED_ALBUM"
+msgstr "Fall eröffnet"
+
+msgid "IDS_SYS_MSG_ALBUM_EVENT_RECEIVED_CARD"
+msgstr "Verbrecher gefangen"
+
+msgid "IDS_SYS_MSG_ALBUM_EVENT_SUBALBUM_REWARDED"
+msgstr "Alle Mitglieder der Bande gefangen"
+
 msgid "IDS_SYS_MSG_ALBUM_REWARDED"
 msgstr "Sammlung komplett"
 
@@ -145601,7 +147112,7 @@ msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_2"
 msgstr "Reisender-Marken gekauft"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_3"
-msgstr "Amerikanische Marken gekauft"
+msgstr "Cybermarken gekauft"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_4"
 msgstr "Altrussische Marken gekauft"
@@ -145613,7 +147124,7 @@ msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_6"
 msgstr "Koschtscheis Slatniki gekauft"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_7"
-msgstr "Deutsche Marken gekauft"
+msgstr "Black-Friday-Marken gekauft"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_8"
 msgstr "Scharlachrote Edelsteine gekauft"
@@ -146165,7 +147676,7 @@ msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_2"
 msgstr "Reisendenmarken erhalten"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_3"
-msgstr "Amerikanische Marken erhalten"
+msgstr "Cybermarken erhalten"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_4"
 msgstr "Altrussische Marken erhalten"
@@ -146177,7 +147688,7 @@ msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_6"
 msgstr "Koschtscheis Goldmünzen erhalten"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_7"
-msgstr "Deutsche Marken erhalten"
+msgstr "Black-Friday-Marken erhalten"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_8"
 msgstr "Scharlachrote Edelsteine erhalten"
@@ -146656,7 +148167,7 @@ msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_2"
 msgstr "Reisendenmarken entfernt"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_3"
-msgstr "Amerikanische Marken entfernt"
+msgstr "Cybermarken entfernt"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_4"
 msgstr "Altrussische Marken entfernt"
@@ -146668,7 +148179,7 @@ msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_6"
 msgstr "Koschtschei-Goldmarken entfernt"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_7"
-msgstr "Deutsche Marken entfernt"
+msgstr "Black-Friday-Marken entfernt"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_8"
 msgstr "Scharlachrote Edelsteine entfernt"
@@ -146774,6 +148285,9 @@ msgstr "Stahl entfernt"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_UC"
 msgstr "Modul entfernt"
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_UNLOCK"
+msgstr "Möglichkeit entfernt"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_WAFFENTRAGER_ACTIVATION_KEY"
 msgstr "Aktivierungsschlüssel entfernt"
@@ -147905,6 +149419,9 @@ msgstr "Höhepunkt einer neuen Ära"
 
 msgid "IDS_THIRD_PCZA027_TFTM_108_NAME"
 msgstr "Autobots: Geschichte im Spiel"
+
+msgid "IDS_THIRD_PCZA042_RARE_BEAST_BF26_NAME"
+msgstr "Weiße Haie"
 
 msgid "IDS_THIRD_SCARLET_BIRTHDAY_2_NAME"
 msgstr "Wissenschaft ohne Grenzen"
@@ -149090,6 +150607,9 @@ msgstr "Unzureichende Zugangsstufe"
 msgid "IDS_TOOLTIP_ACCOUNT_TYPE"
 msgstr "Ihr Konto"
 
+msgid "IDS_TOOLTIP_ADD_FOR_COMPARISON"
+msgstr "Schiff zum Vergleich hinzufügen"
+
 msgid "IDS_TOOLTIP_AIR_DEFENSE"
 msgstr "Dieser Parameter spiegelt die Effektivität der Schiffsverteidigung gegen Flugzeugangriffe wider"
 
@@ -149375,6 +150895,9 @@ msgstr "Ortung"
 msgid "IDS_TOOLTIP_DRAFT"
 msgstr "Schiffe mit großem Tiefgang laufen Gefahr, auf Grund zu laufen."
 
+msgid "IDS_TOOLTIP_DUPLICATE_COMPARISON_SHIP"
+msgstr "Schiff duplizieren"
+
 msgid "IDS_TOOLTIP_DURABILITY"
 msgstr "Dieser Parameter spiegelt die Fähigkeit des Schiffes wider, künstlich geschaffener rauer Umgebung zu widerstehen"
 
@@ -149453,6 +150976,9 @@ msgstr "Flugzeugtypen und Anzahl"
 msgid "IDS_TOOLTIP_MAIN_GUN"
 msgstr "Hauptbatteriegeschütze"
 
+msgid "IDS_TOOLTIP_MAKE_SHIP_PRIMARY"
+msgstr "Andere Schiffe mit diesem vergleichen"
+
 msgid "IDS_TOOLTIP_MAXSPEED"
 msgstr "Maximale Vorwärtsgeschwindigkeit des Schiffs"
 
@@ -149490,6 +151016,9 @@ msgstr "Zur Erforschung eines Schiffs oder Moduls können Sie freie EP und EP de
 
 msgid "IDS_TOOLTIP_NUM_PLANES_IN_SQUADRON"
 msgstr "Flugzeuge je Staffel"
+
+msgid "IDS_TOOLTIP_OPEN_COMPARISON_PANEL"
+msgstr "Die Liste der Schiffe zum Vergleich öffnen"
 
 msgid "IDS_TOOLTIP_OUR_PARTNERS_LOGIN"
 msgstr "Rechtliche Informationen anzeigen"
@@ -149560,6 +151089,9 @@ msgstr "Rang: %(_rank)s, Silberliga"
 msgid "IDS_TOOLTIP_RANKED_RANK_X_LEAGUE_3"
 msgstr "Rang: %(_rank)s, Bronzeliga"
 
+msgid "IDS_TOOLTIP_REMOVE_FROM_COMPARISON"
+msgstr "Aus der Vergleichsliste entfernen"
+
 msgid "IDS_TOOLTIP_RENT_SHIP"
 msgstr "Dieses Schiff ist gemietet und wird nach Ablauf des folgenden Mietzeitraums entfernt:"
 
@@ -149601,6 +151133,9 @@ msgstr "Der Gruppe hinzugefügt"
 
 msgid "IDS_TOOLTIP_SHIP_IN_GROUP_DESCRIPTION"
 msgstr "Hauptschiffe werden im Karussell zuerst angezeigt"
+
+msgid "IDS_TOOLTIP_SHIP_LIMIT"
+msgstr "Die maximale Anzahl an Schiffen zum Vergleich wurde hinzugefügt"
 
 msgid "IDS_TOOLTIP_SHIP_MODULES_DESC"
 msgstr "Verbessern Sie die Parameter des Schiffs und erreichen Sie die nächsten Schiffe im Forschungsbaum der Nation. Erforschen Sie Module mit auf dem Schiff verdienten EP oder mit freien EP. Kaufen Sie erforschte Module mit Silbern und bringen Sie sie am Schiff an."
@@ -149741,10 +151276,10 @@ msgid "IDS_TOOLTIP_VISIBILITY_DIST_BY_SHIP_SUBMARINE"
 msgstr "Reichweite, bei der dieses U-Boot an der Oberfläche von einem gegnerischen Schiff oder U-Boot entdeckt werden kann"
 
 msgid "IDS_TOOLTIP_VISIBILITY_DIST_FROM_DEPTH"
-msgstr "Reichweite, bei der das Schiff von einem gegnerischen U-Boot im abgetauchten Zustand entdeckt werden kann"
+msgstr "Reichweite, bei der das Schiff von einem gegnerischen U-Boot auf Periskoptiefe entdeckt werden kann."
 
 msgid "IDS_TOOLTIP_VISIBILITY_DIST_FROM_DEPTH_SUBMARINE"
-msgstr "Reichweite, bei der dieses U-Boot von einem gegnerischen U-Boot im abgetauchten Zustand entdeckt werden kann"
+msgstr "Reichweite, bei der dieses U-Boot von einem gegnerischen U-Boot auf Periskoptiefe entdeckt werden kann."
 
 msgid "IDS_TOOLTIP_WAIT_FOR_STARTTIME"
 msgstr "Diese Aufgabe ist verfügbar ab %(timeDate)s"
@@ -149877,6 +151412,9 @@ msgstr "Torpedobomber"
 
 msgid "IDS_TORPEDOBOMBER_AIRSUP"
 msgstr "Luftschläge: Torpedobomber"
+
+msgid "IDS_TORPEDOBOMBER_ALT"
+msgstr "Taktische Torpedobomber"
 
 msgid "IDS_TORPEDOES"
 msgstr "Torpedos"
@@ -151157,8 +152695,14 @@ msgstr "Schiffsverbrauchsmaterial geändert"
 msgid "IDS_UNIFIED_BATTLE_OPTION_HAS_BATTLE_MODIFIERS"
 msgstr "Schiffseigenschaften wurden verändert"
 
+msgid "IDS_UNINSTALL_ALL_CREW_SKILLS"
+msgstr "Alle entfernen"
+
 msgid "IDS_UNINSTALL_ALL_ECONOMIC_BOOSTS_HINT"
 msgstr "Alle auf diesem Schiff angebrachten Boni entfernen"
+
+msgid "IDS_UNINSTALL_ALL_MODERNIZATIONS"
+msgstr "Alle entfernen"
 
 msgid "IDS_UNINSTALL_ALL_SIGNALS"
 msgstr "Alle entfernen"
@@ -151256,11 +152800,17 @@ msgstr "Schließen Sie storybasierte Aufgaben im Team ab, während Sie gegen Bot
 msgid "IDS_UNLOCKS_2827"
 msgstr "Treten Sie einem Clan bei und kämpfen Sie gemeinsam als Team!"
 
+msgid "IDS_UNLOCKS_292101"
+msgstr "Kämpfen Sie gemeinsam mit anderen Spielern gegen Bots."
+
 msgid "IDS_UNLOCKS_3"
 msgstr "Kämpfen Sie gegen reale Spieler."
 
 msgid "IDS_UNLOCKS_301600"
 msgstr "Treten Sie gegen andere Spieler an, steigen Sie in den Ligen auf und erhalten Sie wertvolle Belohnungen!"
+
+msgid "IDS_UNLOCKS_3109"
+msgstr "Schließen Sie Kampfaufträge ab und erhalten Sie wertvolle Belohnungen."
 
 msgid "IDS_UNLOCKS_31292101"
 msgstr "Kämpfen Sie gemeinsam mit anderen Spielern gegen Bots."
@@ -151310,11 +152860,17 @@ msgstr "<p>In Operationen muss Ihr Team verschiedene Aufgaben erfüllen, währen
 msgid "IDS_UNLOCKS_DESCRIPTION_2827"
 msgstr "<p>Treten Sie einem Clan bei, um an Clan-Gefechten teilzunehmen.</p><p class=\"p_spacing\"> </p><p>Clan-Gefechte sind nur während einer Clan-Saison verfügbar.</p><p class=\"p_spacing\"> </p><p>Siegen Sie in Clan-Gefechten und verdienen Sie Ranglistenpunkte, um in Gruppen und Ligen aufzusteigen.</p><p class=\"p_spacing\"> </p><p>Verdienen Sie Öl und entwickeln Sie die Flottenbasis. Dies erhöht die permanenten wirtschaftlichen Boni.</p><p class=\"p_spacing\"> </p><p>Erstellen Sie Trainingsräume und nehmen Sie an Trainingsgefechten teil, um Ihre Teamfähigkeiten zu verbessern.</p><p class=\"p_spacing\"> </p><p>Clan- und Trainingsgefechte sind auf dem Bildschirm zur Auswahl des Gefechtstyps verfügbar.</p>"
 
+msgid "IDS_UNLOCKS_DESCRIPTION_292101"
+msgstr "<p>Kämpfen Sie gemeinsam mit anderen Spielern gegen Bots.</p><p class=\"p_spacing\"> </p><p>Die Auswahl des Gefechtstyps befindet sich neben dem Button „In das Gefecht!“.</p>"
+
 msgid "IDS_UNLOCKS_DESCRIPTION_3"
 msgstr "<p>Kämpfen Sie gegen echte Spieler. Die Teamzusammensetzungen werden zufällig ausgewählt.</p><p class=\"p_spacing\"> </p><p>Die Auswahl des Gefechtstyps befindet sich neben dem Button „In das Gefecht!“.</p>"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_301600"
 msgstr "<p>Diese Gefechtstypen sind nicht dauerhaft verfügbar, sondern nur während bestimmter Saisons. Jede Saison ist ein Wettbewerb, bei dem das Ergebnis jedes Gefechts Ihren Fortschritt beeinflusst. Je höher Ihr Rang, desto wertvoller die Belohnungen!</p><p class=\"p_spacing\"> </p><p class=\"p_spacing\"> </p><p class=\"p_heading\">Gewertete Gefechte</p><p class=\"p_spacing\"> </p><p>In Gewerteten Gefechten treten Sie gegen andere Spieler um Ränge an. Um den nächsten Rang zu erhalten, müssen Sie eine bestimmte Anzahl von Siegen erringen. Bei einer Niederlage können Sie einen Rang verlieren!</p><p class=\"p_spacing\"> </p><p class=\"p_spacing\"> </p><p class=\"p_heading\">Rating-Gefechte</p><p class=\"p_spacing\"> </p><p>In Rating-Gefechten werden Gegner und Verbündete basierend auf dem Gefechtseffizienz-Rating ausgewählt. Das Rating wird nach jedem Gefecht je nach Ergebnis und erhaltener Netto-EP angepasst.</p>"
+
+msgid "IDS_UNLOCKS_DESCRIPTION_3109"
+msgstr "<p>Erfüllen Sie Kampfaufträge und erhalten Sie wertvolle Belohnungen.</p><p class=\"p_spacing\"> </p><p>Um eine Liste der verfügbaren Aufträge zu sehen, wechseln Sie zum Bereich „Aktivitäten“ und dann zu „Kampfaufträge“.</p>"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_31292101"
 msgstr "<p>Kämpfen Sie gemeinsam mit anderen Spielern gegen Bots.</p><p class=\"p_spacing\"> </p><p>Die Auswahl des Gefechtstyps befindet sich neben dem Button „In das Gefecht!“.</p>"
@@ -151364,11 +152920,17 @@ msgstr "<body>Freigeschaltet:<br/><h3>Unternehmen</h3></body>"
 msgid "IDS_UNLOCKS_LEVEL_UP_2827"
 msgstr "<body>Freigeschaltet:<br/><h3>Clan-Gefechte</h3></body>"
 
+msgid "IDS_UNLOCKS_LEVEL_UP_292101"
+msgstr "Sie haben freigeschaltet<br/><h3>Co-op-Gefechte</h3>"
+
 msgid "IDS_UNLOCKS_LEVEL_UP_3"
 msgstr "<body>Freigeschaltet:<br/><h3>Zufallsgefechte</h3></body>"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_301600"
 msgstr "<body>Euch sind nun<br/><h3>Rang- und Rating-Gefechte</h3></body>"
+
+msgid "IDS_UNLOCKS_LEVEL_UP_3109"
+msgstr "<body>Freigeschaltet:<br/><h3>Kampfaufträge</h3></body>"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_31292101"
 msgstr "Sie haben freigeschaltet<br/><h3>Kooperative Gefechte</h3>"
@@ -151418,11 +152980,17 @@ msgstr "Unternehmen"
 msgid "IDS_UNLOCKS_TITLE_2827"
 msgstr "Clangefechte"
 
+msgid "IDS_UNLOCKS_TITLE_292101"
+msgstr "Co-op-Gefechte"
+
 msgid "IDS_UNLOCKS_TITLE_3"
 msgstr "Zufallsgefechte"
 
 msgid "IDS_UNLOCKS_TITLE_301600"
 msgstr "Gewertete und Rating-Gefechte"
+
+msgid "IDS_UNLOCKS_TITLE_3109"
+msgstr "Kampfaufträge"
 
 msgid "IDS_UNLOCKS_TITLE_31292101"
 msgstr "Co-op-Gefechte"
@@ -151469,6 +153037,9 @@ msgstr "Verbesserungen ausbauen"
 msgid "IDS_UNMOUNT_MODERNIZATION_FROM_SELECTED"
 msgstr "Gewählte Verbesserung ausbauen vom"
 
+msgid "IDS_UNMOUNT_MODERNIZATION_MOUSE_INSTRUCTION"
+msgstr "Verbesserung ausbauen"
+
 msgid "IDS_UNMUTE"
 msgstr "Nachrichten aktivieren"
 
@@ -151507,6 +153078,12 @@ msgstr "Verbesserte Fertigkeitspunkte für Zerstörer:"
 
 msgid "IDS_UPGRADED_SKILLS_COUNT_FOR_SUBMARINE"
 msgstr "Verbesserte Fertigkeitspunkte für U-Boote:"
+
+msgid "IDS_UPGRADE_FROM_COMPARISON"
+msgstr "Konfigurationen anwenden"
+
+msgid "IDS_UPGRADE_FROM_COMPARISON_BUTTON_TEXT"
+msgstr "Schiff konfigurieren"
 
 msgid "IDS_US"
 msgstr "Nordamerika"
@@ -152331,6 +153908,9 @@ msgstr "Fenster"
 
 msgid "IDS_WINDOW_HEADER_ATTENTION"
 msgstr "WARNUNG"
+
+msgid "IDS_WINDOW_HEADER_COMPARISON_INCOMPARABLE_CONFIRMATION"
+msgstr "UNVERGLEICHLICHES SCHIFF"
 
 msgid "IDS_WINDOW_HEADER_CONFIRMATION"
 msgstr "BESTÄTIGUNG"
@@ -153439,6 +155019,11 @@ msgid_plural "IDS_BATTLE_STATS_COUNT_PLANE_KILLED"
 msgstr[0] "Flugzeug zerstört"
 msgstr[1] "Flugzeuge zerstört"
 
+msgid "IDS_COLLECTION_ALBUM_EVENT_EXCHANGE_FOR_DUPLICATES_QUESTION"
+msgid_plural "IDS_COLLECTION_ALBUM_EVENT_EXCHANGE_FOR_DUPLICATES_QUESTION"
+msgstr[0] "Aufgrund von %(amount)s Beweis festnehmen?"
+msgstr[1] "Aufgrund von %(amount)s Beweisen festnehmen?"
+
 msgid "IDS_COLLECTION_EXCHANGE_FOR_DUPLICATES_QUESTION"
 msgid_plural "IDS_COLLECTION_EXCHANGE_FOR_DUPLICATES_QUESTION"
 msgstr[0] "Für %(amount)s Duplikat erhalten?"
@@ -153573,6 +155158,11 @@ msgid "IDS_PL_AIR_FLIGHT"
 msgid_plural "IDS_PL_AIR_FLIGHT"
 msgstr[0] "Fluggruppe"
 msgstr[1] "Fluggruppen"
+
+msgid "IDS_PL_ALBUM_EVENT_PROGRESS_ITEM"
+msgid_plural "IDS_PL_ALBUM_EVENT_PROGRESS_ITEM"
+msgstr[0] "Verbrecher"
+msgstr[1] "Verbrecher"
 
 msgid "IDS_PL_ALMANAC_WINDOW_DEFAULT_TIME_STATUS"
 msgid_plural "IDS_PL_ALMANAC_WINDOW_DEFAULT_TIME_STATUS"
@@ -154073,6 +155663,11 @@ msgid "IDS_PL_SSE_CONDITIONS_COMPLETE_TASK"
 msgid_plural "IDS_PL_SSE_CONDITIONS_COMPLETE_TASK"
 msgstr[0] "schließen Sie %(count)s Aufgabe vom Typ %(typeName)s ab"
 msgstr[1] "schließen Sie %(count)s Aufgaben vom Typ %(typeName)s ab"
+
+msgid "IDS_PL_SSE_CONDITIONS_DESTROY_OR_ASSIST_SHIPS_SHORT"
+msgid_plural "IDS_PL_SSE_CONDITIONS_DESTROY_OR_ASSIST_SHIPS_SHORT"
+msgstr[0] "zerstören Sie ein Kriegsschiff oder tragen Sie zu seiner Zerstörung bei"
+msgstr[1] "zerstören Sie Kriegsschiffe oder tragen Sie zu ihrer Zerstörung bei"
 
 msgid "IDS_PL_SSE_CONDITIONS_DESTROY_SHIPS_SHORT"
 msgid_plural "IDS_PL_SSE_CONDITIONS_DESTROY_SHIPS_SHORT"
